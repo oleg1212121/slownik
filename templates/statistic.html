@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+{% block title %}Index{% endblock %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+{% block content %}
+<h1>STATISTIC</h1>
+<hr>
+{%for k, v in stat.items()%}
+{{ k }} - {{ v }} <br>
+{%endfor%}
+{% endblock %}
+{#{% block styles %}#}
+{#<script type="text/javascript">#}
+{##}
+{#    function learn(e, url){#}
+{#        let xhr = new XMLHttpRequest();#}
+{#        xhr.open('GET', url);#}
+{#        xhr.send();#}
+{#        xhr.onload = function() {#}
+{#            e.target.closest('.learn').remove();#}
+{#        };#}
+{#        xhr.onerror = function() {#}
+{#          alert("Запрос не удался");#}
+{#        };#}
+{#    }#}
+{##}
+{##}
+{#</script>#}
+{#<style type="text/css">#}
+{#    .learn > span {#}
+{#        color: blue;#}
+{#        text-decoration: underline;#}
+{#    }#}
+{#    .learn > span:hover {#}
+{#        cursor:pointer;#}
+{#        color: grey;#}
+{#        text-decoration: underline red;#}
+{#    }#}
+{#</style>#}
+{#{% endblock %}#}

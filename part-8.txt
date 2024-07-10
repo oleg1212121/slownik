@@ -1,0 +1,1130 @@
+дерево                              |||drzewo (n)                                   |||
+лиственное                          |||liściaste                                    |||
+хвойное                             |||iglaste                                      |||
+вечнозеленое                        |||wiecznie zielony                             |||
+яблоня                              |||jabłoń (f)                                   |||
+груша                               |||grusza (f)                                   |||
+черешня                             |||czereśnia (f)                                |||
+вишня                               |||wiśnia (f)                                   |||
+слива                               |||śliwa (f)                                    |||
+берёза                              |||brzoza (f)                                   |||
+дуб                                 |||dąb (m)                                      |||
+липа                                |||lipa (f)                                     |||
+осина                               |||osika (f)                                    |||
+клён                                |||klon (m)                                     |||
+ель                                 |||świerk (m)                                   |||
+сосна                               |||sosna (f)                                    |||
+лиственница                         |||modrzew (m)                                  |||
+пихта                               |||jodła (f)                                    |||
+кедр                                |||cedr (m)                                     |||
+тополь                              |||topola (f)                                   |||
+рябина                              |||jarzębina (f)                                |||
+ива                                 |||wierzba iwa (f)                              |||
+ольха                               |||olcha (f)                                    |||
+бук                                 |||buk (m)                                      |||
+вяз                                 |||wiąz (m)                                     |||
+ясень                               |||jesion (m)                                   |||
+каштан                              |||kasztan (m)                                  |||
+магнолия                            |||magnolia (f)                                 |||
+пальма                              |||palma (f)                                    |||
+кипарис                             |||cyprys (m)                                   |||
+мангровое дерево                    |||drzewo (n) mangrowe                          |||
+баобаб                              |||baobab (m)                                   |||
+эвкалипт                            |||eukaliptus (m)                               |||
+секвойя                             |||sekwoja (f)                                  |||
+куст                                |||krzew (m)                                    |||
+кустарник                           |||krzaki (pl)                                  |||
+виноград                            |||winorośl (f)                                 |||
+виноградник                         |||winnica (f)                                  |||
+малина                              |||malina (f)                                   |||
+красная смородина                   |||porzeczka (f) czerwona                       |||
+крыжовник                           |||agrest (m)                                   |||
+акация                              |||akacja (f)                                   |||
+барбарис                            |||berberys (m)                                 |||
+жасмин                              |||jaśmin (m)                                   |||
+можжевельник                        |||jałowiec (m)                                 |||
+розовый куст                        |||róża (f)                                     |||
+шиповник                            |||dzika róża (f)                               |||
+гриб                                |||grzyb (m)                                    |||
+съедобный гриб                      |||grzyb (m) jadalny                            |||
+ядовитый гриб                       |||grzyb (m) trujący                            |||
+шляпка (гриба)                      |||kapelusz (m)                                 |||
+ножка (гриба)                       |||nóżka (f)                                    |||
+белый гриб                          |||prawdziwek (m)                               |||
+подосиновик                         |||koźlarz (m) czerwony                         |||
+подберёзовик                        |||koźlarz (m)                                  |||
+лисичка                             |||kurka (f)                                    |||
+сыроежка                            |||gołąbek (m)                                  |||
+сморчок                             |||smardz (m)                                   |||
+мухомор                             |||muchomor (m)                                 |||
+поганка                             |||psi grzyb (m)                                |||
+фрукт, плод                         |||owoc (m)                                     |||
+фрукты, плоды                       |||owoce (pl)                                   |||
+яблоко                              |||jabłko (n)                                   |||
+груша                               |||gruszka (f)                                  |||
+слива                               |||śliwka (f)                                   |||
+клубника                            |||truskawka (f)                                |||
+вишня                               |||wiśnia (f)                                   |||
+черешня                             |||czereśnia (f)                                |||
+виноград                            |||winogrona (pl)                               |||
+малина                              |||malina (f)                                   |||
+чёрная смородина                    |||czarna porzeczka (f)                         |||
+красная смородина                   |||czerwona porzeczka (f)                       |||
+крыжовник                           |||agrest (m)                                   |||
+клюква                              |||żurawina (f)                                 |||
+апельсин                            |||pomarańcza (f)                               |||
+мандарин                            |||mandarynka (f)                               |||
+ананас                              |||ananas (f)                                   |||
+банан                               |||banan (m)                                    |||
+финик                               |||daktyl (m)                                   |||
+лимон                               |||cytryna (f)                                  |||
+абрикос                             |||morela (f)                                   |||
+персик                              |||brzoskwinia (f)                              |||
+киви                                |||kiwi (n)                                     |||
+грейпфрут                           |||grejpfrut (m)                                |||
+ягода                               |||jagoda (f)                                   |||
+ягоды                               |||jagody (pl)                                  |||
+брусника                            |||borówka (f)                                  |||
+земляника                           |||poziomka (f)                                 |||
+черника                             |||borówka (f) czarna                           |||
+цветок                              |||kwiat (m)                                    |||
+букет                               |||bukiet (m)                                   |||
+роза                                |||róża (f)                                     |||
+тюльпан                             |||tulipan (m)                                  |||
+гвоздика                            |||goździk (m)                                  |||
+гладиолус                           |||mieczyk (m)                                  |||
+василёк                             |||bławatek (m)                                 |||
+колокольчик                         |||dzwonek (m)                                  |||
+одуванчик                           |||dmuchawiec (m)                               |||
+ромашка                             |||rumianek (m)                                 |||
+алоэ                                |||aloes (m)                                    |||
+кактус                              |||kaktus (m)                                   |||
+фикус                               |||fikus (m)                                    |||
+лилия                               |||lilia (f)                                    |||
+герань                              |||pelargonia (f)                               |||
+гиацинт                             |||hiacynt (m)                                  |||
+мимоза                              |||mimoza (f)                                   |||
+нарцисс                             |||narcyz (m)                                   |||
+настурция                           |||nasturcja (f)                                |||
+орхидея                             |||orchidea (f)                                 |||
+пион                                |||piwonia (f)                                  |||
+фиалка                              |||fiołek (m)                                   |||
+анютины глазки                      |||bratek (m)                                   |||
+незабудка                           |||niezapominajka (f)                           |||
+маргаритка                          |||stokrotka (f)                                |||
+мак                                 |||mak (m)                                      |||
+конопля                             |||konopie (pl)                                 |||
+мята                                |||mięta (f)                                    |||
+ландыш                              |||konwalia (f)                                 |||
+подснежник                          |||przebiśnieg (m)                              |||
+крапива                             |||pokrzywa (f)                                 |||
+щавель                              |||szczaw (m)                                   |||
+кувшинка                            |||lilia wodna (f)                              |||
+папоротник                          |||paproć (f)                                   |||
+лишайник                            |||porost (m)                                   |||
+оранжерея                           |||szklarnia (f)                                |||
+газон                               |||trawnik (m)                                  |||
+клумба                              |||klomb (m)                                    |||
+растение                            |||roślina (f)                                  |||
+трава                               |||trawa (f)                                    |||
+травинка                            |||źdźbło (n)                                   |||
+лист (растения)                     |||liść (m)                                     |||
+лепесток                            |||płatek (m)                                   |||
+стебель                             |||łodyga (f)                                   |||
+клубень                             |||bulwa (f)                                    |||
+росток                              |||kiełek (m)                                   |||
+шип (растения)                      |||kolec (m)                                    |||
+цвести                              |||kwitnąć                                      |||
+вянуть                              |||więdnąć                                      |||
+запах                               |||zapach (m)                                   |||
+срезать                             |||ściąć                                        |||
+сорвать (цветок)                    |||zerwać                                       |||
+зерно (собират.)                    |||zboże (n)                                    |||
+зерновые растения                   |||zboża (pl)                                   |||
+колос                               |||kłos (m)                                     |||
+пшеница                             |||pszenica (f)                                 |||
+рожь                                |||żyto (n)                                     |||
+овёс                                |||owies (m)                                    |||
+просо                               |||proso (n)                                    |||
+ячмень                              |||jęczmień (m)                                 |||
+кукуруза                            |||kukurydza (f)                                |||
+рис                                 |||ryż (m)                                      |||
+гречиха                             |||gryka (f)                                    |||
+горох                               |||groch (m)                                    |||
+фасоль                              |||fasola (f)                                   |||
+соя                                 |||soja (f)                                     |||
+чечевица                            |||soczewica (f)                                |||
+бобы                                |||bób (m)                                      |||
+овощи                               |||warzywa (pl)                                 |||
+зелень                              |||włoszczyzna (f)                              |||
+помидор                             |||pomidor (m)                                  |||
+огурец                              |||ogórek (m)                                   |||
+морковь                             |||marchew (f)                                  |||
+картофель                           |||ziemniak (m), kartofel (m)                   |||
+лук (луковица)                      |||cebula (f)                                   |||
+чеснок                              |||czosnek (m)                                  |||
+капуста                             |||kapusta (f)                                  |||
+цветная капуста                     |||kalafior (m)                                 |||
+брюссельская капуста                |||brukselka (f)                                |||
+свёкла                              |||burak (m)                                    |||
+баклажан                            |||bakłażan (m)                                 |||
+кабачок                             |||kabaczek (m)                                 |||
+тыква                               |||dynia (f)                                    |||
+репа                                |||rzepa (f)                                    |||
+петрушка                            |||pietruszka (f)                               |||
+укроп                               |||koperek (m)                                  |||
+салат (латук)                       |||sałata (f)                                   |||
+сельдерей                           |||seler (m)                                    |||
+спаржа                              |||szparag (m)                                  |||
+шпинат                              |||szpinak (m)                                  |||
+горох                               |||groch (m)                                    |||
+бобы                                |||bób (m)                                      |||
+кукуруза                            |||kukurydza (f)                                |||
+фасоль                              |||fasola (f)                                   |||
+перец                               |||słodka papryka (f)                           |||
+редис                               |||rzodkiewka (f)                               |||
+артишок                             |||karczoch (m)                                 |||
+Европа                              |||Europa (f)                                   |||
+Европейский Союз                    |||Unia (f) Europejska                          |||
+европеец                            |||Europejczyk (m)                              |||
+европейский                         |||europejski                                   |||
+Австрия                             |||Austria (f)                                  |||
+австриец                            |||Austriak (m)                                 |||
+австрийка                           |||Austriaczka (f)                              |||
+австрийский                         |||austriacki                                   |||
+Великобритания                      |||Wielka Brytania (f)                          |||
+Англия                              |||Anglia (f)                                   |||
+англичанин                          |||Anglik (m)                                   |||
+англичанка                          |||Angielka (f)                                 |||
+английский                          |||angielski                                    |||
+Бельгия                             |||Belgia (f)                                   |||
+бельгиец                            |||Belg (m)                                     |||
+бельгийка                           |||Belgijka (f)                                 |||
+бельгийский                         |||belgijski                                    |||
+Германия                            |||Niemcy (pl)                                  |||
+немец                               |||Niemiec (m)                                  |||
+немка                               |||Niemka (f)                                   |||
+немецкий                            |||niemiecki                                    |||
+Нидерланды                          |||Niderlandy (pl)                              |||
+Голландия                           |||Holandia (f)                                 |||
+голландец                           |||Holender (m)                                 |||
+голландка                           |||Holenderka (f)                               |||
+голландский                         |||holenderski                                  |||
+Греция                              |||Grecja (f)                                   |||
+грек                                |||Grek (m)                                     |||
+гречанка                            |||Greczynka (f)                                |||
+греческий                           |||grecki                                       |||
+Дания                               |||Dania (f)                                    |||
+датчанин                            |||Duńczyk (m)                                  |||
+датчанка                            |||Dunka (f)                                    |||
+датский                             |||duński                                       |||
+Ирландия                            |||Irlandia (f)                                 |||
+ирландец                            |||Irlandczyk (m)                               |||
+ирландка                            |||Irlandka (f)                                 |||
+ирландский                          |||irlandzki                                    |||
+Исландия                            |||Islandia (f)                                 |||
+исландец                            |||Islandczyk (m)                               |||
+исландка                            |||Islandka (f)                                 |||
+исландский                          |||islandzki                                    |||
+Испания                             |||Hiszpania (f)                                |||
+испанец                             |||Hiszpan (m)                                  |||
+испанка                             |||Hiszpanka (f)                                |||
+испанский                           |||hiszpański                                   |||
+Италия                              |||Włochy (pl)                                  |||
+итальянец                           |||Włoch (m)                                    |||
+итальянка                           |||Włoszka (f)                                  |||
+итальянский                         |||włoski                                       |||
+Кипр                                |||Cypr (m)                                     |||
+киприот                             |||Cypryjczyk (m)                               |||
+киприотка                           |||Cypryjka (f)                                 |||
+кипрский                            |||cypryjski                                    |||
+Мальта                              |||Malta (f)                                    |||
+мальтиец                            |||Maltańczyk (m)                               |||
+мальтийка                           |||Maltanka (f)                                 |||
+мальтийский                         |||maltański                                    |||
+Норвегия                            |||Norwegia (f)                                 |||
+норвежец                            |||Norweg (m)                                   |||
+норвежка                            |||Norweżka (f)                                 |||
+норвежский                          |||norweski                                     |||
+Португалия                          |||Portugalia (f)                               |||
+португалец                          |||Portugalczyk (m)                             |||
+португалка                          |||Portugalka (f)                               |||
+португальский                       |||portugalski                                  |||
+Финляндия                           |||Finlandia (f)                                |||
+финн                                |||Fin (m)                                      |||
+финка                               |||Finka (f)                                    |||
+финский                             |||fiński                                       |||
+Франция                             |||Francja (f)                                  |||
+француз                             |||Francuz (m)                                  |||
+француженка                         |||Francuzka (f)                                |||
+французский                         |||francuski                                    |||
+Швеция                              |||Szwecja (f)                                  |||
+швед                                |||Szwed (m)                                    |||
+шведка                              |||Szwedka (f)                                  |||
+шведский                            |||szwedzki                                     |||
+Швейцария                           |||Szwajcaria (f)                               |||
+швейцарец                           |||Szwajcar (m)                                 |||
+швейцарка                           |||Szwajcarka (f)                               |||
+швейцарский                         |||szwajcarski                                  |||
+Шотландия                           |||Szkocja (f)                                  |||
+шотландец                           |||Szkot (m)                                    |||
+шотландка                           |||Szkotka (f)                                  |||
+шотландский                         |||szkocki                                      |||
+Ватикан                             |||Watykan (m)                                  |||
+Лихтенштейн                         |||Liechtenstein (m)                            |||
+Люксембург                          |||Luksemburg (m)                               |||
+Монако                              |||Monako (n)                                   |||
+Албания                             |||Albania (f)                                  |||
+албанец                             |||Albańczyk (m)                                |||
+албанка                             |||Albanka (f)                                  |||
+албанский                           |||albański                                     |||
+Болгария                            |||Bułgaria (f)                                 |||
+болгарин                            |||Bułgar (m)                                   |||
+болгарка                            |||Bułgarka (f)                                 |||
+болгарский                          |||bułgarski                                    |||
+Венгрия                             |||Węgry (pl)                                   |||
+венгр                               |||Węgier (m)                                   |||
+венгерка                            |||Węgierka (f)                                 |||
+венгерский                          |||węgierski                                    |||
+Латвия                              |||Łotwa (f)                                    |||
+латыш                               |||Łotysz (m)                                   |||
+латышка                             |||Łotyszka (f)                                 |||
+латышский                           |||łotewski                                     |||
+Литва                               |||Litwa (f)                                    |||
+литовец                             |||Litwin (m)                                   |||
+литовка                             |||Litwinka (f)                                 |||
+литовский                           |||litewski                                     |||
+Польша                              |||Polska (f)                                   |||
+поляк                               |||Polak (m)                                    |||
+полька                              |||Polka (f)                                    |||
+польский                            |||polski                                       |||
+Румыния                             |||Rumunia (f)                                  |||
+румын                               |||Rumun (m)                                    |||
+румынка                             |||Rumunka (f)                                  |||
+румынский                           |||rumuński                                     |||
+Сербия                              |||Serbia (f)                                   |||
+серб                                |||Serb (m)                                     |||
+сербка                              |||Serbka (m)                                   |||
+сербский                            |||serbski                                      |||
+Словакия                            |||Słowacja (f)                                 |||
+словак                              |||Słowak (m)                                   |||
+словачка                            |||Słowaczka (f)                                |||
+словацкий                           |||słowacki                                     |||
+Хорватия                            |||Chorwacja (f)                                |||
+хорват                              |||Chorwat (m)                                  |||
+хорватка                            |||Chorwatka (f)                                |||
+хорватский                          |||chorwacki                                    |||
+Чехия                               |||Czechy (pl)                                  |||
+чех                                 |||Czech (m)                                    |||
+чешка                               |||Czeszka (f)                                  |||
+чешский                             |||czeski                                       |||
+Эстония                             |||Estonia (f)                                  |||
+эстонец                             |||Estończyk (m)                                |||
+эстонка                             |||Estonka (f)                                  |||
+эстонский                           |||estoński                                     |||
+Босния и Герцеговина                |||Bośnia i Hercegowina (f)                     |||
+Македония                           |||Macedonia (f)                                |||
+Словения                            |||Słowenia (f)                                 |||
+Черногория                          |||Czarnogóra (f)                               |||
+Азербайджан                         |||Azerbejdżan (m)                              |||
+азербайджанец                       |||Azerbejdżanin (m)                            |||
+азербайджанка                       |||Azerbejdżanka (f)                            |||
+азербайджанский                     |||azerbejdżański                               |||
+Армения                             |||Armenia (f)                                  |||
+армянин                             |||Ormianin (m)                                 |||
+армянка                             |||Ormianka (f)                                 |||
+армянский                           |||ormiański                                    |||
+Беларусь                            |||Białoruś (f)                                 |||
+белорус                             |||Białorusin (m)                               |||
+белоруска                           |||Białorusinka (f)                             |||
+белорусский                         |||białoruski                                   |||
+Грузия                              |||Gruzja (f)                                   |||
+грузин                              |||Gruzin (m)                                   |||
+грузинка                            |||Gruzinka (f)                                 |||
+грузинский                          |||gruziński                                    |||
+Казахстан                           |||Kazachstan (m)                               |||
+казах                               |||Kazach (m)                                   |||
+казашка                             |||Kazaszka (f)                                 |||
+казахский                           |||kazachski                                    |||
+Кыргызстан                          |||Kirgizja (f), Kirgistan (m)                  |||
+киргиз                              |||Kirgiz (m)                                   |||
+киргизка                            |||Kirgizka (f)                                 |||
+киргизский                          |||kirgiski                                     |||
+Молдова                             |||Mołdawia (f)                                 |||
+молдаванин                          |||Mołdawianin (m)                              |||
+молдаванка                          |||Mołdawianka (f)                              |||
+молдавский                          |||mołdawski                                    |||
+Россия                              |||Rosja (f)                                    |||
+русский (сущ.)                      |||Rosjanin (m)                                 |||
+русская (сущ.)                      |||Rosjanka (f)                                 |||
+русский                             |||rosyjski                                     |||
+Таджикистан                         |||Tadżykistan (m)                              |||
+таджик                              |||Tadżyk (m)                                   |||
+таджичка                            |||Tadżyjka (f)                                 |||
+таджикский                          |||tadżycki                                     |||
+Туркменистан                        |||Turkmenia (f)                                |||
+туркмен                             |||Turkmen (m)                                  |||
+туркменка                           |||Turkmenka (f)                                |||
+туркменский                         |||turkmeński                                   |||
+Узбекистан                          |||Uzbekistan (m)                               |||
+узбек                               |||Uzbek (m)                                    |||
+узбечка                             |||Uzbeczka (f)                                 |||
+узбекский                           |||uzbecki                                      |||
+Украина                             |||Ukraina (f)                                  |||
+украинец                            |||Ukrainiec (m)                                |||
+украинка                            |||Ukrainka (f)                                 |||
+украинский                          |||ukraiński                                    |||
+Азия                                |||Azja (f)                                     |||
+азиатский                           |||azjatycki                                    |||
+Вьетнам                             |||Wietnam (m)                                  |||
+вьетнамец                           |||Wietnamczyk (m)                              |||
+вьетнамка                           |||Wietnamka (f)                                |||
+вьетнамский                         |||wietnamski                                   |||
+Индия                               |||Indie (pl)                                   |||
+индиец                              |||Hindus (m)                                   |||
+индианка                            |||Hinduska (f)                                 |||
+индийский                           |||indyjski                                     |||
+Израиль                             |||Izrael (m)                                   |||
+израильтянин                        |||Izraelczyk (m)                               |||
+израильтянка                        |||Izraelka (f)                                 |||
+израильский                         |||izraelski                                    |||
+еврей                               |||Żyd (m)                                      |||
+еврейка                             |||Żydówka (f)                                  |||
+еврейский                           |||żydowski                                     |||
+Китай                               |||Chiny (pl)                                   |||
+китаец                              |||Chińczyk (m)                                 |||
+китаянка                            |||Chinka (f)                                   |||
+китайский                           |||chiński                                      |||
+кореец                              |||Koreańczyk (m)                               |||
+кореянка                            |||Koreanka (f)                                 |||
+корейский                           |||koreański                                    |||
+Ливан                               |||Liban (m)                                    |||
+ливанец                             |||Libańczyk (m)                                |||
+ливанка                             |||Libanka (f)                                  |||
+ливанский                           |||libański                                     |||
+Монголия                            |||Mongolia (f)                                 |||
+монгол                              |||Mongoł (m)                                   |||
+монголка                            |||Mongołka (f)                                 |||
+монгольский                         |||mongolski                                    |||
+Малайзия                            |||Malezja (f)                                  |||
+малаец                              |||Malezyjczyk (m)                              |||
+малайка                             |||Malezyjka (f)                                |||
+малайский                           |||malajski                                     |||
+Пакистан                            |||Pakistan (m)                                 |||
+пакистанец                          |||Pakistańczyk (m)                             |||
+пакистанка                          |||Pakistanka (f)                               |||
+пакистанский                        |||pakistański                                  |||
+Саудовская Аравия                   |||Arabia (f) Saudyjska                         |||
+араб                                |||Arab (m)                                     |||
+арабка                              |||Arabka (f)                                   |||
+арабский                            |||arabski                                      |||
+Таиланд                             |||Tajlandia (f)                                |||
+таец                                |||Taj (m)                                      |||
+тайка                               |||Tajka (f)                                    |||
+тайский                             |||tajski                                       |||
+Тайвань                             |||Tajwan (m)                                   |||
+тайванец                            |||Tajwańczyk (m)                               |||
+тайванка                            |||Tajwanka (f)                                 |||
+тайванский                          |||tajwański                                    |||
+Турция                              |||Turcja (f)                                   |||
+турок                               |||Turek (m)                                    |||
+турчанка                            |||Turczynka (f)                                |||
+турецкий                            |||turecki                                      |||
+Япония                              |||Japonia (f)                                  |||
+японец                              |||Japończyk (m)                                |||
+японка                              |||Japonka (f)                                  |||
+японский                            |||japoński                                     |||
+Афганистан                          |||Afganistan (n)                               |||
+Бангладеш                           |||Bangladesz (m)                               |||
+Индонезия                           |||Indonezja (f)                                |||
+Иордания                            |||Jordania (f)                                 |||
+Ирак                                |||Irak (m)                                     |||
+Иран                                |||Iran (m)                                     |||
+Камбоджа                            |||Kambodża (f)                                 |||
+Кувейт                              |||Kuwejt (m)                                   |||
+Лаос                                |||Laos (m)                                     |||
+Мьянма                              |||Mjanma (f)                                   |||
+Непал                               |||Nepal (m)                                    |||
+Объединённые                        |||Zjednoczone Emiraty                          |||
+Арабские Эмираты                    |||Arabskie                                     |||
+Сирия                               |||Syria (f)                                    |||
+Палестина                           |||Autonomia (f) Palestyńska                    |||
+Южная Корея                         |||Korea (f) Południowa                         |||
+Северная Корея                      |||Korea (f) Północna                           |||
+Соединённые Штаты                   |||Stany (pl) Zjednoczone                       |||
+Америки                             |||Ameryki                                      |||
+американец                          |||Amerykanin (m)                               |||
+американка                          |||Amerykanka (f)                               |||
+американский                        |||amerykański                                  |||
+Канада                              |||Kanada (f)                                   |||
+канадец                             |||Kanadyjczyk (m)                              |||
+канадка                             |||Kanadyjka (f)                                |||
+канадский                           |||kanadyjski                                   |||
+Мексика                             |||Meksyk (m)                                   |||
+мексиканец                          |||Meksykanin (m)                               |||
+мексиканка                          |||Meksykanka (f)                               |||
+мексиканский                        |||meksykański                                  |||
+Аргентина                           |||Argentyna (f)                                |||
+аргентинец                          |||Argentyńczyk (m)                             |||
+аргентинка                          |||Argentynka (f)                               |||
+аргентинский                        |||argentyński                                  |||
+Бразилия                            |||Brazylia (f)                                 |||
+бразилец                            |||Brazylijczyk (m)                             |||
+бразильянка                         |||Brazylijka (f)                               |||
+бразильский                         |||brazylijski                                  |||
+Колумбия                            |||Kolumbia (f)                                 |||
+колумбиец                           |||Kolumbijczyk (m)                             |||
+колумбийка                          |||Kolumbijka (f)                               |||
+колумбийский                        |||kolumbijski                                  |||
+Куба                                |||Kuba (f)                                     |||
+кубинец                             |||Kubańczyk (m)                                |||
+кубинка                             |||Kubanka (f)                                  |||
+кубинский                           |||kubański                                     |||
+Чили                                |||Chile (n)                                    |||
+чилиец                              |||Chilijczyk (m)                               |||
+чилийка                             |||Chilijka (f)                                 |||
+чилийский                           |||chilijski                                    |||
+Боливия                             |||Boliwia (f)                                  |||
+Венесуэла                           |||Wenezuela (f)                                |||
+Парагвай                            |||Paragwaj (m)                                 |||
+Перу                                |||Peru (n)                                     |||
+Суринам                             |||Surinam (m)                                  |||
+Уругвай                             |||Urugwaj (m)                                  |||
+Эквадор                             |||Ekwador (m)                                  |||
+Багамские острова                   |||Wyspy (pl) Bahama                            |||
+Гаити                               |||Haiti (n)                                    |||
+Доминиканская республика            |||Dominikana (f)                               |||
+Панама                              |||Panama (f)                                   |||
+Ямайка                              |||Jamajka (f)                                  |||
+Египет                              |||Egipt (m)                                    |||
+египтянин                           |||Egipcjanin (m)                               |||
+египтянка                           |||Egipcjanka (f)                               |||
+египетский                          |||egipski                                      |||
+Марокко                             |||Maroko (n)                                   |||
+марокканец                          |||Marokańczyk (m)                              |||
+марокканка                          |||Marokanka (f)                                |||
+марокканский                        |||marokański                                   |||
+Тунис                               |||Tunezja (f)                                  |||
+тунисец                             |||Tunezyjczyk (m)                              |||
+туниска                             |||Tunezyjka (f)                                |||
+тунисский                           |||tunezyjski                                   |||
+Гана                                |||Ghana (f)                                    |||
+Занзибар                            |||Zanzibar (m)                                 |||
+Кения                               |||Kenia (f)                                    |||
+Ливия                               |||Libia (f)                                    |||
+Мадагаскар                          |||Madagaskar (m)                               |||
+Намибия                             |||Namibia (f)                                  |||
+Сенегал                             |||Senegal (m)                                  |||
+Танзания                            |||Tanzania (f)                                 |||
+ЮАР                                 |||Afryka (f) Południowa                        |||
+африканец                           |||Afrykanin (m)                                |||
+африканка                           |||Afrykanka (f)                                |||
+африканский                         |||afrykański                                   |||
+Австралия                           |||Australia (f)                                |||
+австралиец                          |||Australijczyk (m)                            |||
+австралийка                         |||Australijka (f)                              |||
+австралийский                       |||australijski                                 |||
+Новая Зеландия                      |||Nowa Zelandia (f)                            |||
+новозеландец                        |||Nowozelandczyk (m)                           |||
+новозеландка                        |||Nowozelandka (f)                             |||
+новозеландский                      |||nowozelandzki                                |||
+Тасмания                            |||Tasmania (f)                                 |||
+Французская Полинезия               |||Polinezja (f) Francuska                      |||
+Амстердам                           |||Amsterdam (m)                                |||
+Анкара                              |||Ankara (f)                                   |||
+Афины                               |||Ateny (pl)                                   |||
+Багдад                              |||Bagdad (m)                                   |||
+Бангкок                             |||Bangkok (m)                                  |||
+Барселона                           |||Barcelona (f)                                |||
+Бейрут                              |||Bejrut (m)                                   |||
+Берлин                              |||Berlin (m)                                   |||
+Бомбей                              |||Bombaj (m)                                   |||
+Бонн                                |||Bonn (n)                                     |||
+Бордо                               |||Bordeaux (n)                                 |||
+Братислава                          |||Bratysława (f)                               |||
+Брюссель                            |||Bruksela (f)                                 |||
+Будапешт                            |||Budapeszt (m)                                |||
+Бухарест                            |||Bukareszt (m)                                |||
+Варшава                             |||Warszawa (f)                                 |||
+Вашингтон                           |||Waszyngton (m)                               |||
+Вена                                |||Wiedeń (m)                                   |||
+Венеция                             |||Wenecja (f)                                  |||
+Гаага                               |||Haga (f)                                     |||
+Гавана                              |||Hawana (f)                                   |||
+Гамбург                             |||Hamburg (m)                                  |||
+Гонконг                             |||Hongkong (m)                                 |||
+Дар-эс-Салам                        |||Dar es Salam (m)                             |||
+Дели                                |||Delhi (n)                                    |||
+Дубай                               |||Dubaj (n)                                    |||
+Дублин                              |||Dublin (m)                                   |||
+Дюссельдорф                         |||Düsseldorf (m)                               |||
+Женева                              |||Genewa (f)                                   |||
+Иерусалим                           |||Jerozolima (f)                               |||
+Каир                                |||Kair (m)                                     |||
+Калькутта                           |||Kalkuta (f)                                  |||
+Киев                                |||Kijów (m)                                    |||
+Копенгаген                          |||Kopenhaga (f)                                |||
+Куала-Лумпур                        |||Kuala Lumpur (n)                             |||
+Лион                                |||Lyon (m)                                     |||
+Лиссабон                            |||Lizbona (f)                                  |||
+Лондон                              |||Londyn (m)                                   |||
+Лос-Анджелес                        |||Los Angeles (n)                              |||
+Мадрид                              |||Madryt (m)                                   |||
+Майями                              |||Miami (n)                                    |||
+Марсель                             |||Marsylia (f)                                 |||
+Мехико                              |||Meksyk (m)                                   |||
+Монреаль                            |||Montreal (m)                                 |||
+Москва                              |||Moskwa (f)                                   |||
+Мюнхен                              |||Monachium (n)                                |||
+Найроби                             |||Nairobi (n)                                  |||
+Неаполь                             |||Neapol (m)                                   |||
+Ницца                               |||Nicea (f)                                    |||
+Нью-Йорк                            |||Nowy Jork (m)                                |||
+Осло                                |||Oslo (n)                                     |||
+Оттава                              |||Ottawa (f)                                   |||
+Париж                               |||Paryż (m)                                    |||
+Пекин                               |||Pekin (m)                                    |||
+Прага                               |||Praga (f)                                    |||
+Рим                                 |||Rzym (m)                                     |||
+Рио-де-Жанейро                      |||Rio de Janeiro (n)                           |||
+Санкт-Петербург                     |||Sankt Petersburg (m)                         |||
+Сеул                                |||Seul (m)                                     |||
+Сидней                              |||Sydney (n)                                   |||
+Сингапур                            |||Singapur (m)                                 |||
+Стамбул                             |||Stambuł (m)                                  |||
+Стокгольм                           |||Sztokholm (m)                                |||
+Тайпей                              |||Tajpej (m)                                   |||
+Токио                               |||Tokio (n)                                    |||
+Торонто                             |||Toronto (n)                                  |||
+Флоренция                           |||Florencja (f)                                |||
+Франкфурт                           |||Frankfurt (m)                                |||
+Ханой                               |||Hanoi (n)                                    |||
+Хельсинки                           |||Helsinki (pl)                                |||
+Хиросима                            |||Hiroszima (f)                                |||
+Чикаго                              |||Chicago (n)                                  |||
+Шанхай                              |||Szanghaj (m)                                 |||
+политика                            |||polityka (f)                                 |||
+политический                        |||polityczny                                   |||
+политик                             |||polityk (m)                                  |||
+государство                         |||państwo (n)                                  |||
+гражданин                           |||obywatel (m)                                 |||
+гражданство                         |||obywatelstwo (n)                             |||
+национальный герб                   |||godło (n) państwowe                          |||
+государственный гимн                |||hymn (m) państwowy                           |||
+правительство                       |||rząd (m)                                     |||
+руководитель страны                 |||szef (m) państwa                             |||
+парламент                           |||parlament (m)                                |||
+партия                              |||partia (f)                                   |||
+капитализм                          |||kapitalizm (m)                               |||
+капиталистический                   |||kapitalistyczny                              |||
+социализм                           |||socjalizm (m)                                |||
+социалистический                    |||socjalistyczny                               |||
+коммунизм                           |||komunizm (m)                                 |||
+коммунистический                    |||komunistyczny                                |||
+коммунист                           |||komunista (m)                                |||
+демократия                          |||demokracja (f)                               |||
+демократ                            |||demokrata (m)                                |||
+демократический                     |||demokratyczny                                |||
+демократическая партия              |||partia (f) demokratyczna                     |||
+либерал                             |||liberał (m)                                  |||
+либеральный                         |||liberalny                                    |||
+консерватор                         |||konserwatysta (m)                            |||
+консервативный                      |||konserwatywny                                |||
+республика                          |||republika (f)                                |||
+республиканец                       |||republikanin (m)                             |||
+республиканская партия              |||partia (f) republikańska                     |||
+выборы                              |||wybory (pl)                                  |||
+выбирать, избирать                  |||wybierać                                     |||
+избиратель                          |||wyborca (m)                                  |||
+избирательная кампания              |||kampania (f) wyborcza                        |||
+голосование                         |||głosowanie (n)                               |||
+голосовать                          |||głosować                                     |||
+право голоса                        |||prawo (n) wyborcze                           |||
+кандидат                            |||kandydat (m)                                 |||
+баллотироваться                     |||kandydować                                   |||
+кампания (напр. рекламная)          |||kampania (f)                                 |||
+оппозиционный                       |||opozycyjny                                   |||
+оппозиция                           |||opozycja (f)                                 |||
+визит                               |||wizyta (f)                                   |||
+официальный визит                   |||wizyta (f) oficjalna                         |||
+международный                       |||międzynarodowy                               |||
+переговоры                          |||rozmowy (pl)                                 |||
+вести переговоры                    |||prowadzić rozmowy                            |||
+общество                            |||społeczeństwo (n)                            |||
+конституция                         |||konstytucja (f)                              |||
+власть                              |||władza (f)                                   |||
+коррупция                           |||korupcja (f)                                 |||
+закон                               |||prawo (n)                                    |||
+законный                            |||prawny                                       |||
+справедливость                      |||sprawiedliwość (f)                           |||
+справедливый                        |||sprawiedliwy                                 |||
+комитет                             |||komitet (m)                                  |||
+законопроект                        |||projekt (m) ustawy                           |||
+бюджет                              |||budżet (m)                                   |||
+политика (курс)                     |||polityka (f)                                 |||
+реформа                             |||reforma (f)                                  |||
+радикальный                         |||radykalny                                    |||
+сила (мощь)                         |||siła (f)                                     |||
+могущественный                      |||silny                                        |||
+сторонник                           |||zwolennik (m)                                |||
+влияние                             |||wpływ (m)                                    |||
+режим                               |||reżim (m)                                    |||
+конфликт                            |||konflikt (m)                                 |||
+заговор                             |||spisek (m)                                   |||
+провокация                          |||prowokacja (f)                               |||
+свергнуть                           |||obalić                                       |||
+свержение                           |||obalenie (n)                                 |||
+революция                           |||rewolucja (f)                                |||
+переворот                           |||przewrót (m)                                 |||
+военный переворот                   |||przewrót (m) wojskowy                        |||
+кризис                              |||kryzys (m)                                   |||
+экономический спад                  |||recesja (f)                                  |||
+демонстрант                         |||demonstrant (m)                              |||
+демонстрация                        |||demonstracja (f)                             |||
+военное положение                   |||stan (m) wojenny                             |||
+военная база                        |||baza (f) wojskowa                            |||
+стабильность                        |||stabilność (f)                               |||
+стабильный                          |||stabilny                                     |||
+эксплуатация                        |||eksploatacja (f)                             |||
+эксплуатировать                     |||eksploatować                                 |||
+расизм                              |||rasizm (m)                                   |||
+расист                              |||rasista (m)                                  |||
+фашизм                              |||faszyzm (m)                                  |||
+фашист                              |||faszysta (m)                                 |||
+иностранец                          |||obcokrajowiec (m)                            |||
+иностранный                         |||zagraniczny                                  |||
+за границей                         |||za granicą                                   |||
+эмигрант                            |||emigrant (m)                                 |||
+эмиграция                           |||emigracja (f)                                |||
+эмигрировать                        |||emigrować                                    |||
+Запад                               |||Zachód (m)                                   |||
+Восток                              |||Wschód (m)                                   |||
+Дальний Восток                      |||Daleki Wschód (m)                            |||
+цивилизация                         |||cywilizacja (f)                              |||
+человечество                        |||ludzkość (f)                                 |||
+мир (вся планета)                   |||świat (m)                                    |||
+мир (спокойствие)                   |||pokój (m)                                    |||
+мировой (всемирный)                 |||światowy                                     |||
+родина                              |||ojczyzna (f)                                 |||
+народ                               |||naród (m)                                    |||
+население                           |||ludność (f)                                  |||
+люди                                |||ludzie (pl)                                  |||
+нация                               |||naród (m)                                    |||
+поколение                           |||pokolenie (n)                                |||
+территория                          |||terytorium (n)                               |||
+регион                              |||region (m)                                   |||
+штат (часть страны)                 |||stan (m)                                     |||
+традиция                            |||tradycja (f)                                 |||
+обычай                              |||obyczaj (m)                                  |||
+экология                            |||ekologia (f)                                 |||
+индеец                              |||Indianin (m)                                 |||
+цыган                               |||Cygan (m)                                    |||
+цыганка                             |||Cyganka (f)                                  |||
+цыганский                           |||cygański                                     |||
+империя                             |||imperium (n)                                 |||
+колония                             |||kolonia (f)                                  |||
+рабство                             |||niewolnictwo (n)                             |||
+нашествие                           |||najazd (m)                                   |||
+голод (бедствие)                    |||głód (m)                                     |||
+религия                             |||religia (f)                                  |||
+религиозный                         |||religijny                                    |||
+верование                           |||wiara (f)                                    |||
+верить (в бога)                     |||wierzyć                                      |||
+верующий (сущ.)                     |||wierzący (m)                                 |||
+атеизм                              |||ateizm (m)                                   |||
+атеист                              |||ateista (m)                                  |||
+Христианство                        |||chrześcijaństwo (n)                          |||
+христианин                          |||chrześcijanin (m)                            |||
+христианский                        |||chrześcijański                               |||
+Католицизм                          |||katolicyzm (m)                               |||
+католик                             |||katolik (m)                                  |||
+католический                        |||katolicki                                    |||
+Протестантство                      |||protestantyzm (m)                            |||
+Протестантская церковь              |||kościół (m) protestancki                     |||
+протестант                          |||protestant (m)                               |||
+Православие                         |||prawosławie (n)                              |||
+Православная церковь                |||kościół (m) prawosławny                      |||
+православный                        |||prawosławny (m)                              |||
+Пресвитерианство                    |||prezbiterianizm (m)                          |||
+Пресвитерианская церковь            |||kościół (m) prezbiteriański                  |||
+пресвитерианин                      |||prezbiterianin (m)                           |||
+Лютеранская церковь                 |||kościół (m) luterański                       |||
+лютеранин                           |||luteranin (m)                                |||
+Баптизм                             |||baptyzm (m)                                  |||
+баптист                             |||baptysta (m)                                 |||
+Англиканская церковь                |||Kościół Anglikański (m)                      |||
+англиканин                          |||anglikanin (m)                               |||
+Мормонство                          |||religia (f) mormonów                         |||
+мормон                              |||mormon (m)                                   |||
+Иудаизм                             |||judaizm (m)                                  |||
+иудей                               |||żyd (m)                                      |||
+Буддизм                             |||buddyzm (m)                                  |||
+буддист                             |||buddysta (m)                                 |||
+Индуизм                             |||hinduizm (m)                                 |||
+индуист                             |||hinduista (m)                                |||
+Ислам                               |||islam (m)                                    |||
+мусульманин                         |||muzułmanin (m)                               |||
+мусульманский                       |||muzułmański                                  |||
+Шиизм                               |||szyizm (m)                                   |||
+шиит                                |||szyita (m)                                   |||
+Суннизм                             |||sunnizm (m)                                  |||
+суннит                              |||sunnita (m)                                  |||
+священник                           |||ksiądz (m)                                   |||
+Папа Римский                        |||papież (m)                                   |||
+монах                               |||zakonnik (m)                                 |||
+монахиня                            |||zakonnica (f)                                |||
+пастор                              |||pastor (m)                                   |||
+аббат                               |||opat (m)                                     |||
+викарий                             |||wikariusz (m)                                |||
+епископ                             |||biskup (m)                                   |||
+кардинал                            |||kardynał (m)                                 |||
+проповедник                         |||kaznodzieja (m)                              |||
+проповедь                           |||kazanie (n)                                  |||
+прихожане                           |||parafianie (pl)                              |||
+верующий (сущ.)                     |||wierzący (m)                                 |||
+атеист                              |||ateista (m)                                  |||
+Адам                                |||Adam (m)                                     |||
+Ева                                 |||Ewa (f)                                      |||
+Бог                                 |||Bóg (m)                                      |||
+Господь                             |||Pan (m)                                      |||
+Всемогущий                          |||Wszechmogący (m)                             |||
+грех                                |||grzech (m)                                   |||
+грешить                             |||grzeszyć                                     |||
+грешник                             |||grzesznik (m)                                |||
+грешница                            |||grzesznica (f)                               |||
+ад                                  |||piekło (n)                                   |||
+рай                                 |||raj (m)                                      |||
+Иисус                               |||Jezus (m)                                    |||
+Иисус Христос                       |||Jezus Chrystus (m)                           |||
+Святой Дух                          |||Duch Święty (m)                              |||
+Спаситель                           |||Zbawiciel (m)                                |||
+Богородица                          |||Matka Boska (f)                              |||
+Дьявол                              |||diabeł (m)                                   |||
+дьявольский                         |||diabelski                                    |||
+Сатана                              |||szatan (m)                                   |||
+сатанинский                         |||szatański                                    |||
+ангел                               |||anioł (m)                                    |||
+ангел-хранитель                     |||anioł stróż (m)                              |||
+ангельский                          |||anielski                                     |||
+апостол                             |||apostoł (m)                                  |||
+архангел                            |||archanioł (m)                                |||
+антихрист                           |||antychryst (m)                               |||
+Церковь (организация)               |||Kościół (m)                                  |||
+библия                              |||Biblia (f)                                   |||
+библейский                          |||biblijny                                     |||
+Ветхий Завет                        |||Stary Testament (m)                          |||
+Новый Завет                         |||Nowy Testament (m)                           |||
+Евангелие                           |||Ewangelia (f)                                |||
+Священное Писание                   |||Pismo (n) Święte                             |||
+Небо, Царство Небесное              |||Królestwo (n) Niebiańskie                    |||
+заповедь                            |||przykazanie (n)                              |||
+пророк                              |||prorok (m)                                   |||
+пророчество                         |||proroctwo (n)                                |||
+Аллах                               |||Allach, Allah (m)                            |||
+Мухаммед                            |||Mohammed (m)                                 |||
+Коран                               |||Koran (m)                                    |||
+мечеть                              |||meczet (m)                                   |||
+мулла                               |||mułła (m)                                    |||
+молитва                             |||modlitwa (f)                                 |||
+молиться                            |||modlić się                                   |||
+паломничество                       |||pielgrzymka (f)                              |||
+паломник                            |||pielgrzym (m)                                |||
+Мекка                               |||Mekka (f)                                    |||
+церковь                             |||kościół (m)                                  |||
+храм                                |||świątynia (f)                                |||
+собор                               |||katedra (f)                                  |||
+готический                          |||gotycki                                      |||
+синагога                            |||synagoga (f)                                 |||
+мечеть                              |||meczet (m)                                   |||
+часовня                             |||kaplica (f)                                  |||
+аббатство                           |||opactwo (n)                                  |||
+монастырь (женский)                 |||klasztor (m) żeński                          |||
+монастырь (мужской)                 |||klasztor (m) męski                           |||
+колокол                             |||dzwon (m)                                    |||
+колокольня                          |||dzwonnica (f)                                |||
+звонить (о колоколах)               |||dzwonić                                      |||
+крест                               |||krzyż (m)                                    |||
+купол                               |||kopuła (f)                                   |||
+икона                               |||ikona (f)                                    |||
+душа                                |||dusza (f)                                    |||
+судьба (доля, участь)               |||los (m)                                      |||
+зло                                 |||zło (n)                                      |||
+добро                               |||dobro (n)                                    |||
+вампир                              |||wampir (m)                                   |||
+ведьма                              |||wiedźma (f)                                  |||
+демон                               |||demon (m)                                    |||
+чёрт                                |||diabeł (m)                                   |||
+дух                                 |||duch (m)                                     |||
+искупление                          |||odkupienie (n)                               |||
+искупить                            |||odkupić                                      |||
+служба (рел.)                       |||msza (f)                                     |||
+служить (рел.)                      |||odprawiać mszę                               |||
+исповедь                            |||spowiedź (f)                                 |||
+исповедоваться                      |||spowiadać się                                |||
+святой (сущ.)                       |||święty (m)                                   |||
+священный                           |||święty                                       |||
+святая вода                         |||woda (f) święcona                            |||
+ритуал                              |||obrzęd (m)                                   |||
+ритуальный                          |||obrzędowy                                    |||
+жертвоприношение                    |||ofiara (f)                                   |||
+суеверие                            |||przesąd (m)                                  |||
+суеверный                           |||przesądny                                    |||
+загробная жизнь                     |||życie (n) pozagrobowe                        |||
+вечная жизнь                        |||życie (n) wieczne                            |||
+база (основа)                       |||baza (f)                                     |||
+баланс                              |||równowaga (f)                                |||
+вариант                             |||wariant (m)                                  |||
+вещь                                |||rzecz (f)                                    |||
+вид (напр. спорта)                  |||rodzaj (m)                                   |||
+выбор (ассортимент)                 |||wybór (m)                                    |||
+зона                                |||strefa (f)                                   |||
+идеал                               |||ideał (m)                                    |||
+истина                              |||prawda (f)                                   |||
+категория                           |||kategoria (f)                                |||
+компенсация                         |||rekompensata (f)                             |||
+лабиринт                            |||labirynt (m)                                 |||
+момент                              |||moment (m)                                   |||
+начало                              |||początek (m)                                 |||
+объект (предмет)                    |||obiekt (m)                                   |||
+окончание (конец)                   |||zakończenie (n)                              |||
+оригинал                            |||oryginał (m)                                 |||
+остановка (перерыв)                 |||przerwa (f)                                  |||
+очередь (в первую ~)                |||kolej (f)                                    |||
+ошибка                              |||błąd (m)                                     |||
+пауза                               |||pauza (f)                                    |||
+позиция                             |||stanowisko (n)                               |||
+польза (полезность)                 |||korzyść (f)                                  |||
+помощь                              |||pomoc (f)                                    |||
+преграда                            |||przeszkoda (f)                               |||
+препятствие                         |||przeszkoda (f)                               |||
+пример                              |||przykład (m)                                 |||
+принцип                             |||zasada (f)                                   |||
+причина                             |||przyczyna (f)                                |||
+проблема                            |||problem (m)                                  |||
+прогресс                            |||postęp (m)                                   |||
+процесс                             |||proces (m)                                   |||
+развитие                            |||rozwój (m)                                   |||
+различие                            |||różnica (f)                                  |||
+реакция                             |||reakcja (f)                                  |||
+решение (задачи)                    |||rozwiązanie (n)                              |||
+риск                                |||ryzyko (n)                                   |||
+рост (процесс)                      |||wzrost (m)                                   |||
+свойство                            |||właściwość (f)                               |||
+секция                              |||sekcja (f)                                   |||
+серия (ряд)                         |||seria (f)                                    |||
+система                             |||system (m)                                   |||
+ситуация                            |||sytuacja (f)                                 |||
+совпадение                          |||koincydencja (f)                             |||
+способ                              |||sposób (m)                                   |||
+сравнение                           |||porównanie (n)                               |||
+срочно                              |||pilnie                                       |||
+срочный                             |||pilny                                        |||
+стандарт                            |||standard (m)                                 |||
+стандартный                         |||standardowy                                  |||
+степень                             |||stopień (m)                                  |||
+стиль                               |||styl (m)                                     |||
+таблица                             |||tablica (f)                                  |||
+тайна, секрет                       |||tajemnica (f)                                |||
+темп                                |||tempo (n)                                    |||
+термин                              |||termin (m)                                   |||
+тип                                 |||typ (m)                                      |||
+удобный (мебель и т.п.)             |||wygodny                                      |||
+усилие                              |||wysiłek (m)                                  |||
+факт                                |||fakt (m)                                     |||
+фон                                 |||tło (n)                                      |||
+форма (внешний вид)                 |||kształt (m)                                  |||
+частица (часть чего-л.)             |||cząstka (f)                                  |||
+частый                              |||częsty                                       |||
+часть (целого)                      |||część (f)                                    |||
+элемент                             |||element (m)                                  |||
+эффект                              |||efekt (m)                                    |||
+аккуратный (работа и т.п.)          |||staranny                                     |||
+бедный                              |||biedny                                       |||
+безоблачный                         |||bezchmurny                                   |||
+безопасный                          |||bezpieczny                                   |||
+бесплатный                          |||bezpłatny                                    |||
+благодарный                         |||wdzięczny                                    |||
+ближайший                           |||najbliższy                                   |||
+ближний                             |||pobliski                                     |||
+близкий (недалёкий)                 |||bliski                                       |||
+близорукий                          |||krótkowzroczny                               |||
+больной                             |||chory                                        |||
+большой                             |||duży                                         |||
+бывший в употреблении               |||używany                                      |||
+быстрый                             |||szybki                                       |||
+важный                              |||ważny                                        |||
+вежливый                            |||uprzejmy                                     |||
+вероятный                           |||prawdopodobny                                |||
+весёлый                             |||wesoły                                       |||
+вкусный                             |||smaczny                                      |||
+влажный (климат)                    |||wilgotny                                     |||
+внешний                             |||zewnętrzny                                   |||
+внутренний                          |||wewnętrzny                                   |||
+возможный                           |||możliwy                                      |||
+враждебный                          |||wrogi                                        |||
+высший                              |||najwyższy                                    |||
+главный                             |||główny                                       |||
+гладкий                             |||gładki                                       |||
+глупый                              |||głupi                                        |||
+голодный                            |||głodny                                       |||
+горький                             |||gorzki                                       |||
+горячий                             |||gorący                                       |||
+гражданский                         |||obywatelski                                  |||
+громкий (голос)                     |||głośny                                       |||
+грустный                            |||smutny                                       |||
+грязный                             |||brudny                                       |||
+густой (туман)                      |||gęsty                                        |||
+далёкий                             |||daleki                                       |||
+дальний (отдалённый)                |||daleki                                       |||
+детский                             |||dziecięcy                                    |||
+дешёвый (о предмете)                |||tani                                         |||
+длинный (путь)                      |||długi                                        |||
+добрый                              |||dobry                                        |||
+довольный                           |||zadowolony                                   |||
+дополнительный                      |||dodatkowy                                    |||
+дорогой                             |||drogi                                        |||
+древний                             |||dawny                                        |||
+жидкий                              |||płynny                                       |||
+жирный (о пище)                     |||tłusty                                       |||
+заботливый                          |||troskliwy                                    |||
+загадочный                          |||tajemniczy                                   |||
+загорелый                           |||opalony                                      |||
+задний                              |||tylny                                        |||
+законный                            |||prawny                                       |||
+закрытый                            |||zamknięty                                    |||
+замороженный (продукт)              |||mrożony                                      |||
+значительный                        |||znaczny                                      |||
+зрелый (плод)                       |||dojrzały                                     |||
+иностранный                         |||zagraniczny                                  |||
+искусственный                       |||sztuczny                                     |||
+кислый                              |||kwaśny                                       |||
+короткий                            |||krótki                                       |||
+красивый                            |||piękny                                       |||
+кратковременный                     |||krótkotrwały                                 |||
+левый                               |||lewy                                         |||
+лёгкий (о грузе)                    |||lekki                                        |||
+лёгкий (простой)                    |||łatwy                                        |||
+маленький, малый                    |||mały                                         |||
+матовый                             |||matowy                                       |||
+мелкий (неглубокий)                 |||płytki                                       |||
+мёртвый                             |||martwy                                       |||
+милый (любезный)                    |||miły                                         |||
+мокрый (промокший)                  |||mokry                                        |||
+молодой                             |||młody                                        |||
+мрачный (тёмный)                    |||mroczny                                      |||
+мягкий                              |||miękki                                       |||
+настоящий (момент)                  |||obecny                                       |||
+небольшой                           |||nieduży                                      |||
+небрежный                           |||niedbały                                     |||
+невозможный                         |||niemożliwy                                   |||
+нежный (о человеке)                 |||czuły                                        |||
+незначительный                      |||nieistotny                                   |||
+необходимый                         |||niezbędny                                    |||
+неопытный                           |||niedoświadczony                              |||
+неподвижный                         |||nieruchomy                                   |||
+непонятный (~ текст)                |||niezrozumiały                                |||
+непрерывный                         |||ciągły                                       |||
+нервный                             |||nerwowy                                      |||
+нетрудный                           |||nietrudny                                    |||
+неясный                             |||niejasny                                     |||
+нищий                               |||nędzny                                       |||
+новый                               |||nowy                                         |||
+нормальный                          |||normalny                                     |||
+нужный                              |||potrzebny                                    |||
+общественный                        |||publiczny                                    |||
+обыкновенный                        |||zwykły                                       |||
+обязательный                        |||obowiązkowy                                  |||
+ограниченный                        |||ograniczony                                  |||
+огромный                            |||ogromny                                      |||
+одинаковый                          |||jednakowy                                    |||
+опасный                             |||niebezpieczny                                |||
+оригинальный                        |||oryginalny                                   |||
+основной                            |||podstawowy                                   |||
+острый (нож и т.п.)                 |||ostry                                        |||
+открытый                            |||otwarty                                      |||
+отличный (хороший)                  |||świetny                                      |||
+отрицательный                       |||negatywny                                    |||
+персональный                        |||osobisty                                     |||
+печальный                           |||smutny                                       |||
+плодородный                         |||urodzajny                                    |||
+плоский                             |||płaski                                       |||
+плотный (напр. туман)               |||gęsty                                        |||
+плохой                              |||zły                                          |||
+подпольный                          |||podziemny                                    |||
+полный (наполненный)                |||pełny                                        |||
+понятный (ясный)                    |||zrozumiały                                   |||
+последний                           |||ostatni                                      |||
+постоянный (работа, адрес)          |||stały                                        |||
+похожий                             |||podobny                                      |||
+правильный (верный)                 |||prawidłowy                                   |||
+правый                              |||prawy                                        |||
+превосходный                        |||doskonały                                    |||
+предыдущий, прежний                 |||poprzedni                                    |||
+прекрасный (красивый)               |||wspaniały                                    |||
+пресная (о воде)                    |||słodki                                       |||
+пригодный                           |||przydatny                                    |||
+приятный (голос)                    |||przyjemny                                    |||
+продолжительный                     |||długotrwały                                  |||
+прозрачный                          |||przezroczysty                                |||
+простой                             |||łatwy                                        |||
+просторный                          |||przestronny                                  |||
+противоположный                     |||przeciwny                                    |||
+прохладный                          |||chłodny                                      |||
+прочный                             |||trwały                                       |||
+прошедший                           |||miniony                                      |||
+прошлый                             |||ubiegły                                      |||
+прямой                              |||prosty                                       |||
+пунктуальный                        |||punktualny                                   |||
+пустой (~ бокал)                    |||pusty                                        |||
+редкий                              |||rzadki                                       |||
+рискованный                         |||ryzykowny                                    |||
+ровный (о поверхности)              |||równy                                        |||
+родной (о стране)                   |||ojczysty                                     |||
+самый важный                        |||najważniejszy                                |||
+свежий                              |||świeży                                       |||
+светлый (о цвете)                   |||jasny                                        |||
+свободный                           |||wolny                                        |||
+сильный                             |||silny                                        |||
+сладкий                             |||słodki                                       |||
+следующий                           |||następny                                     |||
+слепой                              |||ślepy                                        |||
+сложный (вопрос и т.п.)             |||złożony                                      |||
+смуглый                             |||śniady                                       |||
+совместимый                         |||kompatybilny                                 |||
+совместный                          |||wspólny                                      |||
+солёный                             |||słony                                        |||
+солнечный (день)                    |||słoneczny                                    |||
+соседний                            |||sąsiedni                                     |||
+специальный                         |||specjalny                                    |||
+спокойный                           |||spokojny                                     |||
+старый (дом и т.п.)                 |||stary                                        |||
+сухой                               |||suchy                                        |||
+счастливый                          |||szczęśliwy                                   |||
+сырой (не варёный)                  |||surowy                                       |||
+твёрдый (не мягкий)                 |||twardy                                       |||
+тёмный (о комнате)                  |||ciemny                                       |||
+тёплый (день, пища)                 |||ciepły                                       |||
+тихий (негромкий)                   |||cichy                                        |||
+тихий (спокойный)                   |||spokojny                                     |||
+толстый (слой)                      |||gruby                                        |||
+точный                              |||dokładny                                     |||
+тощий                               |||chudy                                        |||
+трудный                             |||trudny                                       |||
+тусклый (о свете)                   |||przyćmiony                                   |||
+тяжёлый (напр. груз)                |||ciężki                                       |||
+удовлетворённый                     |||zadowolony                                   |||
+узкий                               |||wąski                                        |||
+умный                               |||sprytny                                      |||
+уникальный                          |||unikatowy                                    |||
+усталый                             |||zmęczony                                     |||
+утомительный                        |||męczący                                      |||
+холодный                            |||zimny                                        |||
+хороший                             |||dobry                                        |||
+хрупкий                             |||kruchy                                       |||
+худой                               |||szczupły                                     |||
+целый (полностью)                   |||cały                                         |||
+центральный                         |||centralny                                    |||
+частный (личный)                    |||prywatny                                     |||
+чистый                              |||czysty                                       |||
+чрезмерный                          |||nadmierny                                    |||
+широкий                             |||szeroki                                      |||

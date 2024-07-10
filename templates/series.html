@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block title %}Index{% endblock %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+{% block content %}
+{%for film in films%}
+
+<a href="{{url_for('series')}}/{{film[0]}}">{{film[0]}} - {{film[1]}}</a><br>
+{%endfor%}
+{% endblock %}

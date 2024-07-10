@@ -1,0 +1,1000 @@
+электроэнергия                      |||prąd (m)                                        |||
+лампочка                            |||żarówka (f)                                     |||
+фонарь (ручной)                     |||latarka (f)                                     |||
+фонарь (уличный)                    |||latarnia (f)                                    |||
+свет (электричество)                |||światło (n)                                     |||
+включать                            |||włączać                                         |||
+выключать                           |||wyłączać                                        |||
+погасить свет                       |||zgasić światło                                  |||
+перегореть (о лампочке)             |||spalić się                                      |||
+короткое замыкание                  |||krótkie zwarcie (n)                             |||
+обрыв (провода)                     |||przerwanie (n) przewodu                         |||
+контакт                             |||styk (m)                                        |||
+выключатель                         |||wyłącznik (m)                                   |||
+розетка                             |||gniazdko (n)                                    |||
+вилка                               |||wtyczka (f)                                     |||
+удлинитель                          |||przedłużacz (m)                                 |||
+предохранитель                      |||bezpiecznik (m)                                 |||
+провод                              |||przewód (m)                                     |||
+проводка                            |||instalacja (f) elektryczna                      |||
+ампер                               |||amper (m)                                       |||
+сила тока                           |||natężenie (n) prądu                             |||
+вольт                               |||wolt (m)                                        |||
+напряжение                          |||napięcie (n)                                    |||
+электроприбор                       |||przyrząd (m) elektryczny                        |||
+индикатор                           |||wskaźnik (m)                                    |||
+электрик                            |||elektryk (m)                                    |||
+паять                               |||lutować                                         |||
+паяльник                            |||lutownica (f)                                   |||
+ток                                 |||prąd (m)                                        |||
+инструмент                          |||narzędzie (n)                                   |||
+инструменты                         |||narzędzia (pl)                                  |||
+оборудование                        |||sprzęt (m)                                      |||
+молоток                             |||młotek (m)                                      |||
+отвёртка                            |||śrubokręt (m)                                   |||
+топор                               |||siekiera (f)                                    |||
+пила                                |||piła (f)                                        |||
+пилить                              |||piłować                                         |||
+рубанок                             |||strug (m)                                       |||
+строгать                            |||heblować                                        |||
+паяльник                            |||lutownica (f)                                   |||
+паять                               |||lutować                                         |||
+напильник                           |||pilnik (m)                                      |||
+клещи                               |||obcęgi (pl)                                     |||
+плоскогубцы                         |||kombinerki (pl)                                 |||
+стамеска                            |||dłuto (n) stolarskie                            |||
+сверло                              |||wiertło (n)                                     |||
+дрель                               |||wiertarka (f)                                   |||
+сверлить                            |||wiercić                                         |||
+нож                                 |||nóż (m)                                         |||
+карманный нож                       |||scyzoryk (m)                                    |||
+складной нож                        |||składany                                        |||
+лезвие (ножа)                       |||ostrze (n)                                      |||
+острый (нож и т.п.)                 |||ostry                                           |||
+тупой                               |||tępy                                            |||
+затупиться                          |||stępić się                                      |||
+точить                              |||ostrzyć                                         |||
+болт                                |||śruba (f)                                       |||
+гайка                               |||nakrętka (f)                                    |||
+резьба (на винте)                   |||gwint (m)                                       |||
+шуруп                               |||wkręt (m)                                       |||
+гвоздь                              |||gwóźdź (m)                                      |||
+шляпка (гвоздя)                     |||główka (f)                                      |||
+линейка                             |||linijka (f)                                     |||
+рулетка                             |||taśma (f) miernicza                             |||
+уровень (инструмент)                |||poziomica (f)                                   |||
+лупа                                |||lupa (f)                                        |||
+измерительный прибор                |||miernik (m)                                     |||
+измерять                            |||mierzyć                                         |||
+шкала                               |||skala (f)                                       |||
+показание (прибора)                 |||odczyt (m)                                      |||
+компрессор                          |||sprężarka (f)                                   |||
+микроскоп                           |||mikroskop (m)                                   |||
+насос                               |||pompa (f)                                       |||
+робот                               |||robot (m)                                       |||
+лазер                               |||laser (m)                                       |||
+гаечный ключ                        |||klucz (m) francuski                             |||
+лента-скотч                         |||taśma (f) klejąca                               |||
+клей                                |||klej (m)                                        |||
+наждачная бумага                    |||papier (m) ścierny                              |||
+пружина                             |||sprężyna (f)                                    |||
+магнит                              |||magnes (m)                                      |||
+перчатки                            |||rękawiczki (pl)                                 |||
+верёвка                             |||sznurek (m)                                     |||
+шнур (верёвка)                      |||sznur (m)                                       |||
+провод                              |||przewód (m)                                     |||
+кабель                              |||kabel (m)                                       |||
+кувалда                             |||młot (m)                                        |||
+лом                                 |||łom (m)                                         |||
+лестница (переносная)               |||drabina (f)                                     |||
+стремянка                           |||drabinka (f) składana                           |||
+закручивать                         |||przekręcać                                      |||
+откручивать                         |||odkręcać                                        |||
+зажимать                            |||zaciskać                                        |||
+приклеивать                         |||przyklejać                                      |||
+резать                              |||ciąć                                            |||
+неисправность                       |||uszkodzenie (n)                                 |||
+починка                             |||naprawa (f)                                     |||
+ремонтировать                       |||reperować                                       |||
+регулировать (прибор)               |||regulować                                       |||
+проверять                           |||sprawdzać                                       |||
+проверка                            |||kontrola (f)                                    |||
+показание (счётчика)                |||odczyt (m)                                      |||
+надёжный (механизм)                 |||niezawodny                                      |||
+сложный                             |||złożony                                         |||
+ржаветь                             |||rdzewieć                                        |||
+ржавый                              |||zardzewiały                                     |||
+ржавчина                            |||rdza (f)                                        |||
+самолёт                             |||samolot (m)                                     |||
+авиабилет                           |||bilet (m) lotniczy                              |||
+авиакомпания                        |||linie (pl) lotnicze                             |||
+аэропорт                            |||port (m) lotniczy                               |||
+сверхзвуковой                       |||ponaddźwiękowy                                  |||
+командир корабля                    |||kapitan (m) statku                              |||
+экипаж                              |||załoga (f)                                      |||
+пилот                               |||pilot (m)                                       |||
+стюардесса                          |||stewardessa (f)                                 |||
+штурман                             |||nawigator (m)                                   |||
+крылья                              |||skrzydła (pl)                                   |||
+хвост                               |||ogon (m)                                        |||
+кабина                              |||kabina (f)                                      |||
+двигатель                           |||silnik (m)                                      |||
+шасси                               |||podwozie (n)                                    |||
+турбина                             |||turbina (f)                                     |||
+пропеллер                           |||śmigło (n)                                      |||
+чёрный ящик                         |||czarna skrzynka (f)                             |||
+штурвал                             |||wolant (m)                                      |||
+горючее                             |||paliwo (n)                                      |||
+инструкция по безопасности          |||instrukcja (f)                                  |||
+кислородная маска                   |||maska (f) tlenowa                               |||
+униформа                            |||uniform (m)                                     |||
+спасательный жилет                  |||kamizelka (f) ratunkowa                         |||
+парашют                             |||spadochron (m)                                  |||
+взлёт                               |||start (m)                                       |||
+взлетать                            |||startować                                       |||
+взлётная полоса                     |||pas (m) startowy                                |||
+видимость                           |||widoczność (f)                                  |||
+полёт                               |||lot (m)                                         |||
+высота                              |||wysokość (f)                                    |||
+воздушная яма                       |||dziura (f) powietrzna                           |||
+место                               |||miejsce (n)                                     |||
+наушники                            |||słuchawki (pl)                                  |||
+откидной столик                     |||stolik (m) rozkładany                           |||
+иллюминатор                         |||iluminator (m)                                  |||
+проход (между креслами)             |||przejście (n)                                   |||
+поезд                               |||pociąg (m)                                      |||
+электричка                          |||pociąg (m) podmiejski                           |||
+скорый поезд                        |||pociąg (m) pośpieszny                           |||
+тепловоз                            |||lokomotywa (f)                                  |||
+паровоз                             |||parowóz (m)                                     |||
+вагон                               |||wagon (m)                                       |||
+вагон-ресторан                      |||wagon (m) restauracyjny                         |||
+рельсы                              |||szyny (pl)                                      |||
+железная дорога                     |||kolej (f)                                       |||
+шпала                               |||podkład (m)                                     |||
+платформа                           |||peron (m)                                       |||
+путь                                |||tor (m)                                         |||
+семафор                             |||semafor (m)                                     |||
+станция                             |||stacja (f)                                      |||
+машинист                            |||maszynista (m)                                  |||
+носильщик                           |||tragarz (m)                                     |||
+проводник                           |||konduktor (m)                                   |||
+пассажир                            |||pasażer (m)                                     |||
+контролёр                           |||kontroler (m)                                   |||
+коридор (в поезде)                  |||korytarz (m)                                    |||
+стоп-кран                           |||hamulec (m) bezpieczeństwa                      |||
+купе                                |||przedział (m)                                   |||
+полка (для лежания)                 |||łóżko (n)                                       |||
+полка верхняя                       |||łóżko (n) górne                                 |||
+полка нижняя                        |||łóżko (n) dolne                                 |||
+постельное бельё                    |||pościel (f)                                     |||
+билет                               |||bilet (m)                                       |||
+расписание                          |||rozkład (m) jazdy                               |||
+табло (расписание)                  |||tablica (f) informacyjna                        |||
+отходить                            |||odjeżdżać                                       |||
+отправление (поезда)                |||odjazd (m)                                      |||
+прибывать                           |||wjeżdżać                                        |||
+прибытие                            |||przybycie (n)                                   |||
+приехать поездом                    |||przyjechać pociągiem                            |||
+сесть на поезд                      |||wsiąść do pociągu                               |||
+сойти с поезда                      |||wysiąść z pociągu                               |||
+крушение                            |||katastrofa (f)                                  |||
+паровоз                             |||parowóz (m)                                     |||
+кочегар                             |||palacz (m)                                      |||
+топка                               |||palenisko (n)                                   |||
+уголь                               |||węgiel (m)                                      |||
+корабль                             |||statek (m)                                      |||
+судно                               |||okręt (m)                                       |||
+пароход                             |||parowiec (m)                                    |||
+теплоход                            |||motorowiec (m)                                  |||
+лайнер                              |||liniowiec (m)                                   |||
+крейсер                             |||krążownik (m)                                   |||
+яхта                                |||jacht (m)                                       |||
+буксир                              |||holownik (m)                                    |||
+баржа                               |||barka (f)                                       |||
+паром                               |||prom (m)                                        |||
+парусник                            |||żaglowiec (m)                                   |||
+бригантина                          |||brygantyna (f)                                  |||
+ледокол                             |||lodołamacz (m)                                  |||
+лодка подводная                     |||łódź (f) podwodna                               |||
+лодка                               |||łódź (f)                                        |||
+шлюпка                              |||szalupa (f)                                     |||
+шлюпка спасательная                 |||szalupa (f)                                     |||
+катер                               |||motorówka (f)                                   |||
+капитан                             |||kapitan (m)                                     |||
+матрос                              |||marynarz (m)                                    |||
+моряк                               |||marynarz (m)                                    |||
+экипаж                              |||załoga (f)                                      |||
+боцман                              |||bosman (m)                                      |||
+юнга                                |||chłopiec (m) okrętowy                           |||
+кок                                 |||kucharz (m) okrętowy                            |||
+судовой врач                        |||lekarz (m) okrętowy                             |||
+палуба                              |||pokład (m)                                      |||
+мачта                               |||maszt (m)                                       |||
+парус                               |||żagiel (m)                                      |||
+трюм                                |||ładownia (f)                                    |||
+нос (корабля)                       |||dziób (m)                                       |||
+корма                               |||rufa (f)                                        |||
+весло                               |||wiosło (n)                                      |||
+винт                                |||śruba (f) napędowa                              |||
+каюта                               |||kajuta (f)                                      |||
+кают-компания                       |||mesa (f)                                        |||
+машинное отделение                  |||maszynownia (f)                                 |||
+капитанский мостик                  |||mostek (m) kapitański                           |||
+радиорубка                          |||radiokabina (f)                                 |||
+волна (радио)                       |||fala (f)                                        |||
+судовой журнал                      |||dziennik (m) pokładowy                          |||
+подзорная труба                     |||luneta (f)                                      |||
+колокол                             |||dzwon (m)                                       |||
+флаг                                |||bandera (f)                                     |||
+канат                               |||lina (f)                                        |||
+узел (завязать ~)                   |||węzeł (m)                                       |||
+поручень                            |||poręcz (f)                                      |||
+трап                                |||trap (m)                                        |||
+якорь                               |||kotwica (f)                                     |||
+поднять якорь                       |||podnieść kotwicę                                |||
+бросить якорь                       |||zarzucić kotwicę                                |||
+якорная цепь                        |||łańcuch (m) kotwicy                             |||
+порт                                |||port (m)                                        |||
+причал                              |||nabrzeże (n)                                    |||
+причаливать                         |||cumować                                         |||
+отчаливать                          |||odbijać                                         |||
+путешествие                         |||podróż (f)                                      |||
+круиз                               |||podróż (f) morska                               |||
+курс                                |||kurs (m)                                        |||
+маршрут                             |||trasa (f)                                       |||
+фарватер                            |||tor (m) wodny                                   |||
+мель                                |||mielizna (f)                                    |||
+сесть на мель                       |||osiąść na mieliźnie                             |||
+буря                                |||sztorm (m)                                      |||
+сигнал                              |||sygnał (m)                                      |||
+тонуть (о корабле)                  |||tonąć                                           |||
+SOS                                 |||SOS                                             |||
+спасательный круг                   |||koło (n) ratunkowe                              |||
+аэропорт                            |||port (m) lotniczy                               |||
+самолёт                             |||samolot (m)                                     |||
+авиакомпания                        |||linie (pl) lotnicze                             |||
+диспетчер                           |||kontroler (m) lotów                             |||
+вылет                               |||odlot (m)                                       |||
+прилёт                              |||przylot (m)                                     |||
+прилететь                           |||przylecieć                                      |||
+время вылета                        |||godzina (f) odlotu                              |||
+время прилёта                       |||godzina (f) przylotu                            |||
+задерживаться (о рейсе)             |||opóźniać się                                    |||
+задержка вылета                     |||opóźnienie (n) odlotu                           |||
+информационное табло                |||tablica (f) informacyjna                        |||
+информация                          |||informacja (f)                                  |||
+объявлять                           |||ogłaszać                                        |||
+рейс                                |||lot (m)                                         |||
+таможня                             |||urząd (m) celny                                 |||
+таможенник                          |||celnik (m)                                      |||
+таможенная декларация               |||deklaracja (f)                                  |||
+заполнить декларацию                |||wypełnić deklarację                             |||
+паспортный контроль                 |||odprawa (f) paszportowa                         |||
+багаж                               |||bagaż (m)                                       |||
+ручная кладь                        |||bagaż (m) podręczny                             |||
+розыск багажа                       |||poszukiwanie (n) bagażu                         |||
+тележка (для багажа)                |||wózek (m) bagażowy                              |||
+посадка                             |||lądowanie (n)                                   |||
+посадочная полоса                   |||pas (m) startowy                                |||
+садиться (о самолёте)               |||lądować                                         |||
+трап (к самолету)                   |||schody (pl) do samolotu                         |||
+регистрация                         |||odprawa (f) biletowa                            |||
+стойка регистрации                  |||stanowisko (n) odprawy                          |||
+зарегистрироваться                  |||zgłosić się do odprawy                          |||
+посадочный талон                    |||karta (f) pokładowa                             |||
+выход (на посадку)                  |||wyjście (n) do odprawy                          |||
+транзит                             |||tranzyt (m)                                     |||
+ждать                               |||czekać                                          |||
+зал ожидания                        |||poczekalnia (f)                                 |||
+провожать                           |||odprowadzać                                     |||
+прощаться                           |||żegnać się                                      |||
+велосипед                           |||rower (m)                                       |||
+мотороллер                          |||skuter (m)                                      |||
+мотоцикл                            |||motocykl (m)                                    |||
+ехать на велосипеде                 |||jechać na rowerze                               |||
+руль (велосипеда)                   |||kierownica (f)                                  |||
+педаль                              |||pedał (m)                                       |||
+тормоза                             |||hamulce (pl)                                    |||
+седло                               |||siodełko (n)                                    |||
+насос                               |||pompka (f)                                      |||
+багажник                            |||bagażnik (m)                                    |||
+фонарь                              |||lampa (f)                                       |||
+шлем                                |||kask (m)                                        |||
+колесо                              |||koło (n)                                        |||
+крыло                               |||błotnik (m)                                     |||
+обод                                |||obręcz (f)                                      |||
+спица                               |||szprycha (f)                                    |||
+автомобиль                          |||samochód (m)                                    |||
+спортивный автомобиль               |||samochód (m) sportowy                           |||
+лимузин                             |||limuzyna (f)                                    |||
+внедорожник, джип                   |||samochód (m) terenowy                           |||
+кабриолет                           |||kabriolet (m)                                   |||
+микроавтобус                        |||mikrobus (m)                                    |||
+скорая помощь                       |||karetka (f) pogotowia                           |||
+снегоуборочная машина               |||odśnieżarka (f)                                 |||
+грузовик                            |||ciężarówka (f)                                  |||
+бензовоз                            |||samochód-cysterna (f)                           |||
+фургон                              |||furgon (m)                                      |||
+тягач                               |||ciągnik (m) siodłowy                            |||
+прицеп                              |||przyczepa (f)                                   |||
+комфортабельный                     |||komfortowy                                      |||
+подержанный                         |||używany                                         |||
+капот                               |||maska (f)                                       |||
+крыло                               |||błotnik (m)                                     |||
+крыша                               |||dach (m)                                        |||
+ветровое стекло                     |||szyba (f) przednia                              |||
+зеркало заднего вида                |||lusterko (n) wsteczne                           |||
+омыватель                           |||spryskiwacz (m)                                 |||
+щетки стеклоочистителя              |||wycieraczki (pl)                                |||
+боковое стекло                      |||szyba (f) boczna                                |||
+стеклоподъёмник                     |||podnośnik (m) szyby                             |||
+антенна                             |||antena (f)                                      |||
+люк                                 |||szyberdach (m)                                  |||
+бампер                              |||zderzak (m)                                     |||
+багажник                            |||bagażnik (m)                                    |||
+дверца                              |||drzwi (f)                                       |||
+ручка (двери)                       |||klamka (f)                                      |||
+замок                               |||zamek (m)                                       |||
+номер (авто)                        |||tablica (f) rejestracyjna                       |||
+глушитель                           |||tłumik (m)                                      |||
+бензобак                            |||zbiornik (m) paliwa                             |||
+выхлопная труба                     |||rura (f) wydechowa                              |||
+газ                                 |||gaz (m)                                         |||
+педаль                              |||pedał (m)                                       |||
+педаль газа                         |||pedał (m) gazu                                  |||
+тормоз                              |||hamulec (m)                                     |||
+педаль тормоза                      |||pedał (m) hamulca                               |||
+тормозить                           |||hamować                                         |||
+стояночный тормоз                   |||hamulec (m) postojowy                           |||
+сцепление                           |||sprzęgło (n)                                    |||
+педаль сцепления                    |||pedał (m) sprzęgła                              |||
+диск сцепления                      |||tarcza (f) sprzęgła                             |||
+амортизатор                         |||amortyzator (m)                                 |||
+колесо                              |||koło (n)                                        |||
+запасное колесо                     |||koło (n) zapasowe                               |||
+покрышка, шина                      |||opona (f)                                       |||
+колпак (на колесе)                  |||kołpak (m)                                      |||
+ведущие колёса                      |||koła (pl) napędowe                              |||
+переднеприводный                    |||z napędem na przednie koła                      |||
+заднеприводный                      |||z napędem na tylne koła                         |||
+полноприводный                      |||z napędem na cztery koła                        |||
+коробка передач                     |||skrzynia (f) biegów                             |||
+автоматический                      |||automatyczny                                    |||
+механический                        |||mechaniczny                                     |||
+рычаг коробки передач               |||dźwignia (f) skrzyni biegów                     |||
+фара                                |||reflektor (m)                                   |||
+фары (свет)                         |||światła (pl)                                    |||
+ближний свет                        |||światła (pl) mijania                            |||
+дальний свет                        |||światła (pl) drogowe                            |||
+стоп-сигнал                         |||światła (pl) hamowania                          |||
+габаритные огни                     |||światła (pl) obrysowe                           |||
+аварийные огни                      |||światła (pl) awaryjne                           |||
+противотуманные фары                |||światła (pl) przeciwmgielne                     |||
+указатель поворота                  |||migacz (m)                                      |||
+фонарь заднего хода                 |||światła (pl) cofania                            |||
+салон (автомобиля)                  |||wewnątrz (m) samochodu                          |||
+кожаный                             |||skórzany                                        |||
+велюровый                           |||welurowy                                        |||
+обивка                              |||obicie (n)                                      |||
+прибор                              |||przyrząd (m)                                    |||
+приборный щиток                     |||deska (f) rozdzielcza                           |||
+спидометр                           |||prędkościomierz (m)                             |||
+стрелка                             |||strzałka (f)                                    |||
+счётчик километража                 |||licznik (m)                                     |||
+датчик                              |||czujnik (m)                                     |||
+уровень (напр. масла)               |||poziom (m)                                      |||
+лампочка (индикатор)                |||lampka (f)                                      |||
+руль, рулевое колесо                |||kierownica (f)                                  |||
+сигнал (клаксон)                    |||klakson (m)                                     |||
+кнопка                              |||przycisk (m)                                    |||
+переключатель                       |||przełącznik (m)                                 |||
+сиденье                             |||siedzenie (n)                                   |||
+спинка (сиденья)                    |||oparcie (n)                                     |||
+подголовник                         |||zagłówek (m)                                    |||
+ремень безопасности                 |||pas (m) bezpieczeństwa                          |||
+пристегнуть ремень                  |||zapiąć pasy                                     |||
+регулировка                         |||regulacja (f)                                   |||
+воздушная подушка                   |||poduszka (f) powietrzna                         |||
+кондиционер                         |||klimatyzator (m)                                |||
+радио                               |||radio (n)                                       |||
+СD-проигрыватель                    |||odtwarzacz CD (m)                               |||
+включить (приёмник)                 |||włączyć                                         |||
+антенна                             |||antena (f)                                      |||
+отделение для перчаток              |||schowek (m)                                     |||
+пепельница                          |||popielniczka (f)                                |||
+двигатель                           |||silnik (m)                                      |||
+мотор                               |||motor (m)                                       |||
+дизельный                           |||dieslowy                                        |||
+бензиновый                          |||benzynowy                                       |||
+объём двигателя                     |||pojemność (f) silnika                           |||
+мощность                            |||moc (f)                                         |||
+лошадиная сила                      |||koń (m) mechaniczny                             |||
+поршень                             |||tłok (m)                                        |||
+цилиндр                             |||cylinder (m)                                    |||
+клапан                              |||zastawka (f)                                    |||
+инжектор                            |||wtryskiwacz (m)                                 |||
+генератор                           |||generator (m)                                   |||
+карбюратор                          |||gaźnik (m)                                      |||
+масло моторное                      |||olej (m) silnikowy                              |||
+радиатор                            |||chłodnica (f)                                   |||
+охлаждающая жидкость                |||płyn (m) chłodniczy                             |||
+вентилятор                          |||wentylator (m)                                  |||
+аккумулятор                         |||akumulator (m)                                  |||
+стартер                             |||rozrusznik (m)                                  |||
+зажигание                           |||zapłon (m)                                      |||
+свеча зажигания                     |||świeca (f) zapłonowa                            |||
+клемма                              |||zacisk (m)                                      |||
+плюс                                |||plus (m)                                        |||
+минус                               |||minus (m)                                       |||
+предохранитель                      |||bezpiecznik (m)                                 |||
+воздушный фильтр                    |||filtr (m) powietrza                             |||
+масляный фильтр                     |||filtr (m) oleju                                 |||
+топливный фильтр                    |||filtr (m) paliwa                                |||
+авария                              |||wypadek (m)                                     |||
+дорожное происшествие               |||wypadek (m) drogowy                             |||
+врезаться (о машине)                |||wjechać w …                                     |||
+разбиться                           |||stłuc się                                       |||
+повреждение                         |||uszkodzenie (n)                                 |||
+целый (невредимый)                  |||nietknięty                                      |||
+сломаться                           |||zepsuć się                                      |||
+буксировочный трос                  |||hol (m)                                         |||
+прокол                              |||przebita opona (f)                              |||
+спустить (о колесе)                 |||spuścić                                         |||
+накачивать (шину)                   |||napompowywać                                    |||
+давление                            |||ciśnienie (n)                                   |||
+проверить                           |||skontrolować                                    |||
+ремонт                              |||naprawa (f)                                     |||
+автосервис                          |||warsztat (m) samochodowy                        |||
+запчасть                            |||część (f) zamienna                              |||
+деталь                              |||część (f)                                       |||
+болт                                |||śruba (f)                                       |||
+винт                                |||wkręt (m)                                       |||
+гайка                               |||nakrętka (f)                                    |||
+шайба                               |||podkładka (f)                                   |||
+подшипник                           |||łożysko (n)                                     |||
+трубка                              |||rura (f)                                        |||
+прокладка                           |||uszczelka (f)                                   |||
+провод                              |||przewód (m)                                     |||
+домкрат                             |||podnośnik (m)                                   |||
+гаечный ключ                        |||klucz (m) francuski                             |||
+молоток                             |||młotek (m)                                      |||
+насос                               |||pompka (f)                                      |||
+отвёртка                            |||śrubokręt (m)                                   |||
+огнетушитель                        |||gaśnica (f)                                     |||
+аварийный треугольник               |||trójkąt (m) odblaskowy                          |||
+глохнуть (о моторе)                 |||gasnąć                                          |||
+остановка (мотора)                  |||wyłączenie (n)                                  |||
+быть сломанным                      |||być złamanym                                    |||
+перегреться                         |||przegrzać się                                   |||
+засориться                          |||zapchać się                                     |||
+замёрзнуть                          |||zamarznąć                                       |||
+лопнуть                             |||pęknąć                                          |||
+давление                            |||ciśnienie (n)                                   |||
+уровень (напр. масла)               |||poziom (m)                                      |||
+слабый (о ремне и т.п.)             |||słaby                                           |||
+вмятина                             |||wgniecenie (n)                                  |||
+стук (шум)                          |||pukanie (n)                                     |||
+трещина                             |||rysa (f)                                        |||
+царапина                            |||zadrapanie (n)                                  |||
+дорога                              |||droga (f)                                       |||
+автомагистраль                      |||autostrada (f)                                  |||
+шоссе                               |||szosa (f)                                       |||
+направление                         |||kierunek (m)                                    |||
+расстояние                          |||odległość (f)                                   |||
+мост                                |||most (m)                                        |||
+паркинг, парковка                   |||parking (m)                                     |||
+площадь                             |||plac (m)                                        |||
+развязка                            |||skrzyżowanie (n)                                |||
+тоннель                             |||tunel (m)                                       |||
+автозаправка                        |||stacja (f) benzynowa                            |||
+автостоянка                         |||parking (m)                                     |||
+бензоколонка                        |||pompa (f) benzynowa                             |||
+автосервис                          |||warsztat (m) samochodowy                        |||
+заправить (машину)                  |||zatankować                                      |||
+топливо, горючее                    |||paliwo (n)                                      |||
+канистра                            |||kanister (m)                                    |||
+асфальт                             |||asfalt (m)                                      |||
+разметка                            |||oznakowanie (n)                                 |||
+бордюр                              |||krawężnik (m)                                   |||
+ограждение                          |||ogrodzenie (n)                                  |||
+кювет                               |||rów (m) boczny                                  |||
+обочина                             |||pobocze (n)                                     |||
+столб                               |||słup (m)                                        |||
+вести (автомобиль)                  |||prowadzić                                       |||
+поворачивать                        |||skręcać                                         |||
+разворачиваться                     |||zawracać                                        |||
+задний ход                          |||bieg (m) wsteczny                               |||
+сигналить (авто)                    |||trąbić                                          |||
+звуковой сигнал                     |||sygnał (m)                                      |||
+застрять                            |||utknąć                                          |||
+буксовать                           |||buksować                                        |||
+глушить (мотор)                     |||gasić                                           |||
+скорость                            |||szybkość (f)                                    |||
+превысить скорость                  |||przekroczyć prędkość                            |||
+штрафовать                          |||karać grzywną                                   |||
+светофор                            |||światła (pl)                                    |||
+права водительские                  |||prawo (n) jazdy                                 |||
+переезд                             |||przejazd (m) kolejowy                           |||
+перекрёсток                         |||skrzyżowanie (n)                                |||
+пешеходный переход                  |||przejście (n) dla pieszych                      |||
+поворот (место на дороге)           |||zakręt (m)                                      |||
+пешеходная зона                     |||strefa (f) dla pieszych                         |||
+правила дорожного                   |||przepisy (pl) ruchu                             |||
+движения                            |||drogowego                                       |||
+знак                                |||znak (m) drogowy                                |||
+обгон                               |||wyprzedzanie (n)                                |||
+поворот                             |||zakręt (m)                                      |||
+разворот                            |||zawracanie (m)                                  |||
+круговое движение                   |||ruch okrężny (m)                                |||
+въезд запрещён                      |||zakaz wjazdu                                    |||
+движение запрещено                  |||zakaz ruchu                                     |||
+обгон запрещён                      |||zakaz wyprzedzania                              |||
+стоянка запрещена                   |||zakaz postoju                                   |||
+остановка запрещена                 |||zakaz zatrzymywania się                         |||
+крутой поворот                      |||niebezpieczny zakręt (m)                        |||
+крутой спуск                        |||niebezpieczny zjazd (m)                         |||
+одностороннее движение              |||droga jednokierunkowa                           |||
+пешеходный переход                  |||przejście (n) dla pieszych                      |||
+скользкая дорога                    |||śliska jezdnia (f)                              |||
+уступи дорогу                       |||ustąp pierwszeństwa                             |||
+праздник (торжество)                |||święto (n)                                      |||
+национальный праздник               |||święto (n) państwowe                            |||
+праздничный день                    |||dzień (m) świąteczny                            |||
+праздновать                         |||świętować                                       |||
+событие                             |||wydarzenie (n)                                  |||
+мероприятие (событие)               |||impreza (f)                                     |||
+банкет                              |||bankiet (m)                                     |||
+приём (мероприятие)                 |||przyjęcie (n)                                   |||
+пир                                 |||uczta (f)                                       |||
+годовщина                           |||rocznica (f)                                    |||
+юбилей                              |||jubileusz (m)                                   |||
+отметить (юбилей и т.п.)            |||obchodzić                                       |||
+Новый год                           |||Nowy Rok (m)                                    |||
+С Новым Годом!                      |||Szczęśliwego Nowego Roku!                       |||
+Новогодняя ёлка                     |||choinka (f)                                     |||
+Рождество                           |||Boże Narodzenie (n)                             |||
+Весёлого Рождества!                 |||Wesołych Świąt !                                |||
+салют (фейерверк)                   |||sztuczne ognie (pl)                             |||
+свадьба                             |||wesele (n)                                      |||
+жених                               |||narzeczony (m)                                  |||
+невеста                             |||narzeczona (f)                                  |||
+приглашать                          |||zapraszać                                       |||
+приглашение (документ)              |||zaproszenie (n)                                 |||
+гость                               |||gość (m)                                        |||
+идти в гости                        |||iść w gości                                     |||
+встречать гостей                    |||witać gości                                     |||
+подарок                             |||prezent (m)                                     |||
+дарить (подарок)                    |||dawać w prezencie                               |||
+получать подарки                    |||dostawać prezenty                               |||
+букет                               |||bukiet (m)                                      |||
+поздравление                        |||gratulacje (pl)                                 |||
+поздравлять                         |||gratulować                                      |||
+поздравительная открытка            |||kartka (f) z życzeniami                         |||
+отправить открытку                  |||wysłać kartkę                                   |||
+получить открытку                   |||dostać kartkę                                   |||
+тост                                |||toast (m)                                       |||
+угощать                             |||częstować                                       |||
+шампанское                          |||szampan (m)                                     |||
+веселиться                          |||bawić się                                       |||
+веселье                             |||zabawa (f)                                      |||
+радость                             |||radość (f)                                      |||
+танец                               |||taniec (m)                                      |||
+танцевать                           |||tańczyć                                         |||
+вальс                               |||walc (m)                                        |||
+танго                               |||tango (n)                                       |||
+кладбище                            |||cmentarz (m)                                    |||
+могила                              |||grób (m)                                        |||
+крест                               |||krzyż (m)                                       |||
+надгробие                           |||nagrobek (m)                                    |||
+ограда                              |||ogrodzenie (n)                                  |||
+часовня                             |||kaplica (f)                                     |||
+смерть                              |||śmierć (f)                                      |||
+умереть                             |||umrzeć                                          |||
+покойник                            |||zmarły (m)                                      |||
+траур                               |||żałoba (f)                                      |||
+хоронить                            |||chować                                          |||
+похоронное бюро                     |||zakład (m) pogrzebowy                           |||
+похороны                            |||pogrzeb (m)                                     |||
+венок                               |||wieniec (m)                                     |||
+гроб                                |||trumna (f)                                      |||
+катафалк                            |||karawan (m)                                     |||
+саван                               |||całun (m)                                       |||
+погребальная урна                   |||urna (f) pogrzebowa                             |||
+крематорий                          |||krematorium (m)                                 |||
+некролог                            |||nekrolog (m)                                    |||
+плакать                             |||płakać                                          |||
+рыдать                              |||szlochać                                        |||
+взвод                               |||pluton (m)                                      |||
+рота                                |||rota (f)                                        |||
+полк                                |||pułk (m)                                        |||
+армия                               |||armia (f)                                       |||
+дивизия                             |||dywizja (f)                                     |||
+отряд                               |||oddział (m)                                     |||
+войско                              |||wojsko (n)                                      |||
+солдат                              |||żołnierz (m)                                    |||
+офицер                              |||oficer (m)                                      |||
+рядовой                             |||szeregowy (m)                                   |||
+сержант                             |||sierżant (m)                                    |||
+лейтенант                           |||podporucznik (m)                                |||
+капитан                             |||kapitan (m)                                     |||
+майор                               |||major (m)                                       |||
+полковник                           |||pułkownik (m)                                   |||
+генерал                             |||generał (m)                                     |||
+моряк                               |||marynarz (m)                                    |||
+капитан                             |||kapitan (m)                                     |||
+боцман                              |||bosman (m)                                      |||
+артиллерист                         |||artylerzysta (m)                                |||
+десантник                           |||desantowiec (m)                                 |||
+лётчик                              |||lotnik (m)                                      |||
+штурман                             |||nawigator (m)                                   |||
+механик                             |||mechanik (m)                                    |||
+сапёр                               |||saper (m)                                       |||
+парашютист                          |||spadochroniarz (m)                              |||
+разведчик                           |||zwiadowca (m)                                   |||
+снайпер                             |||snajper (m)                                     |||
+патруль                             |||patrol (m)                                      |||
+патрулировать                       |||patrolować                                      |||
+часовой (воен.)                     |||wartownik (m)                                   |||
+воин                                |||wojownik (m)                                    |||
+герой                               |||bohater (m)                                     |||
+героиня                             |||bohaterka (f)                                   |||
+патриот                             |||patriota (m)                                    |||
+предатель                           |||zdrajca (m)                                     |||
+дезертир                            |||dezerter (m)                                    |||
+дезертировать                       |||dezerterować                                    |||
+наёмник                             |||najemnik (m)                                    |||
+новобранец                          |||rekrut (m)                                      |||
+доброволец                          |||ochotnik (m)                                    |||
+убитый (сущ.)                       |||zabity (m)                                      |||
+раненый (сущ.)                      |||ranny (m)                                       |||
+пленный (сущ.)                      |||jeniec (m)                                      |||
+война                               |||wojna (f)                                       |||
+воевать (вести войну)               |||wojować                                         |||
+гражданская война                   |||wojna domowa (f)                                |||
+вероломно                           |||wiarołomnie                                     |||
+объявление войны                    |||wypowiedzenie (n)                               |||
+объявить (войну)                    |||wypowiedzieć (~ wojnę)                          |||
+агрессия                            |||agresja (f)                                     |||
+нападать                            |||napadać                                         |||
+захватывать                         |||najeźdźać                                       |||
+захватчик                           |||najeźdźca (m)                                   |||
+завоеватель                         |||zdobywca (m)                                    |||
+оборона, защита                     |||obrona (f)                                      |||
+оборонять, защищать                 |||bronić                                          |||
+обороняться                         |||bronić się                                      |||
+враг                                |||wróg (m)                                        |||
+противник                           |||przeciwnik (m)                                  |||
+вражеский                           |||wrogi                                           |||
+стратегия                           |||strategia (f)                                   |||
+тактика                             |||taktyka (f)                                     |||
+приказ                              |||rozkaz (m)                                      |||
+команда (приказ)                    |||komenda (f)                                     |||
+приказывать                         |||rozkazywać                                      |||
+задание (воен.)                     |||zadanie (n)                                     |||
+секретный                           |||tajny                                           |||
+сражение                            |||bitwa (f)                                       |||
+бой                                 |||bój (m)                                         |||
+атака                               |||atak (m)                                        |||
+штурм                               |||szturm (m)                                      |||
+штурмовать                          |||szturmować                                      |||
+осада                               |||oblężenie (n)                                   |||
+наступление                         |||ofensywa (f)                                    |||
+наступать                           |||nacierać                                        |||
+отступление                         |||odwrót (m)                                      |||
+отступать                           |||wycofywać się                                   |||
+окружение                           |||okrążenie (n)                                   |||
+окружать                            |||okrążyć                                         |||
+бомбёжка (налёт авиации)            |||bombardowanie (n)                               |||
+сбросить бомбу                      |||zrzucić bombę                                   |||
+бомбить                             |||bombardować                                     |||
+взрыв                               |||wybuch (m)                                      |||
+выстрел                             |||strzał (m)                                      |||
+выстрелить                          |||wystrzelić                                      |||
+стрельба                            |||strzelanina (f)                                 |||
+целиться (в …)                      |||celować                                         |||
+навести (орудие)                    |||wycelować                                       |||
+попасть (в цель)                    |||trafić                                          |||
+потопить (корабль и т.п.)           |||zatopić                                         |||
+пробоина                            |||dziura (f)                                      |||
+идти ко дну                         |||iść na dno                                      |||
+фронт                               |||front (m)                                       |||
+тыл                                 |||tyły (pl)                                       |||
+эвакуация                           |||ewakuacja (f)                                   |||
+эвакуировать                        |||ewakuować                                       |||
+колючая проволока                   |||drut (m) kolczasty                              |||
+заграждение                         |||zapora (f)                                      |||
+вышка (строение)                    |||wieża (f)                                       |||
+госпиталь                           |||szpital (m)                                     |||
+ранить                              |||ranić                                           |||
+рана                                |||rana (f)                                        |||
+раненый (сущ.)                      |||ranny (m)                                       |||
+получить ранение                    |||zostać rannym                                   |||
+тяжёлый (о ранении)                 |||ciężki                                          |||
+плен                                |||niewola (f)                                     |||
+взять в плен                        |||wziąć do niewoli                                |||
+быть в плену                        |||być w niewoli                                   |||
+попасть в плен                      |||dostać się do niewoli                           |||
+концлагерь                          |||obóz (m) koncentracyjny                         |||
+пленный (сущ.)                      |||jeniec (m)                                      |||
+бежать (из плена)                   |||uciekać                                         |||
+предать                             |||zdradzić                                        |||
+предатель                           |||zdrajca (m)                                     |||
+предательство                       |||zdrada (f)                                      |||
+расстрелять (казнить)               |||rozstrzelać                                     |||
+расстрел (казнь)                    |||rozstrzelanie (n)                               |||
+обмундирование                      |||umundurowanie (n)                               |||
+погон                               |||pagon (m)                                       |||
+противогаз                          |||maska (f) przeciwgazowa                         |||
+рация                               |||radiostacja (f) przenośna                       |||
+шифр                                |||szyfr (m)                                       |||
+конспирация                         |||konspiracja (f)                                 |||
+пароль                              |||hasło (n)                                       |||
+мина                                |||mina (f)                                        |||
+заминировать                        |||zaminować                                       |||
+минное поле                         |||pole (n) minowe                                 |||
+воздушная тревога                   |||alarm (m) przeciwlotniczy                       |||
+тревога (сигнал)                    |||alarm (m)                                       |||
+сигнал                              |||sygnał (m)                                      |||
+сигнальная ракета                   |||rakieta (f) sygnalizacyjna                      |||
+штаб                                |||sztab (m)                                       |||
+разведка                            |||rekonesans (m)                                  |||
+обстановка                          |||sytuacja (f)                                    |||
+рапорт                              |||raport (m)                                      |||
+засада                              |||zasadzka (f)                                    |||
+подкрепление                        |||posiłki (pl)                                    |||
+мишень                              |||cel (m)                                         |||
+полигон                             |||poligon (m)                                     |||
+манёвры                             |||manewry (pl)                                    |||
+паника                              |||panika (f)                                      |||
+разруха                             |||ruina (f)                                       |||
+разрушения                          |||zniszczenia (pl)                                |||
+разрушать                           |||niszczyć                                        |||
+выжить                              |||przeżyć                                         |||
+обезоружить                         |||rozbroić                                        |||
+обращаться (с оружием)              |||obchodzić się                                   |||
+Смирно!                             |||Baczność!                                       |||
+Вольно!                             |||Spocznij!                                       |||
+подвиг                              |||czyn (m) bohaterski                             |||
+клятва                              |||przysięga (f)                                   |||
+клясться                            |||przysięgać                                      |||
+награда (медаль и т.п.)             |||odznaczenie (n)                                 |||
+награждать                          |||nagradzać                                       |||
+медаль                              |||medal (m)                                       |||
+орден                               |||order (m)                                       |||
+победа                              |||zwycięstwo (n)                                  |||
+поражение                           |||klęska (f)                                      |||
+перемирие                           |||rozejm (m)                                      |||
+знамя                               |||sztandar (m)                                    |||
+слава (почёт)                       |||chwała (f)                                      |||
+парад                               |||defilada (f)                                    |||
+маршировать                         |||maszerować                                      |||
+оружие                              |||broń (f)                                        |||
+огнестрельное оружие                |||broń (f) palna                                  |||
+холодное оружие                     |||broń (f) biała                                  |||
+химическое оружие                   |||broń (f) chemiczna                              |||
+ядерный                             |||nuklearny                                       |||
+ядерное оружие                      |||broń (f) nuklearna                              |||
+бомба                               |||bomba (f)                                       |||
+атомная бомба                       |||bomba atomowa (f)                               |||
+пистолет                            |||pistolet (m)                                    |||
+ружьё                               |||strzelba (f)                                    |||
+автомат                             |||automat (m)                                     |||
+пулемёт                             |||karabin (m) maszynowy                           |||
+дуло                                |||wylot (m)                                       |||
+ствол                               |||lufa (f)                                        |||
+калибр                              |||kaliber (m)                                     |||
+курок (спусковой крючок)            |||spust (m)                                       |||
+прицел                              |||celownik (m)                                    |||
+магазин (автомата)                  |||magazynek (m)                                   |||
+приклад                             |||kolba (f)                                       |||
+ручная граната                      |||granat (m)                                      |||
+взрывчатка                          |||ładunek (m) wybuchowy                           |||
+пуля                                |||kula (f)                                        |||
+патрон                              |||nabój (m)                                       |||
+заряд                               |||ładunek (m)                                     |||
+боеприпасы                          |||amunicja (f)                                    |||
+бомбардировщик                      |||bombowiec (m)                                   |||
+истребитель                         |||myśliwiec (m)                                   |||
+вертолёт                            |||helikopter (m)                                  |||
+зенитка                             |||działo (n) przeciwlotnicze                      |||
+танк                                |||czołg (m)                                       |||
+пушка (на танке)                    |||działo (n)                                      |||
+артиллерия                          |||artyleria (f)                                   |||
+навести (орудие)                    |||wycelować                                       |||
+снаряд                              |||pocisk (m)                                      |||
+миномётная мина                     |||pocisk (m) moździerzowy                         |||
+миномёт                             |||moździerz (m)                                   |||
+осколок                             |||odłamek (m)                                     |||
+подводная лодка                     |||łódź (f) podwodna                               |||
+торпеда                             |||torpeda (f)                                     |||
+ракета                              |||rakieta (f)                                     |||
+заряжать (оружие)                   |||ładować                                         |||
+стрелять                            |||strzelać                                        |||
+целиться (в …)                      |||celować                                         |||
+штык                                |||bagnet (m)                                      |||
+шпага                               |||szpada (f)                                      |||
+сабля                               |||szabla (f)                                      |||
+копьё                               |||kopia (f), włócznia (f)                         |||
+лук                                 |||łuk (m)                                         |||
+стрела                              |||strzała (f)                                     |||
+мушкет                              |||muszkiet (m)                                    |||
+арбалет                             |||kusza (f)                                       |||
+первобытный                         |||pierwotny                                       |||
+доисторический                      |||prehistoryczny                                  |||
+древний                             |||dawny                                           |||
+Каменный Век                        |||Epoka (f) kamienna                              |||
+Бронзовый Век                       |||Epoka (f) brązu                                 |||
+ледниковый период                   |||Epoka (f) lodowcowa                             |||
+племя                               |||plemię (n)                                      |||
+людоед                              |||kanibal (m)                                     |||
+охотник                             |||myśliwy (m)                                     |||
+охотиться                           |||polować                                         |||
+мамонт                              |||mamut (m)                                       |||
+пещера                              |||jaskinia (f)                                    |||
+огонь                               |||ogień (m)                                       |||
+костёр                              |||ognisko (n)                                     |||
+наскальный рисунок                  |||malowidło (n) naskalne                          |||
+орудие труда                        |||narzędzie (n) pracy                             |||
+копьё                               |||kopia (f), włócznia (f)                         |||
+каменный топор                      |||topór (m) kamienny                              |||
+воевать (вести войну)               |||wojować                                         |||
+приручать (животных)                |||oswajać zwierzęta                               |||
+идол                                |||bożek (m)                                       |||
+поклоняться                         |||czcić                                           |||
+суеверие                            |||przesąd (m)                                     |||
+обряд, ритуал                       |||obrzęd (m)                                      |||
+эволюция                            |||ewolucja (f)                                    |||
+развитие                            |||rozwój (m)                                      |||
+исчезновение                        |||zniknięcie (n)                                  |||
+приспосабливаться                   |||adaptować się                                   |||
+археология                          |||archeologia (f)                                 |||
+археолог                            |||archeolog (m)                                   |||
+археологический                     |||archeologiczny                                  |||
+раскопки (место работ)              |||wykopaliska (pl)                                |||
+раскопки (работы)                   |||prace (pl) wykopaliskowe                        |||
+находка                             |||znalezisko (n)                                  |||
+фрагмент                            |||fragment (m)                                    |||
+народ                               |||naród (m)                                       |||
+народы                              |||narody (pl)                                     |||
+племя                               |||plemię (n)                                      |||
+племена                             |||plemiona (pl)                                   |||
+варвары                             |||Barbarzyńcy (pl)                                |||
+галлы                               |||Gallowie (pl)                                   |||
+готы                                |||Goci (pl)                                       |||
+славяне                             |||Słowianie (pl)                                  |||
+викинги                             |||Wikingowie (pl)                                 |||
+римляне                             |||Rzymianie (pl)                                  |||
+римский                             |||rzymski                                         |||
+византийцы                          |||Bizantyjczycy (pl)                              |||
+Византия                            |||Bizancjum (n)                                   |||
+византийский                        |||bizantyjski                                     |||
+император                           |||cesarz (m)                                      |||
+вождь                               |||wódz (m)                                        |||
+могущественный                      |||potężny                                         |||
+король                              |||król (m)                                        |||
+правитель                           |||władca (m)                                      |||
+рыцарь                              |||rycerz (m)                                      |||
+феодал                              |||feudał (m)                                      |||
+феодальный                          |||feudalny                                        |||
+вассал                              |||wasal (m)                                       |||
+герцог                              |||książę (m)                                      |||
+граф                                |||hrabia (m)                                      |||
+барон                               |||baron (m)                                       |||
+епископ                             |||biskup (m)                                      |||
+доспехи                             |||zbroja (f)                                      |||
+щит                                 |||tarcza (f)                                      |||
+меч                                 |||miecz (m)                                       |||
+забрало                             |||przyłbica (f)                                   |||
+кольчуга                            |||kolczuga (f)                                    |||
+крестовый поход                     |||wyprawa (f) krzyżowa                            |||
+крестоносец                         |||krzyżak (m)                                     |||
+территория                          |||terytorium (n)                                  |||
+нападать                            |||napadać                                         |||
+завоевать                           |||zawojować                                       |||
+захватить                           |||zająć                                           |||
+осада                               |||oblężenie (n)                                   |||
+осаждённый                          |||oblężony                                        |||
+осаждать                            |||oblegać                                         |||
+инквизиция                          |||inkwizycja (f)                                  |||
+инквизитор                          |||inkwizytor (m)                                  |||
+пытка                               |||tortury (pl)                                    |||
+жестокий                            |||okrutny                                         |||
+еретик                              |||heretyk (m)                                     |||
+ересь                               |||herezja (f)                                     |||
+мореплавание                        |||nawigacja (f)                                   |||
+пират                               |||pirat (m)                                       |||
+пиратство                           |||piractwo (n)                                    |||
+абордаж                             |||abordaż (m)                                     |||
+добыча                              |||łup (m)                                         |||
+сокровища                           |||skarby (pl)                                     |||
+открытие (новых земель)             |||odkrycie (n)                                    |||
+открыть                             |||odkryć                                          |||
+экспедиция                          |||ekspedycja (f)                                  |||
+мушкетёр                            |||muszkieter (m)                                  |||
+кардинал                            |||kardynał (m)                                    |||
+геральдика                          |||heraldyka (f)                                   |||
+геральдический                      |||heraldyczny                                     |||
+король                              |||król (m)                                        |||
+королева                            |||królowa (f)                                     |||
+королевский                         |||królewski                                       |||
+королевство                         |||królestwo (n)                                   |||
+принц                               |||książę (m)                                      |||
+принцесса                           |||księżniczka (f)                                 |||
+президент                           |||prezydent (m)                                   |||
+вице-президент                      |||wiceprezydent (m)                               |||
+сенатор                             |||senator (m)                                     |||
+монарх                              |||monarcha (m)                                    |||
+правитель                           |||władca (m)                                      |||
+диктатор                            |||dyktator (m)                                    |||
+тиран                               |||tyran (m)                                       |||
+магнат                              |||magnat (m)                                      |||
+директор                            |||dyrektor (m)                                    |||
+шеф                                 |||szef (m)                                        |||
+управляющий                         |||kierownik (m)                                   |||
+босс                                |||szef (m)                                        |||
+хозяин (владелец)                   |||właściciel (m)                                  |||
+глава (~ делегации)                 |||głowa (f)                                       |||
+власти                              |||władze (pl)                                     |||
+начальство                          |||kierownictwo (n)                                |||
+губернатор                          |||gubernator (m)                                  |||
+консул                              |||konsul (m)                                      |||
+дипломат                            |||dyplomata (m)                                   |||
+мэр                                 |||mer (m)                                         |||
+шериф                               |||szeryf (m)                                      |||
+император                           |||cesarz (m)                                      |||
+царь                                |||car (m)                                         |||
+фараон                              |||faraon (m)                                      |||
+хан                                 |||chan (m)                                        |||
+дорога                              |||droga (f)                                       |||
+путь                                |||droga (f)                                       |||
+шоссе                               |||szosa (f)                                       |||
+автомагистраль                      |||autostrada (f)                                  |||
+национальная дорога                 |||droga (f) krajowa                               |||
+главная дорога                      |||główna droga (f)                                |||
+просёлочная дорога                  |||polna droga (f)                                 |||
+тропа                               |||ścieżka (f)                                     |||
+тропинка                            |||ścieżka (f)                                     |||
+Где?                                |||Gdzie?                                          |||
+Куда?                               |||Dokąd?                                          |||
+Откуда?                             |||Skąd?                                           |||
+направление                         |||kierunek (m)                                    |||
+указать (направление)               |||pokazać                                         |||
+налево                              |||w lewo                                          |||
+направо                             |||w prawo                                         |||
+прямо                               |||prosto                                          |||
+назад                               |||do tyłu                                         |||
+поворот (место на дороге)           |||zakręt (m)                                      |||
+поворачивать                        |||skręcać                                         |||
+разворачиваться                     |||zawracać                                        |||
+виднеться                           |||być widocznym                                   |||
+показаться (появиться)              |||ukazać się                                      |||
+остановка (в пути)                  |||postój (m)                                      |||
+отдохнуть                           |||odpocząć                                        |||
+отдых                               |||odpoczynek (m)                                  |||
+заблудиться                         |||zabłądzić                                       |||
+вести к … (о дороге)                |||prowadzić                                       |||
+выйти к …                           |||wyjść do …                                      |||
+отрезок (пути)                      |||odcinek (m)                                     |||
+асфальт                             |||asfalt (m)                                      |||
+бордюр                              |||krawężnik (m)                                   |||
+канава                              |||rów (m)                                         |||
+люк (на дороге)                     |||właz (m)                                        |||
+обочина                             |||pobocze (m)                                     |||
+яма                                 |||dziura (f)                                      |||
+идти                                |||iść                                             |||
+обогнать                            |||wyprzedzić                                      |||
+шаг                                 |||krok (m)                                        |||
+пешком                              |||na piechotę                                     |||
+перегородить (дорогу)               |||zamknąć przejazd                                |||
+шлагбаум                            |||szlaban (m)                                     |||
+тупик                               |||ślepa uliczka (f)                               |||
+бандит                              |||bandyta (m)                                     |||
+преступление                        |||przestępstwo (n)                                |||
+преступник                          |||przestępca (m)                                  |||
+вор                                 |||złodziej (m)                                    |||
+воровать, красть                    |||kraść                                           |||
+воровство                           |||złodziejstwo (n)                                |||
+кража                               |||kradzież (f)                                    |||
+похитить (кого-л.)                  |||porwać                                          |||
+похищение (людей)                   |||porwanie (n)                                    |||

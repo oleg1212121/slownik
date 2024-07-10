@@ -1,0 +1,999 @@
+карманный                           |||kieszonkowy                                         |||
+рукав                               |||rękaw (m)                                           |||
+вешалка (петля)                     |||wieszak (m)                                         |||
+ширинка                             |||rozporek (m)                                        |||
+молния (застежка)                   |||zamek (m) błyskawiczny                              |||
+застёжка                            |||zapięcie (m)                                        |||
+пуговица                            |||guzik (m)                                           |||
+петля (для пуговицы)                |||dziurką (f) na guzik                                |||
+оторваться (о пуговице)             |||urwać się                                           |||
+шить                                |||szyć                                                |||
+вышивать                            |||haftować                                            |||
+вышивка                             |||haft (m)                                            |||
+игла (для шитья)                    |||igła (f)                                            |||
+нитка                               |||nitka (f)                                           |||
+шов (швейный)                       |||szew (m)                                            |||
+испачкаться                         |||wybrudzić się                                       |||
+пятно                               |||plama (f)                                           |||
+помяться (об одежде)                |||zmiąć się                                           |||
+порвать (испортить)                 |||rozerwać                                            |||
+моль                                |||mól (m)                                             |||
+зубная паста                        |||pasta (f) do zębów                                  |||
+зубная щётка                        |||szczoteczka (f) do zębów                            |||
+чистить зубы                        |||myć zęby                                            |||
+бритва                              |||maszynka (f) do golenia                             |||
+крем для бритья                     |||krem (m) do golenia                                 |||
+бриться                             |||golić się                                           |||
+мыло                                |||mydło (n)                                           |||
+шампунь                             |||szampon (m)                                         |||
+ножницы                             |||nożyczki (pl)                                       |||
+пилочка для ногтей                  |||pilnik (m) do paznokci                              |||
+щипчики для ногтей                  |||cążki (pl) do paznokci                              |||
+пинцет                              |||pinceta (f)                                         |||
+косметика                           |||kosmetyki (pl)                                      |||
+маска (косметич.)                   |||maseczka (f)                                        |||
+маникюр                             |||manikiur (m)                                        |||
+делать маникюр                      |||robić manikiur                                      |||
+педикюр                             |||pedikiur (m)                                        |||
+косметичка                          |||kosmetyczka (f)                                     |||
+пудра                               |||puder (m)                                           |||
+пудреница                           |||puderniczka (f)                                     |||
+румяна                              |||róż (m)                                             |||
+духи                                |||perfumy (pl)                                        |||
+туалетная вода                      |||woda (f) toaletowa                                  |||
+лосьон                              |||płyn (m) kosmetyczny                                |||
+одеколон                            |||woda (f) kolońska                                   |||
+тени для век                        |||cienie (pl) do powiek                               |||
+карандаш для глаз                   |||kredka (f) do oczu                                  |||
+тушь для ресниц                     |||tusz (m) do rzęs                                    |||
+губная помада                       |||szminka (f)                                         |||
+лак для ногтей                      |||lakier (m) do paznokci                              |||
+лак для волос                       |||lakier (m) do włosów                                |||
+дезодорант                          |||dezodorant (m)                                      |||
+крем                                |||krem (m)                                            |||
+крем для лица                       |||krem (m) do twarzy                                  |||
+крем для рук                        |||krem (m) do rąk                                     |||
+дневной                             |||na dzień                                            |||
+ночной                              |||nocny                                               |||
+тампон                              |||tampon (m)                                          |||
+туалетная бумага                    |||papier (m) toaletowy                                |||
+фен                                 |||suszarka (f) do włosów                              |||
+драгоценности                       |||kosztowności (pl)                                   |||
+драгоценный (камень)                |||kosztowny                                           |||
+проба (клеймо)                      |||próba (f)                                           |||
+кольцо                              |||pierścionek (m)                                     |||
+обручальное кольцо                  |||obrączka (f)                                        |||
+браслет (украшение)                 |||bransoleta (f)                                      |||
+серьги                              |||kolczyki (pl)                                       |||
+ожерелье                            |||naszyjnik (m)                                       |||
+корона                              |||korona (f)                                          |||
+бусы                                |||korale (pl)                                         |||
+бриллиант                           |||brylant (m)                                         |||
+изумруд                             |||szmaragd (m)                                        |||
+рубин                               |||rubin (m)                                           |||
+сапфир                              |||szafir (m)                                          |||
+жемчуг                              |||perły (pl)                                          |||
+янтарь                              |||bursztyn (m)                                        |||
+часы (наручные)                     |||zegarek (m)                                         |||
+циферблат                           |||tarcza (f) zegarowa                                 |||
+стрелка (часов)                     |||wskazówka (f)                                       |||
+браслет (на часах)                  |||bransoleta (f)                                      |||
+ремешок                             |||pasek (m)                                           |||
+батарейка                           |||bateria (f)                                         |||
+сесть (о батарейке)                 |||wyczerpać się                                       |||
+поменять батарейку                  |||wymienić baterię                                    |||
+спешить (о часах)                   |||śpieszyć się                                        |||
+отставать                           |||spóźnić się                                         |||
+часы настенные                      |||zegar (m) ścienny                                   |||
+часы песочные                       |||klepsydra (f)                                       |||
+часы солнечные                      |||zegar (m) słoneczny                                 |||
+будильник                           |||budzik (m)                                          |||
+часовщик                            |||zegarmistrz (m)                                     |||
+ремонтировать                       |||naprawiać                                           |||
+мясо                                |||mięso (n)                                           |||
+курица                              |||kurczak (m)                                         |||
+цыплёнок                            |||kurczak (m)                                         |||
+утка                                |||kaczka (f)                                          |||
+гусь                                |||gęś (f)                                             |||
+дичь                                |||dziczyzna (f)                                       |||
+индейка                             |||indyk (m)                                           |||
+свинина                             |||wieprzowina (f)                                     |||
+телятина                            |||cielęcina (f)                                       |||
+баранина                            |||baranina (f)                                        |||
+говядина                            |||wołowina (f)                                        |||
+кролик                              |||królik (m)                                          |||
+колбаса                             |||kiełbasa (f)                                        |||
+сосиска                             |||parówka (f)                                         |||
+бекон                               |||boczek (m)                                          |||
+ветчина                             |||szynka (f)                                          |||
+окорок                              |||szynka (f)                                          |||
+паштет                              |||pasztet (m)                                         |||
+печень                              |||wątróbka (f)                                        |||
+сало                                |||smalec (m)                                          |||
+фарш                                |||farsz (m)                                           |||
+язык                                |||ozór (m)                                            |||
+яйцо                                |||jajko (n)                                           |||
+яйца                                |||jajka (pl)                                          |||
+белок                               |||białko (n)                                          |||
+желток                              |||żółtko (n)                                          |||
+рыба                                |||ryba (f)                                            |||
+морепродукты                        |||owoce (pl) morza                                    |||
+икра                                |||kawior (m)                                          |||
+краб                                |||krab (m)                                            |||
+креветка                            |||krewetka (f)                                        |||
+устрица                             |||ostryga (f)                                         |||
+лангуст                             |||langusta (f)                                        |||
+осьминог                            |||ośmiornica (f)                                      |||
+кальмар                             |||kałamarnica (f)                                     |||
+осетрина                            |||mięso (n) jesiotra                                  |||
+лосось                              |||łosoś (m)                                           |||
+палтус                              |||halibut (m)                                         |||
+треска                              |||dorsz (m)                                           |||
+скумбрия                            |||makrela (f)                                         |||
+тунец                               |||tuńczyk (m)                                         |||
+угорь                               |||węgorz (m)                                          |||
+форель                              |||pstrąg (m)                                          |||
+сардина                             |||sardynka (f)                                        |||
+щука                                |||szczupak (m)                                        |||
+сельдь                              |||śledź (m)                                           |||
+хлеб                                |||chleb (m)                                           |||
+сыр                                 |||ser (m)                                             |||
+сахар                               |||cukier (m)                                          |||
+соль                                |||sól (f)                                             |||
+рис                                 |||ryż (m)                                             |||
+макароны                            |||makaron (m)                                         |||
+лапша                               |||makaron (m)                                         |||
+сливочное масло                     |||masło (n) śmietankowe                               |||
+масло растительное                  |||olej (m) roślinny                                   |||
+подсолнечное масло                  |||olej (m) słonecznikowy                              |||
+маргарин                            |||margaryna (f)                                       |||
+оливки                              |||oliwki (f pl)                                       |||
+масло оливковое                     |||olej (m) oliwkowy                                   |||
+молоко                              |||mleko (n)                                           |||
+сгущённое молоко                    |||mleko (n) skondensowane                             |||
+йогурт                              |||jogurt (m)                                          |||
+сметана                             |||śmietana (f)                                        |||
+сливки                              |||śmietanka (f)                                       |||
+майонез                             |||majonez (m)                                         |||
+крем                                |||krem (m)                                            |||
+крупа                               |||kasza (f)                                           |||
+мука                                |||mąka (f)                                            |||
+консервы                            |||konserwy (pl)                                       |||
+кукурузные хлопья                   |||płatki (pl) kukurydziane                            |||
+мёд                                 |||miód (m)                                            |||
+джем, конфитюр                      |||dżem (m)                                            |||
+жевательная резинка                 |||guma (f) do żucia                                   |||
+вода                                |||woda (f)                                            |||
+питьевая вода                       |||woda (f) pitna                                      |||
+минеральная вода                    |||woda (f) mineralna                                  |||
+без газа                            |||niegazowana                                         |||
+газированный                        |||gazowana                                            |||
+с газом                             |||gazowana                                            |||
+лёд                                 |||lód (m)                                             |||
+со льдом                            |||z lodem                                             |||
+безалкогольный                      |||bezalkoholowy                                       |||
+безалкогольный напиток              |||napój (m) bezalkoholowy                             |||
+прохладительный напиток             |||napój (m) orzeźwiający                              |||
+лимонад                             |||lemoniada (f)                                       |||
+алкогольные напитки                 |||napoje (pl) alkoholowe                              |||
+вино                                |||wino (n)                                            |||
+белое вино                          |||białe wino (n)                                      |||
+красное вино                        |||czerwone wino (n)                                   |||
+ликёр                               |||likier (m)                                          |||
+шампанское                          |||szampan (m)                                         |||
+вермут                              |||wermut (m)                                          |||
+виски                               |||whisky (f)                                          |||
+водка                               |||wódka (f)                                           |||
+джин                                |||dżin (m), gin (m)                                   |||
+коньяк                              |||koniak (m)                                          |||
+ром                                 |||rum (m)                                             |||
+кофе                                |||kawa (f)                                            |||
+чёрный кофе                         |||czarna kawa (f)                                     |||
+кофе с молоком                      |||kawa (f) z mlekiem                                  |||
+капучино                            |||cappuccino (n)                                      |||
+растворимый кофе                    |||kawa (f) rozpuszczalna                              |||
+молоко                              |||mleko (n)                                           |||
+коктейль                            |||koktajl (m)                                         |||
+молочный коктейль                   |||koktajl (m) mleczny                                 |||
+сок                                 |||sok (m)                                             |||
+томатный сок                        |||sok (m) pomidorowy                                  |||
+апельсиновый сок                    |||sok (m) pomarańczowy                                |||
+свежевыжатый сок                    |||sok (m) ze świeżych owoców                          |||
+пиво                                |||piwo (n)                                            |||
+светлое пиво                        |||piwo (n) jasne                                      |||
+тёмное пиво                         |||piwo (n) ciemne                                     |||
+чай                                 |||herbata (f)                                         |||
+чёрный чай                          |||czarna herbata (f)                                  |||
+зелёный чай                         |||zielona herbata (f)                                 |||
+овощи                               |||warzywa (pl)                                        |||
+зелень                              |||włoszczyzna (f)                                     |||
+помидор                             |||pomidor (m)                                         |||
+огурец                              |||ogórek (m)                                          |||
+морковь                             |||marchew (f)                                         |||
+картофель                           |||ziemniak (m)                                        |||
+лук (луковица)                      |||cebula (f)                                          |||
+чеснок                              |||czosnek (m)                                         |||
+капуста                             |||kapusta (f)                                         |||
+цветная капуста                     |||kalafior (m)                                        |||
+брюссельская капуста                |||brukselka (f)                                       |||
+капуста брокколи                    |||brokuły (pl)                                        |||
+свёкла                              |||burak (m)                                           |||
+баклажан                            |||bakłażan (m)                                        |||
+кабачок                             |||kabaczek (m)                                        |||
+тыква                               |||dynia (f)                                           |||
+репа                                |||rzepa (f)                                           |||
+петрушка                            |||pietruszka (f)                                      |||
+укроп                               |||koperek (m)                                         |||
+салат (латук)                       |||sałata (f)                                          |||
+сельдерей                           |||seler (m)                                           |||
+спаржа                              |||szparagi (pl)                                       |||
+шпинат                              |||szpinak (m)                                         |||
+горох                               |||groch (m)                                           |||
+бобы                                |||bób (m)                                             |||
+кукуруза                            |||kukurydza (f)                                       |||
+фасоль                              |||fasola (f)                                          |||
+перец                               |||słodka papryka (f)                                  |||
+редис                               |||rzodkiewka (f)                                      |||
+артишок                             |||karczoch (m)                                        |||
+фрукт                               |||owoc (m)                                            |||
+яблоко                              |||jabłko (n)                                          |||
+груша                               |||gruszka (f)                                         |||
+лимон                               |||cytryna (f)                                         |||
+апельсин                            |||pomarańcza (f)                                      |||
+клубника                            |||truskawka (f)                                       |||
+мандарин                            |||mandarynka (f)                                      |||
+слива                               |||śliwka (f)                                          |||
+персик                              |||brzoskwinia (f)                                     |||
+абрикос                             |||morela (f)                                          |||
+малина                              |||malina (f)                                          |||
+ананас                              |||ananas (m)                                          |||
+банан                               |||banan (m)                                           |||
+арбуз                               |||arbuz (m)                                           |||
+виноград                            |||winogrona (pl)                                      |||
+вишня                               |||wiśnia (f)                                          |||
+черешня                             |||czereśnia (f)                                       |||
+дыня                                |||melon (m)                                           |||
+грейпфрут                           |||grejpfrut (m)                                       |||
+авокадо                             |||awokado (n)                                         |||
+папайя                              |||papaja (f)                                          |||
+манго                               |||mango (n)                                           |||
+гранат                              |||granat (m)                                          |||
+красная смородина                   |||czerwona porzeczka (f)                              |||
+чёрная смородина                    |||czarna porzeczka (f)                                |||
+крыжовник                           |||agrest (m)                                          |||
+черника                             |||borówka (f) czarna                                  |||
+ежевика                             |||jeżyna (f)                                          |||
+изюм                                |||rodzynek (m)                                        |||
+инжир                               |||figa (f)                                            |||
+финик                               |||daktyl (m)                                          |||
+арахис                              |||orzeszek (pl) ziemny                                |||
+миндаль                             |||migdał (m)                                          |||
+орех (грецкий)                      |||orzech (m) włoski                                   |||
+орех (лесной)                       |||orzech (m) laskowy                                  |||
+орех кокосовый                      |||orzech (m) kokosowy                                 |||
+фисташки                            |||fistaszki (pl)                                      |||
+кондитерские изделия                |||wyroby (pl) cukiernicze                             |||
+хлеб                                |||chleb (m)                                           |||
+печенье                             |||herbatniki (pl)                                     |||
+шоколад                             |||czekolada (f)                                       |||
+шоколадный                          |||czekoladowy                                         |||
+конфета                             |||cukierek (m)                                        |||
+пирожное                            |||ciastko (n)                                         |||
+торт                                |||tort (m)                                            |||
+пирог                               |||ciasto (n)                                          |||
+начинка                             |||nadzienie (n)                                       |||
+варенье                             |||konfitura (f)                                       |||
+мармелад                            |||marmolada (f)                                       |||
+вафли                               |||wafle (pl)                                          |||
+мороженое                           |||lody (pl)                                           |||
+блюдо                               |||danie (n)                                           |||
+кухня (национальная)                |||kuchnia (f)                                         |||
+рецепт (кулинарн.)                  |||przepis (m)                                         |||
+порция                              |||porcja (f)                                          |||
+салат                               |||sałatka (f)                                         |||
+суп                                 |||zupa (f)                                            |||
+бульон                              |||rosół (m)                                           |||
+бутерброд                           |||kanapka (f)                                         |||
+яичница                             |||jajecznica (f)                                      |||
+котлета                             |||kotlet (m)                                          |||
+гамбургер                           |||hamburger (m)                                       |||
+бифштекс                            |||befsztyk (m)                                        |||
+жаркое                              |||pieczeń (f)                                         |||
+гарнир                              |||dodatki (pl)                                        |||
+спагетти                            |||spaghetti (n)                                       |||
+пицца                               |||pizza (f)                                           |||
+каша                                |||kasza (f)                                           |||
+омлет                               |||omlet (m)                                           |||
+варёный                             |||gotowany                                            |||
+копчёный                            |||wędzony                                             |||
+жареный (на сковороде)              |||smażony                                             |||
+сушёный                             |||suszony                                             |||
+замороженный                        |||mrożony                                             |||
+маринованный                        |||marynowany                                          |||
+сладкий (о чае, кофе)               |||słodki                                              |||
+солёный                             |||słony                                               |||
+холодный                            |||zimny                                               |||
+горячий                             |||gorący                                              |||
+горький                             |||gorzki                                              |||
+вкусный                             |||smaczny                                             |||
+варить (готовить)                   |||gotować                                             |||
+готовить (ужин)                     |||gotować                                             |||
+жарить                              |||smażyć                                              |||
+разогревать                         |||odgrzewać                                           |||
+солить                              |||solić                                               |||
+перчить                             |||pieprzyć                                            |||
+тереть (на тёрке)                   |||trzeć                                               |||
+кожура                              |||skórka (f)                                          |||
+чистить (картошку и т.п.)           |||obierać                                             |||
+соль                                |||sól (f)                                             |||
+солёный                             |||słony                                               |||
+солить                              |||solić                                               |||
+чёрный перец                        |||pieprz (m) czarny                                   |||
+красный перец                       |||papryka (f)                                         |||
+горчица                             |||musztarda (f)                                       |||
+хрен                                |||chrzan (m)                                          |||
+приправа                            |||przyprawa (f)                                       |||
+пряность                            |||przyprawa (f)                                       |||
+соус                                |||sos (m)                                             |||
+уксус                               |||ocet (m)                                            |||
+анис                                |||anyż (m)                                            |||
+базилик                             |||bazylia (f)                                         |||
+гвоздика                            |||goździki (pl)                                       |||
+имбирь                              |||imbir (m)                                           |||
+кориандр                            |||kolendra (f)                                        |||
+корица                              |||cynamon (m)                                         |||
+кунжут                              |||sezam (m)                                           |||
+лавровый лист                       |||liść (m) laurowy                                    |||
+паприка                             |||papryka (f)                                         |||
+тмин                                |||kminek (m)                                          |||
+шафран                              |||szafran (m)                                         |||
+еда                                 |||jedzenie (n)                                        |||
+есть, кушать                        |||jeść                                                |||
+завтрак                             |||śniadanie (n)                                       |||
+завтракать                          |||jeść śniadanie                                      |||
+обед                                |||obiad (m)                                           |||
+обедать                             |||jeść obiad                                          |||
+ужин                                |||kolacja (f)                                         |||
+ужинать                             |||jeść kolację                                        |||
+аппетит                             |||apetyt (m)                                          |||
+Приятного аппетита!                 |||Smacznego!                                          |||
+открывать (банку и т.п.)            |||otwierać                                            |||
+пролить                             |||rozlać                                              |||
+пролиться                           |||rozlać się                                          |||
+кипеть                              |||gotować się                                         |||
+кипятить                            |||gotować                                             |||
+кипячёный                           |||gotowany                                            |||
+охладить                            |||ostudzić                                            |||
+охлаждаться                         |||stygnąć                                             |||
+вкус                                |||smak (m)                                            |||
+привкус                             |||posmak (m)                                          |||
+худеть (быть на диете)              |||odchudzać się                                       |||
+диета                               |||dieta (f)                                           |||
+витамин                             |||witamina (f)                                        |||
+калория                             |||kaloria (f)                                         |||
+вегетарианец                        |||wegetarianin (m)                                    |||
+вегетарианский                      |||wegetariański                                       |||
+жиры                                |||tłuszcze (pl)                                       |||
+белки                               |||białka (pl)                                         |||
+углеводы                            |||węglowodany (pl)                                    |||
+ломтик                              |||plasterek (m)                                       |||
+кусок                               |||kawałek (m)                                         |||
+крошка (хлеба и т.п.)               |||okruchek (m)                                        |||
+ложка                               |||łyżka (f)                                           |||
+нож                                 |||nóż (m)                                             |||
+вилка                               |||widelec (m)                                         |||
+чашка                               |||filiżanka (f)                                       |||
+тарелка                             |||talerz (m)                                          |||
+блюдце                              |||spodek (m)                                          |||
+салфетка                            |||serwetka (f)                                        |||
+зубочистка                          |||wykałaczka (f)                                      |||
+ресторан                            |||restauracja (f)                                     |||
+кофейня                             |||kawiarnia (f)                                       |||
+бар                                 |||bar (m)                                             |||
+чайный салон                        |||herbaciarnia (f)                                    |||
+официант                            |||kelner (m)                                          |||
+официантка                          |||kelnerka (f)                                        |||
+бармен                              |||barman (m)                                          |||
+меню                                |||menu (n)                                            |||
+карта вин                           |||karta (f) win                                       |||
+забронировать столик                |||zarezerwować stolik                                 |||
+блюдо (кушанье)                     |||danie (n)                                           |||
+заказать (блюдо)                    |||zamówić                                             |||
+сделать заказ                       |||zamówić                                             |||
+аперитив                            |||aperitif (m)                                        |||
+закуска                             |||przystawka (f)                                      |||
+десерт                              |||deser (m)                                           |||
+счёт                                |||rachunek (m)                                        |||
+оплатить счёт                       |||zapłacić rachunek                                   |||
+дать сдачу                          |||wydać resztę                                        |||
+чаевые                              |||napiwek (m)                                         |||
+имя                                 |||imię (n)                                            |||
+фамилия                             |||nazwisko (n)                                        |||
+дата рождения                       |||data (f) urodzenia                                  |||
+место рождения                      |||miejsce (n) urodzenia                               |||
+национальность                      |||narodowość (f)                                      |||
+место жительства                    |||miejsce (n) zamieszkania                            |||
+страна                              |||kraj (m)                                            |||
+профессия                           |||zawód (m)                                           |||
+пол (муж. или жен.)                 |||płeć (f)                                            |||
+рост                                |||wzrost (m)                                          |||
+вес                                 |||waga (f)                                            |||
+мать                                |||matka (f)                                           |||
+отец                                |||ojciec (m)                                          |||
+сын                                 |||syn (m)                                             |||
+дочь                                |||córka (f)                                           |||
+младшая дочь                        |||młodsza córka (f)                                   |||
+младший сын                         |||młodszy syn (m)                                     |||
+старшая дочь                        |||starsza córka (f)                                   |||
+старший сын                         |||starszy syn (m)                                     |||
+брат                                |||brat (m)                                            |||
+сестра                              |||siostra (f)                                         |||
+двоюродный брат                     |||kuzyn (m)                                           |||
+двоюродная сестра                   |||kuzynka (f)                                         |||
+мама                                |||mama (f)                                            |||
+папа                                |||tata (m)                                            |||
+родители                            |||rodzice (pl)                                        |||
+ребёнок                             |||dziecko (n)                                         |||
+дети                                |||dzieci (pl)                                         |||
+бабушка                             |||babcia (f)                                          |||
+дедушка                             |||dziadek (m)                                         |||
+внук                                |||wnuk (m)                                            |||
+внучка                              |||wnuczka (f)                                         |||
+внуки                               |||wnuki (pl)                                          |||
+дядя                                |||wujek (m)                                           |||
+тётя                                |||ciocia (f)                                          |||
+племянник                           |||bratanek (m), siostrzeniec (m)                      |||
+племянница                          |||bratanica (f), siostrzenica (f)                     |||
+тёща                                |||teściowa (f)                                        |||
+свёкор                              |||teść (m)                                            |||
+зять                                |||zięć (m)                                            |||
+мачеха                              |||macocha (f)                                         |||
+отчим                               |||ojczym (m)                                          |||
+грудной ребёнок                     |||niemowlę (n)                                        |||
+младенец                            |||niemowlę (n)                                        |||
+малыш                               |||maluch (m)                                          |||
+жена                                |||żona (f)                                            |||
+муж                                 |||mąż (m)                                             |||
+супруг                              |||małżonek (m)                                        |||
+супруга                             |||małżonka (f)                                        |||
+женатый                             |||żonaty                                              |||
+замужняя                            |||zamężna                                             |||
+холостой (прил.)                    |||nieżonaty                                           |||
+холостяк                            |||kawaler (m)                                         |||
+разведённый                         |||rozwiedziony                                        |||
+вдова                               |||wdowa (f)                                           |||
+вдовец                              |||wdowiec (m)                                         |||
+родственник                         |||krewny (m)                                          |||
+близкий родственник                 |||bliski krewny (m)                                   |||
+дальний родственник                 |||daleki krewny (m)                                   |||
+родные (родственники)               |||rodzina (f)                                         |||
+сирота                              |||sierota (f)                                         |||
+опекун                              |||opiekun (m)                                         |||
+усыновить                           |||zaadoptować                                         |||
+удочерить                           |||zaadoptować                                         |||
+друг                                |||przyjaciel (m)                                      |||
+подруга                             |||przyjaciółka (f)                                    |||
+дружба                              |||przyjaźń (f)                                        |||
+дружить                             |||przyjaźnić się                                      |||
+приятель                            |||kumpel (m)                                          |||
+приятельница                        |||kumpela (f)                                         |||
+партнёр                             |||partner (m)                                         |||
+шеф                                 |||szef (m)                                            |||
+начальник                           |||kierownik (m)                                       |||
+подчинённый (сущ.)                  |||podwładny (m)                                       |||
+коллега                             |||koleżanka (f)                                       |||
+знакомый (сущ.)                     |||znajomy (m)                                         |||
+попутчик                            |||towarzysz (m) podróży                               |||
+одноклассник                        |||kolega (m) z klasy                                  |||
+сосед                               |||sąsiad (m)                                          |||
+соседка                             |||sąsiadka (f)                                        |||
+соседи                              |||sąsiedzi (pl)                                       |||
+женщина                             |||kobieta (f)                                         |||
+девушка                             |||dziewczyna (f)                                      |||
+невеста                             |||narzeczona (f)                                      |||
+красивая                            |||piękna                                              |||
+высокая                             |||wysoka                                              |||
+стройная                            |||zgrabna                                             |||
+невысокого роста                    |||niedużego wzrostu                                   |||
+блондинка                           |||blondynka (f)                                       |||
+брюнетка                            |||brunetka (f)                                        |||
+дамский                             |||damski                                              |||
+девственница                        |||dziewica (f)                                        |||
+беременная                          |||ciężarna (f)                                        |||
+мужчина                             |||mężczyzna (m)                                       |||
+блондин                             |||blondyn (m)                                         |||
+брюнет                              |||brunet (m)                                          |||
+высокий                             |||wysoki                                              |||
+невысокого роста                    |||niedużego wzrostu                                   |||
+грубый                              |||grubiański                                          |||
+коренастый                          |||krępy                                               |||
+крепкий                             |||mocny                                               |||
+сильный                             |||silny                                               |||
+сила (человека)                     |||siła (f)                                            |||
+полный (толстый)                    |||tęgi                                                |||
+смуглый                             |||śniady                                              |||
+стройный                            |||zgrabny                                             |||
+элегантный                          |||elegancki                                           |||
+возраст                             |||wiek (m)                                            |||
+юность                              |||wczesna młodość (f)                                 |||
+молодой                             |||młody                                               |||
+младше                              |||młodszy                                             |||
+старше                              |||starszy                                             |||
+юноша                               |||młodzieniec (m)                                     |||
+подросток                           |||nastolatek (m)                                      |||
+парень                              |||chłopak (m)                                         |||
+старик                              |||staruszek (m)                                       |||
+старая женщина                      |||staruszka (f)                                       |||
+взрослый                            |||dorosły (m)                                         |||
+средних лет                         |||w średnim wieku                                     |||
+пожилой                             |||w podeszłym wieku                                   |||
+старый                              |||stary                                               |||
+пенсия                              |||emerytura (f)                                       |||
+уйти на пенсию                      |||przejść na emeryturę                                |||
+пенсионер                           |||emeryt (m)                                          |||
+ребёнок                             |||dziecko (n)                                         |||
+дети                                |||dzieci (pl)                                         |||
+близнецы                            |||bliźniaki (pl)                                      |||
+люлька, колыбель                    |||kołyska (f)                                         |||
+погремушка                          |||grzechotka (f)                                      |||
+подгузник                           |||pieluszka (f)                                       |||
+соска                               |||smoczek (m)                                         |||
+коляска (детская)                   |||wózek (m)                                           |||
+детский сад                         |||przedszkole (n)                                     |||
+няня                                |||opiekunka (f) do dziecka                            |||
+детство                             |||dzieciństwo (n)                                     |||
+кукла                               |||lalka (f)                                           |||
+игрушка                             |||zabawka (f)                                         |||
+конструктор (игра)                  |||zestaw (m) konstruktor                              |||
+воспитанный                         |||dobrze wychowany                                    |||
+невоспитанный                       |||źle wychowany                                       |||
+избалованный                        |||rozpieszczony                                       |||
+шалить                              |||psosić                                              |||
+шаловливый                          |||psotny                                              |||
+шалость (поведение)                 |||psota (f)                                           |||
+шалун                               |||psotnik (m)                                         |||
+послушный                           |||posłuszny                                           |||
+непослушный                         |||nieposłuszny                                        |||
+умный (послушный)                   |||rozumny                                             |||
+умный (одаренный)                   |||sprytny                                             |||
+вундеркинд                          |||cudowne dziecko (n)                                 |||
+целовать                            |||całować                                             |||
+целоваться                          |||całować się                                         |||
+семья                               |||rodzina (f)                                         |||
+семейный                            |||rodzinny                                            |||
+пара, чета                          |||para (f)                                            |||
+брак (семейная жизнь)               |||małżeństwo (n)                                      |||
+домашний очаг                       |||ognisko domowe (n)                                  |||
+династия                            |||dynastia (f)                                        |||
+свидание                            |||randka (f)                                          |||
+поцелуй                             |||pocałunek (m)                                       |||
+любовь                              |||miłość (f)                                          |||
+любить (кого-л.)                    |||kochać                                              |||
+любимый (человек)                   |||ukochany                                            |||
+нежность                            |||czułość (f)                                         |||
+нежный                              |||czuły                                               |||
+верность                            |||wierność (f)                                        |||
+верный                              |||wierny                                              |||
+забота (о человеке)                 |||troska (f)                                          |||
+заботливый                          |||troskliwy                                           |||
+молодожёны                          |||nowożeńcy (m pl)                                    |||
+медовый месяц                       |||miesiąc (m) miodowy                                 |||
+выйти замуж                         |||wyjść za mąż                                        |||
+жениться                            |||żenić się                                           |||
+свадьба                             |||wesele (n)                                          |||
+золотая свадьба                     |||złota rocznica (f) ślubu                            |||
+годовщина                           |||rocznica (f)                                        |||
+любовник                            |||kochanek (m)                                        |||
+любовница                           |||kochanka (f)                                        |||
+измена                              |||zdrada (f)                                          |||
+изменить                            |||zdradzić                                            |||
+ревнивый                            |||zazdrosny                                           |||
+ревновать                           |||być zazdrosnym                                      |||
+развод                              |||rozwód (m)                                          |||
+развестись                          |||rozwieść się                                        |||
+ссориться                           |||kłócić się                                          |||
+мириться                            |||godzić się                                          |||
+вместе                              |||razem                                               |||
+секс                                |||seks (m)                                            |||
+счастье                             |||szczęście (n)                                       |||
+счастливый                          |||szczęśliwy                                          |||
+несчастье                           |||nieszczęście (n)                                    |||
+несчастный                          |||nieszczęśliwy                                       |||
+чувство                             |||uczucie (m)                                         |||
+чувства                             |||uczucia (pl)                                        |||
+голод                               |||głód (m)                                            |||
+хотеть есть                         |||chcieć jeść                                         |||
+жажда                               |||pragnienie (n)                                      |||
+хотеть пить                         |||chcieć pić                                          |||
+сонливость                          |||senność (f)                                         |||
+хотеть спать                        |||chcieć spać                                         |||
+усталость                           |||zmęczenie (n)                                       |||
+усталый                             |||zmęczony                                            |||
+устать (быть усталым)               |||zmęczyć się                                         |||
+настроение                          |||nastrój (m)                                         |||
+скука                               |||nuda (f), znudzenie (n)                             |||
+скучать                             |||nudzić się                                          |||
+уединение                           |||odosobnienie (n)                                    |||
+уединиться                          |||odseparować się                                     |||
+беспокоить (волновать)              |||niepokoić                                           |||
+беспокоиться                        |||martwić się                                         |||
+беспокойство                        |||niepokój (m)                                        |||
+тревога                             |||trwoga (f)                                          |||
+озабоченный                         |||zatroskany                                          |||
+нервничать                          |||denerwować się                                      |||
+паниковать                          |||panikować                                           |||
+надежда                             |||nadzieja (f)                                        |||
+надеяться                           |||mieć nadzieję                                       |||
+уверенность                         |||pewność (f)                                         |||
+уверенный                           |||pewny                                               |||
+неуверенность                       |||niepewność (f)                                      |||
+неуверенный                         |||niepewny                                            |||
+пьяный                              |||pijany                                              |||
+трезвый                             |||trzeźwy                                             |||
+слабый                              |||słaby                                               |||
+счастливый                          |||szczęśliwy                                          |||
+испугать                            |||przestraszyć                                        |||
+бешенство                           |||wściekłość (f)                                      |||
+ярость                              |||furia (f)                                           |||
+депрессия                           |||depresja (f)                                        |||
+дискомфорт                          |||dyskomfort (m)                                      |||
+комфорт                             |||komfort (m)                                         |||
+сожалеть                            |||żałować                                             |||
+сожаление                           |||żal (m)                                             |||
+невезение                           |||pech (m)                                            |||
+огорчение                           |||smutek (m), smętek (m)                              |||
+стыд                                |||wstyd (m)                                           |||
+веселье (радость)                   |||uciecha (f)                                         |||
+энтузиазм                           |||entuzjazm (m)                                       |||
+энтузиаст                           |||entuzjasta (m)                                      |||
+проявить энтузиазм                  |||przejawić entuzjazm                                 |||
+характер                            |||charakter (m)                                       |||
+недостаток (характера)              |||wada (f)                                            |||
+ум                                  |||umysł (m)                                           |||
+разум                               |||rozum (m)                                           |||
+совесть                             |||sumienie (n)                                        |||
+привычка                            |||nawyk (m)                                           |||
+способность (к чему-л.)             |||zdolność (f)                                        |||
+уметь                               |||umieć                                               |||
+терпеливый                          |||cierpliwy                                           |||
+нетерпеливый                        |||niecierpliwy                                        |||
+любопытный                          |||ciekawy                                             |||
+любопытство                         |||ciekawość (f)                                       |||
+скромность                          |||skromność (f)                                       |||
+скромный                            |||skromny                                             |||
+нескромный                          |||nieskromny                                          |||
+лень                                |||lenistwo (n)                                        |||
+ленивый                             |||leniwy                                              |||
+лентяй                              |||leń (m)                                             |||
+хитрость                            |||przebiegłość (f)                                    |||
+хитрый                              |||przebiegły                                          |||
+недоверие                           |||nieufność (f)                                       |||
+недоверчивый                        |||nieufny                                             |||
+щедрость                            |||hojność (f)                                         |||
+щедрый                              |||hojny                                               |||
+талантливый                         |||utalentowany                                        |||
+талант                              |||talent (m)                                          |||
+смелый                              |||śmiały                                              |||
+смелость                            |||śmiałość (f)                                        |||
+честный                             |||uczciwy                                             |||
+честность                           |||uczciwość (f)                                       |||
+осторожный                          |||ostrożny                                            |||
+отважный                            |||odważny                                             |||
+серьёзный                           |||poważny                                             |||
+строгий                             |||surowy                                              |||
+решительный                         |||zdecydowany                                         |||
+нерешительный                       |||niezdecydowany                                      |||
+робкий                              |||nieśmiały                                           |||
+робость                             |||nieśmiałość (f)                                     |||
+доверие                             |||zaufanie (n)                                        |||
+верить (доверять)                   |||wierzyć                                             |||
+доверчивый                          |||ufny                                                |||
+искренне                            |||szczerze                                            |||
+искренний                           |||szczery                                             |||
+искренность                         |||szczerość (f)                                       |||
+тихий (спокойный)                   |||spokojny                                            |||
+откровенный                         |||szczery                                             |||
+открытый (человек)                  |||otwarty                                             |||
+наивный                             |||naiwny                                              |||
+рассеянный                          |||roztargniony                                        |||
+смешной (забавный)                  |||zabawny                                             |||
+жадность (скупость)                 |||chciwość (f)                                        |||
+жадный (скупой)                     |||chciwy                                              |||
+скупой                              |||skąpy                                               |||
+злой                                |||zły                                                 |||
+упрямый                             |||uparty                                              |||
+неприятный                          |||nieprzyjemny                                        |||
+эгоист                              |||egoista (m)                                         |||
+эгоистичный                         |||egoistyczny                                         |||
+трус                                |||tchórz (m)                                          |||
+трусливый                           |||tchórzliwy                                          |||
+спать                               |||spać                                                |||
+сон (состояние)                     |||sen (m)                                             |||
+сон (сновидения)                    |||sen (m)                                             |||
+видеть сны                          |||śnić                                                |||
+сонный                              |||senny                                               |||
+кровать                             |||łóżko (n)                                           |||
+матрас                              |||materac (m)                                         |||
+одеяло                              |||kołdra (f)                                          |||
+подушка                             |||poduszka (f)                                        |||
+простыня                            |||prześcieradło (n)                                   |||
+бессонница                          |||bezsenność (f)                                      |||
+бессонный                           |||bezsenny                                            |||
+снотворное                          |||tabletka (f) nasenna                                |||
+принять снотворное                  |||zażyć środek nasenny                                |||
+хотеть спать                        |||chcieć spać                                         |||
+зевать                              |||ziewać                                              |||
+идти спать                          |||iść spać                                            |||
+стелить постель                     |||ścielić łóżko                                       |||
+заснуть                             |||zasnąć                                              |||
+кошмар                              |||koszmar (m)                                         |||
+храп                                |||chrapanie (n)                                       |||
+храпеть                             |||chrapać                                             |||
+будильник                           |||budzik (m)                                          |||
+разбудить                           |||obudzić                                             |||
+просыпаться                         |||budzić się                                          |||
+подниматься (утром)                 |||wstawać                                             |||
+умываться                           |||myć się                                             |||
+юмор                                |||humor (m)                                           |||
+чувство (юмора)                     |||poczucie (n)                                        |||
+веселиться                          |||bawić się                                           |||
+весёлый                             |||wesoły                                              |||
+веселье                             |||wesołość (f)                                        |||
+улыбка                              |||uśmiech (m)                                         |||
+улыбаться                           |||uśmiechać się                                       |||
+засмеяться                          |||zaśmiać się                                         |||
+смеяться                            |||śmiać się                                           |||
+смех                                |||śmiech (m)                                          |||
+анекдот                             |||anegdota (f)                                        |||
+смешной (анекдот)                   |||śmieszny                                            |||
+смешной (человек)                   |||zabawny                                             |||
+шутить                              |||żartować                                            |||
+шутка                               |||żart (m)                                            |||
+радость (при встрече)               |||radość (f)                                          |||
+радоваться                          |||cieszyć się                                         |||
+радостный                           |||radosny                                             |||
+общение                             |||komunikacja (f)                                     |||
+общаться                            |||komunikować się                                     |||
+разговор                            |||rozmowa (f)                                         |||
+диалог                              |||dialog (m)                                          |||
+дискуссия                           |||dyskusja (f)                                        |||
+спор (дебаты)                       |||spór (m)                                            |||
+спорить                             |||spierać się                                         |||
+собеседник                          |||rozmówca (m)                                        |||
+тема                                |||temat (m)                                           |||
+точка зрения                        |||punkt (m) widzenia                                  |||
+мнение                              |||zdanie (n)                                          |||
+речь (выступление)                  |||przemówienie (n)                                    |||
+обсуждение                          |||dyskusja (f)                                        |||
+обсуждать                           |||omawiać                                             |||
+беседа                              |||rozmowa (f)                                         |||
+беседовать                          |||rozmawiać                                           |||
+встреча                             |||spotkanie (n)                                       |||
+встречаться                         |||spotkać się                                         |||
+пословица                           |||przysłowie (n)                                      |||
+поговорка                           |||powiedzenie (n)                                     |||
+загадка                             |||zagadka (f)                                         |||
+загадывать загадку                  |||zadawać zagadkę                                     |||
+пароль                              |||hasło (n)                                           |||
+секрет                              |||sekret (m)                                          |||
+клятва                              |||przysięga (f)                                       |||
+клясться                            |||przysięgać                                          |||
+обещание                            |||obietnica (f)                                       |||
+обещать                             |||obiecać                                             |||
+совет                               |||rada (f)                                            |||
+советовать                          |||radzić                                              |||
+слушаться (совета)                  |||słuchać                                             |||
+новость                             |||nowina (f)                                          |||
+сенсация                            |||sensacja (f)                                        |||
+сведения                            |||wiadomości (pl)                                     |||
+вывод (заключение)                  |||wniosek (m)                                         |||
+голос                               |||głos (m)                                            |||
+комплимент                          |||komplement (m)                                      |||
+любезный                            |||uprzejmy                                            |||
+слово                               |||słowo (n)                                           |||
+фраза                               |||fraza (f)                                           |||
+ответ (на вопрос)                   |||odpowiedź (f)                                       |||
+правда                              |||prawda (f)                                          |||
+ложь                                |||kłamstwo (n)                                        |||
+мысль                               |||myśl (f)                                            |||
+мысль (идея)                        |||pomysł (m)                                          |||
+фантазия (выдумка)                  |||fantazja (f)                                        |||
+уважаемый                           |||szanowny                                            |||
+уважать                             |||szanować                                            |||
+уважение                            |||szacunek (m)                                        |||
+Уважаемый … (в письме)              |||Drogi …                                             |||
+познакомить                         |||poznać                                              |||
+намерение                           |||zamiar (m)                                          |||
+намереваться                        |||zamierzać                                           |||
+пожелание                           |||życzenie (n)                                        |||
+пожелать                            |||życzyć                                              |||
+удивление                           |||zdziwienie (n)                                      |||
+удивлять                            |||dziwić                                              |||
+удивляться                          |||dziwić się                                          |||
+дать                                |||dać                                                 |||
+взять                               |||wziąć                                               |||
+вернуть                             |||zwrócić                                             |||
+отдать (вернуть)                    |||zwrócić                                             |||
+извиняться                          |||przepraszać                                         |||
+извинение                           |||przeprosiny (pl)                                    |||
+прощать                             |||przebaczać                                          |||
+разговаривать                       |||rozmawiać                                           |||
+слушать                             |||słuchać                                             |||
+выслушать                           |||wysłuchać                                           |||
+понять                              |||zrozumieć                                           |||
+показать                            |||pokazać                                             |||
+глядеть на …                        |||patrzeć                                             |||
+позвать                             |||zawołać                                             |||
+мешать (беспокоить)                 |||przeszkadzać                                        |||
+передать (подарок и т.п.)           |||wręczyć                                             |||
+просьба                             |||prośba (f)                                          |||
+просить                             |||prosić                                              |||
+требование                          |||żądanie (n)                                         |||
+требовать                           |||żądać                                               |||
+дразнить (обзывать)                 |||przezywać                                           |||
+насмехаться                         |||kpić                                                |||
+насмешка                            |||kpina (f)                                           |||
+прозвище                            |||przezwisko (n)                                      |||
+намёк                               |||aluzja (f)                                          |||
+намекать                            |||czynić aluzję                                       |||
+подразумевать                       |||mieć na myśli                                       |||
+описание                            |||opis (m)                                            |||
+описать (обрисовать)                |||opisać                                              |||
+похвала                             |||pochwała (f)                                        |||
+похвалить                           |||pochwalić                                           |||
+разочарование                       |||rozczarowanie (n)                                   |||
+разочаровать                        |||rozczarować                                         |||
+разочароваться                      |||rozczarować się                                     |||
+предположение                       |||założenie (n)                                       |||
+предполагать                        |||przypuszczać                                        |||
+предостережение                     |||ostrzeżenie (n)                                     |||
+предостеречь                        |||ostrzec                                             |||
+уговорить                           |||namówić                                             |||
+успокаивать                         |||uspokajać                                           |||
+молчание                            |||milczenie (n)                                       |||
+молчать                             |||milczeć                                             |||
+шепнуть                             |||szepnąć                                             |||
+шёпот                               |||szept (m)                                           |||
+откровенно                          |||szczerze                                            |||
+по моему мнению …                   |||moim zdaniem                                        |||
+подробность                         |||szczegół (m)                                        |||
+подробный                           |||szczegółowy                                         |||
+подробно                            |||szczegółowo                                         |||
+подсказка (ключ к отгадке)          |||wskazówka (f)                                       |||
+подсказать (отгадку)                |||dać wskazówkę                                       |||
+взгляд (выражение лица)             |||spojrzenie (n)                                      |||
+взглянуть                           |||spojrzeć                                            |||
+неподвижный (взгляд)                |||nieruchomy                                          |||
+моргать                             |||mrugać                                              |||
+мигнуть                             |||mrugnąć                                             |||
+кивнуть (в знак согласия)           |||przytaknąć                                          |||
+вздох                               |||westchnienie (n)                                    |||
+вздохнуть                           |||westchnąć                                           |||
+вздрагивать                         |||wzdrygać się                                        |||
+жест                                |||gest (m)                                            |||
+прикоснуться                        |||dotknąć                                             |||
+хватать (за руку и т.п.)            |||chwytać                                             |||
+хлопать (по плечу и т.п.)           |||klepać                                              |||
+Осторожно!                          |||Uwaga!                                              |||
+Неужели?                            |||Czyżby?                                             |||
+Ты уверен?                          |||Jesteś pewien?                                      |||
+Удачи!                              |||Powodzenia!                                         |||
+Ясно! (понятно)                     |||Jasne!                                              |||
+Жаль!                               |||Szkoda!                                             |||
+согласие                            |||zgoda (f)                                           |||
+соглашаться                         |||zgadzać się                                         |||
+одобрение                           |||aprobata (f)                                        |||
+одобрить                            |||zaaprobować                                         |||
+отказ                               |||odmowa (f)                                          |||
+отказываться                        |||odmawiać                                            |||
+Отлично!                            |||Świetnie!                                           |||
+Хорошо! (согласен)                  |||Dobrze!                                             |||
+Ладно! (согласен)                   |||Dobra!                                              |||
+запрещённый                         |||zakazany                                            |||
+нельзя (запрещено)                  |||nie wolno                                           |||
+невозможно                          |||niemożliwe                                          |||
+неправильный (ошибочный)            |||błędny                                              |||
+отклонить (просьбу)                 |||odrzucić                                            |||
+поддержать (предложение)            |||poprzeć                                             |||
+принять (согласиться)               |||przyjąć                                             |||
+подтвердить                         |||potwierdzić                                         |||
+подтверждение                       |||potwierdzenie (n)                                   |||
+разрешение (согласие)               |||pozwolenie (n)                                      |||
+разрешить                           |||zezwolić                                            |||
+решение                             |||decyzja (f)                                         |||
+промолчать                          |||nic nie mówić                                       |||
+условие                             |||warunek (m)                                         |||
+отговорка                           |||wymówka (f)                                         |||
+похвала                             |||pochwała (f)                                        |||
+похвалить                           |||chwalić                                             |||
+успех                               |||sukces (m)                                          |||
+успешно                             |||z powodzeniem                                       |||
+успешный                            |||skuteczny                                           |||
+удача (везение)                     |||powodzenie (n)                                      |||
+Удачи!                              |||Powodzenia!                                         |||
+удачный                             |||szczęśliwy                                          |||
+удачливый (человек)                 |||fortunny                                            |||
+неудача (провал)                    |||porażka (f)                                         |||
+неудача (невезение)                 |||niepowodzenie (n)                                   |||
+невезение                           |||pech (m)                                            |||
+неудачный (попытка)                 |||nieudany                                            |||
+катастрофа (перен.)                 |||katastrofa (f)                                      |||
+гордость                            |||duma (f)                                            |||
+гордый                              |||dumny                                               |||
+гордиться                           |||być dumnym                                          |||
+победитель                          |||zwycięzca (m)                                       |||
+победить                            |||zwyciężyć                                           |||
+проиграть (в спорте)                |||przegrać                                            |||
+попытка                             |||próba (f)                                           |||
+пытаться                            |||próbować                                            |||
+шанс                                |||szansa (f)                                          |||
+крик                                |||krzyk (m)                                           |||
+кричать                             |||krzyczeć                                            |||
+закричать                           |||krzyknąć                                            |||
+ссора (перебранка)                  |||kłótnia (f)                                         |||
+ссориться                           |||kłócić się                                          |||
+скандал (ссора)                     |||głośna kłótnia (f)                                  |||
+скандалить                          |||kłócić się głośno                                   |||
+конфликт                            |||konflikt (m)                                        |||
+недоразумение                       |||nieporozumienie (n)                                 |||
+оскорбление                         |||zniewaga (f)                                        |||
+оскорблять                          |||znieważać                                           |||
+оскорбленный                        |||obrażony                                            |||
+обида                               |||obraza (f)                                          |||
+обидеть                             |||obrazić                                             |||
+обидеться                           |||obrazić się                                         |||
+возмущение                          |||oburzenie (n)                                       |||
+возмущаться                         |||oburzać się                                         |||
+жалоба                              |||skarga (f)                                          |||
+жаловаться                          |||skarżyć się                                         |||
+извинение                           |||przeprosiny (pl)                                    |||
+извиняться                          |||przepraszać                                         |||
+просить прощения                    |||przepraszać                                         |||
+критика                             |||krytyka (f)                                         |||
+критиковать                         |||krytykować                                          |||
+обвинение                           |||oskarżenie (n)                                      |||
+обвинять                            |||obwiniać                                            |||
+месть                               |||zemsta (f)                                          |||
+мстить                              |||mścić się                                           |||
+отплатить (отомстить)               |||odpłacić                                            |||
+презрение                           |||pogarda (f)                                         |||
+презирать                           |||pogardzać                                           |||
+ненависть                           |||nienawiść (f)                                       |||
+ненавидеть                          |||nienawidzieć                                        |||
+нервный                             |||nerwowy                                             |||
+нервничать                          |||denerwować się                                      |||
+сердитый                            |||zły                                                 |||
+рассердить                          |||rozzłościć                                          |||
+ругаться (на кого-л.)               |||kłócić się                                          |||
+унижение                            |||poniżenie (n)                                       |||
+унижать                             |||poniżać                                             |||
+унижаться                           |||poniżać się                                         |||
+шок                                 |||szok (m)                                            |||
+шокировать                          |||szokować                                            |||
+неприятность                        |||przykrość (f)                                       |||
+неприятный                          |||nieprzyjemny                                        |||
+страх                               |||strach (m)                                          |||
+страшный (мороз и т.п.)             |||okropny                                             |||
+страшный (рассказ)                  |||straszny                                            |||
+ужас                                |||przerażenie (n)                                     |||
+ужасный                             |||okropny                                             |||
+плакать                             |||płakać                                              |||
+заплакать                           |||zapłakać                                            |||
+слеза                               |||łza (f)                                             |||
+вина (ошибка, проступок)            |||wina (f)                                            |||
+вина (чувство вины)                 |||wina (f)                                            |||
+позор                               |||hańba (f)                                           |||
+протест                             |||protest (m)                                         |||
+стресс                              |||stres (m)                                           |||
+беспокоить (мешать)                 |||przeszkadzać                                        |||
+злиться                             |||złościć się                                         |||
+злой (сердитый)                     |||zły                                                 |||
+прекращать (отношения)              |||zakończyć                                           |||
+пугаться                            |||bać się                                             |||
+ударить                             |||uderzyć                                             |||
+драться (в драке)                   |||bić się                                             |||
+урегулировать (конфликт)            |||załatwić                                            |||
+недовольный                         |||niezadowolony                                       |||
+яростный (взгляд)                   |||wściekły                                            |||
+Это нехорошо!                       |||Nie jest dobrze!                                    |||
+Это плохо!                          |||To źle!                                             |||

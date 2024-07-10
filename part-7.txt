@@ -1,0 +1,1092 @@
+похититель (людей)                  |||porywacz (m)                                         |||
+выкуп (плата)                       |||okup (m)                                             |||
+требовать выкуп                     |||żądać okupu                                          |||
+грабить                             |||rabować                                              |||
+грабитель                           |||rabuś (m)                                            |||
+вымогать                            |||wymuszać                                             |||
+вымогатель                          |||szantażysta (m)                                      |||
+вымогательство                      |||wymuszanie (n)                                       |||
+убить                               |||zabić                                                |||
+убийство                            |||zabójstwo (n)                                        |||
+убийца                              |||zabójca (m)                                          |||
+выстрел                             |||strzał (m)                                           |||
+выстрелить                          |||wystrzelić                                           |||
+застрелить                          |||zastrzelić                                           |||
+стрелять                            |||strzelać                                             |||
+стрельба                            |||strzelanina (f)                                      |||
+происшествие                        |||wypadek (m)                                          |||
+драка                               |||bójka (f)                                            |||
+жертва                              |||ofiara (f)                                           |||
+повредить (испортить)               |||uszkodzić                                            |||
+ущерб                               |||uszczerbek (m)                                       |||
+труп                                |||zwłoki (pl)                                          |||
+тяжкий (о преступлении)             |||ciężki                                               |||
+нападать                            |||napaść                                               |||
+бить (ударять)                      |||bić                                                  |||
+избить                              |||pobić                                                |||
+отнять (деньги и т.п.)              |||zabrać                                               |||
+зарезать                            |||zadźgać                                              |||
+изувечить                           |||okaleczyć                                            |||
+ранить                              |||zranić                                               |||
+шантаж                              |||szantaż (m)                                          |||
+шантажировать                       |||szantażować                                          |||
+шантажист                           |||szantażysta (m)                                      |||
+рэкет                               |||wymuszania (pl)                                      |||
+рэкетир                             |||kanciarz (m)                                         |||
+гангстер                            |||gangster (m)                                         |||
+мафия                               |||mafia (f)                                            |||
+карманный воришка                   |||kieszonkowiec (m)                                    |||
+взломщик                            |||włamywacz (m)                                        |||
+контрабанда (действия)              |||przemyt (m)                                          |||
+контрабандист                       |||przemytnik (m)                                       |||
+подделка (понятие)                  |||falsyfikat (m)                                       |||
+подделывать                         |||podrabiać                                            |||
+фальшивый                           |||fałszywy                                             |||
+изнасилование                       |||gwałt (m)                                            |||
+изнасиловать                        |||zgwałcić                                             |||
+насильник                           |||gwałciciel (m)                                       |||
+маньяк                              |||maniak (m)                                           |||
+проститутка                         |||prostytutka (f)                                      |||
+проституция                         |||prostytucja (f)                                      |||
+сутенёр                             |||sutener (m)                                          |||
+наркоман                            |||narkoman (m)                                         |||
+торговец наркотиками                |||handlarz narkotyków (m)                              |||
+взорвать                            |||wysadzić w powietrze                                 |||
+взрыв                               |||wybuch (m)                                           |||
+поджечь                             |||podpalić                                             |||
+поджигатель                         |||podpalacz (m)                                        |||
+терроризм                           |||terroryzm (m)                                        |||
+террорист                           |||terrorysta (m)                                       |||
+заложник                            |||zakładnik (m)                                        |||
+обмануть                            |||oszukać                                              |||
+обман                               |||oszustwo (n)                                         |||
+мошенник                            |||oszust (m)                                           |||
+подкупить                           |||przekupić                                            |||
+подкуп                              |||przekupstwo (n)                                      |||
+взятка                              |||łapówka (f)                                          |||
+яд                                  |||trucizna (f)                                         |||
+отравить                            |||otruć                                                |||
+отравиться (убить себя)             |||otruć się                                            |||
+самоубийство                        |||samobójstwo (f)                                      |||
+самоубийца                          |||samobójca (m)                                        |||
+угрожать                            |||grozić                                               |||
+угроза                              |||groźba (f)                                           |||
+покушаться                          |||targnąć się                                          |||
+покушение (на жизнь)                |||zamach (m)                                           |||
+угнать (автомобиль)                 |||ukraść                                               |||
+угнать (самолёт)                    |||porwać                                               |||
+месть                               |||zemsta (f)                                           |||
+мстить                              |||mścić się                                            |||
+пытать                              |||torturować                                           |||
+пытка                               |||tortury (pl)                                         |||
+мучить                              |||znęcać się                                           |||
+пират                               |||pirat (m)                                            |||
+хулиган                             |||chuligan (m)                                         |||
+вооружённый                         |||uzbrojony                                            |||
+насилие                             |||przemoc (f)                                          |||
+шпионаж                             |||szpiegostwo (n)                                      |||
+шпионить                            |||szpiegować                                           |||
+правосудие                          |||sprawiedliwość (f)                                   |||
+суд (место)                         |||sąd (m)                                              |||
+судья                               |||sędzia (m)                                           |||
+присяжные                           |||przysięgli (pl)                                      |||
+суд присяжных                       |||sąd (m) przysięgłych                                 |||
+судить (о судьях)                   |||sądzić                                               |||
+адвокат                             |||adwokat (m)                                          |||
+подсудимый                          |||oskarżony (m)                                        |||
+скамья подсудимых                   |||ława (f) oskarżonych                                 |||
+обвинение                           |||oskarżenie (n)                                       |||
+обвиняемый                          |||oskarżony (m)                                        |||
+приговор                            |||wyrok (m)                                            |||
+приговорить                         |||skazać                                               |||
+виновник                            |||sprawca (m), winny (m)                               |||
+наказать                            |||ukarać                                               |||
+наказание                           |||kara (f)                                             |||
+штраф                               |||kara (f)                                             |||
+пожизненное заключение              |||dożywocie (n)                                        |||
+смертная казнь                      |||kara śmierci (f)                                     |||
+электрический стул                  |||krzesło (n) elektryczne                              |||
+виселица                            |||szubienica (f)                                       |||
+казнить                             |||stracić                                              |||
+казнь                               |||egzekucja (f)                                        |||
+тюрьма                              |||więzienie (n)                                        |||
+камера                              |||cela (f)                                             |||
+конвой                              |||konwój (m)                                           |||
+надзиратель                         |||nadzorca (m)                                         |||
+заключённый                         |||więzień (m)                                          |||
+наручники                           |||kajdanki (pl)                                        |||
+надеть наручники                    |||założyć kajdanki                                     |||
+побег (из тюрьмы)                   |||ucieczka (f)                                         |||
+убежать (из тюрьмы)                 |||uciec                                                |||
+исчезнуть                           |||zniknąć                                              |||
+освободить (из тюрьмы)              |||zwolnić                                              |||
+амнистия                            |||amnestia (f)                                         |||
+полиция                             |||policja (f)                                          |||
+полицейский                         |||policjant (m)                                        |||
+полицейский участок                 |||komenda (f)                                          |||
+резиновая дубинка                   |||pałka (f) gumowa                                     |||
+рупор                               |||głośnik (m)                                          |||
+патрульная машина                   |||samochód (m) patrolowy                               |||
+сирена                              |||syrena (f)                                           |||
+включить сирену                     |||włączyć syrenę                                       |||
+вой сирены                          |||wycie (n) syreny                                     |||
+место преступления                  |||miejsce (n) zdarzenia                                |||
+свидетель                           |||świadek (m)                                          |||
+свобода                             |||wolność (f)                                          |||
+сообщник                            |||współsprawca (m)                                     |||
+скрыться                            |||ukryć się                                            |||
+след                                |||ślad (m)                                             |||
+розыск                              |||poszukiwania (pl)                                    |||
+искать, разыскивать                 |||poszukiwać                                           |||
+подозрение                          |||podejrzenie (n)                                      |||
+подозрительный                      |||podejrzany                                           |||
+остановить (для проверки)           |||zatrzymać                                            |||
+задержать                           |||zatrzymać                                            |||
+дело (уголовное)                    |||sprawa (f)                                           |||
+расследование                       |||śledztwo (n)                                         |||
+детектив, сыщик                     |||detektyw (m)                                         |||
+следователь                         |||śledczy (m)                                          |||
+версия                              |||wersja (f)                                           |||
+мотив (преступления)                |||motyw (m)                                            |||
+допрос                              |||przesłuchanie (n)                                    |||
+допрашивать                         |||przesłuchiwać                                        |||
+опрашивать                          |||przesłuchiwać                                        |||
+проверка                            |||kontrola (f)                                         |||
+облава                              |||obława (f)                                           |||
+обыск                               |||rewizja (f)                                          |||
+погоня                              |||pogoń (f)                                            |||
+преследовать                        |||ścigać                                               |||
+следить (выслеживать)               |||śledzić                                              |||
+арест                               |||areszt (m)                                           |||
+арестовать                          |||aresztować                                           |||
+поймать (преступника)               |||złapać                                               |||
+поимка                              |||pojmanie (n)                                         |||
+документ                            |||dokument (m)                                         |||
+доказательство                      |||dowód (m)                                            |||
+доказывать                          |||udowadniać                                           |||
+след (отпечаток ноги)               |||ślad (m)                                             |||
+отпечатки пальцев                   |||odciski (pl) palców                                  |||
+улика                               |||poszlaka (f)                                         |||
+алиби                               |||alibi (n)                                            |||
+невиновный                          |||niewinny                                             |||
+несправедливость                    |||niesprawiedliwość (f)                                |||
+несправедливый                      |||niesprawiedliwy                                      |||
+криминальный                        |||kryminalny                                           |||
+конфисковать                        |||konfiskować                                          |||
+наркотик                            |||narkotyk (m)                                         |||
+оружие                              |||broń (f)                                             |||
+обезоружить                         |||rozbroić                                             |||
+приказывать                         |||rozkazywać                                           |||
+исчезнуть                           |||zniknąć                                              |||
+закон                               |||prawo (n)                                            |||
+законный                            |||legalny                                              |||
+незаконный                          |||nielegalny                                           |||
+ответственность                     |||odpowiedzialność (f)                                 |||
+ответственный                       |||odpowiedzialny                                       |||
+космос                              |||kosmos (m)                                           |||
+космический                         |||kosmiczny                                            |||
+космическое пространство            |||przestrzeń (f) kosmiczna                             |||
+мир                                 |||świat (m)                                            |||
+вселенная                           |||wszechświat (m)                                      |||
+галактика                           |||galaktyka (f)                                        |||
+звезда                              |||gwiazda (f)                                          |||
+созвездие                           |||gwiazdozbiór (m)                                     |||
+планета                             |||planeta (f)                                          |||
+спутник                             |||satelita (m)                                         |||
+метеорит                            |||meteoryt (m)                                         |||
+комета                              |||kometa (f)                                           |||
+астероид                            |||asteroida (f)                                        |||
+орбита                              |||orbita (f)                                           |||
+вращаться                           |||obracać się                                          |||
+атмосфера                           |||atmosfera (f)                                        |||
+Солнце                              |||Słońce (n)                                           |||
+солнечная система                   |||Układ (m) Słoneczny                                  |||
+солнечное затмение                  |||zaćmienie (n) słońca                                 |||
+Земля                               |||Ziemia (f)                                           |||
+Луна                                |||Księżyc (m)                                          |||
+Марс                                |||Mars (m)                                             |||
+Венера                              |||Wenus (f)                                            |||
+Юпитер                              |||Jowisz (m)                                           |||
+Сатурн                              |||Saturn (m)                                           |||
+Меркурий                            |||Merkury (m)                                          |||
+Уран                                |||Uran (m)                                             |||
+Нептун                              |||Neptun (m)                                           |||
+Плутон                              |||Pluton (m)                                           |||
+Млечный Путь                        |||Droga (f) Mleczna                                    |||
+Большая Медведица                   |||Wielki Wóz (m)                                       |||
+Полярная Звезда                     |||Gwiazda (f) Polarna                                  |||
+марсианин                           |||Marsjanin (m)                                        |||
+инопланетянин                       |||kosmita (m)                                          |||
+пришелец                            |||obcy (m)                                             |||
+летающая тарелка                    |||talerz (m) latający                                  |||
+космический корабль                 |||statek (m) kosmiczny                                 |||
+орбитальная станция                 |||stacja (f) kosmiczna                                 |||
+старт (ракеты)                      |||start (m)                                            |||
+двигатель                           |||silnik (m)                                           |||
+сопло                               |||dysza (f)                                            |||
+топливо                             |||paliwo (n)                                           |||
+кабина                              |||kabina (f)                                           |||
+антенна                             |||antena (f)                                           |||
+иллюминатор                         |||iluminator (m)                                       |||
+солнечная батарея                   |||bateria (f) słoneczna                                |||
+скафандр                            |||skafander (m)                                        |||
+невесомость                         |||nieważkość (f)                                       |||
+кислород                            |||tlen (m)                                             |||
+стыковка                            |||połączenie (n)                                       |||
+производить стыковку                |||łączyć się                                           |||
+обсерватория                        |||obserwatorium (n)                                    |||
+телескоп                            |||teleskop (m)                                         |||
+наблюдать                           |||obserwować                                           |||
+исследовать                         |||badać                                                |||
+Земля                               |||Ziemia (f)                                           |||
+земной шар                          |||kula (f) ziemska                                     |||
+планета                             |||planeta (f)                                          |||
+атмосфера                           |||atmosfera (f)                                        |||
+география                           |||geografia (f)                                        |||
+природа                             |||przyroda (f)                                         |||
+глобус                              |||globus (m)                                           |||
+карта                               |||mapa (f)                                             |||
+атлас                               |||atlas (m)                                            |||
+Европа                              |||Europa (f)                                           |||
+Азия                                |||Azja (f)                                             |||
+Африка                              |||Afryka (f)                                           |||
+Австралия                           |||Australia (f)                                        |||
+Америка                             |||Ameryka (f)                                          |||
+Северная Америка                    |||Ameryka (f) Północna                                 |||
+Южная Америка                       |||Ameryka (f) Południowa                               |||
+Антарктида                          |||Antarktyda (f)                                       |||
+Арктика                             |||Arktyka (f)                                          |||
+север                               |||północ (f)                                           |||
+на север                            |||na północ                                            |||
+на севере                           |||na północy                                           |||
+северный                            |||północny                                             |||
+юг                                  |||południe (n)                                         |||
+на юг                               |||na południe                                          |||
+на юге                              |||na południu                                          |||
+южный                               |||południowy                                           |||
+запад                               |||zachód (m)                                           |||
+на запад                            |||na zachód                                            |||
+на западе                           |||na zachodzie                                         |||
+западный                            |||zachodni                                             |||
+восток                              |||wschód (m)                                           |||
+на восток                           |||na wschód                                            |||
+на востоке                          |||na wschodzie                                         |||
+восточный                           |||wschodni                                             |||
+море                                |||morze (n)                                            |||
+океан                               |||ocean (m)                                            |||
+залив                               |||zatoka (f)                                           |||
+пролив                              |||cieśnina (f)                                         |||
+земля, суша                         |||ląd (m)                                              |||
+материк                             |||kontynent (m)                                        |||
+остров                              |||wyspa (f)                                            |||
+полуостров                          |||półwysep (m)                                         |||
+архипелаг                           |||archipelag (m)                                       |||
+бухта                               |||zatoka (f)                                           |||
+гавань                              |||port (m)                                             |||
+лагуна                              |||laguna (f)                                           |||
+мыс                                 |||przylądek (m)                                        |||
+атолл                               |||atol (m)                                             |||
+риф                                 |||rafa (f)                                             |||
+коралл                              |||koral (m)                                            |||
+коралловый риф                      |||rafa (f) koralowa                                    |||
+глубокий                            |||głęboki                                              |||
+глубина                             |||głębokość (f)                                        |||
+бездна                              |||otchłań (f)                                          |||
+впадина                             |||rów (m)                                              |||
+течение                             |||prąd (m)                                             |||
+омывать                             |||omywać                                               |||
+побережье                           |||brzeg (m)                                            |||
+берег (моря)                        |||wybrzeże (n)                                         |||
+прилив                              |||przypływ (m)                                         |||
+отлив                               |||odpływ (m)                                           |||
+отмель                              |||mielizna (f)                                         |||
+дно                                 |||dno (n)                                              |||
+волна                               |||fala (f)                                             |||
+гребень волны                       |||grzywa (f) fali                                      |||
+пена                                |||piana (f)                                            |||
+буря, шторм                         |||burza (f)                                            |||
+ураган                              |||huragan (m)                                          |||
+цунами                              |||tsunami (n)                                          |||
+штиль                               |||cisza (f) morska                                     |||
+спокойный                           |||spokojny                                             |||
+полюс                               |||biegun (m)                                           |||
+полярный                            |||polarny                                              |||
+широта                              |||szerokość (f)                                        |||
+долгота                             |||długość (f)                                          |||
+параллель                           |||równoleżnik (m)                                      |||
+экватор                             |||równik (m)                                           |||
+небо                                |||niebo (n)                                            |||
+горизонт                            |||horyzont (m)                                         |||
+воздух                              |||powietrze (n)                                        |||
+маяк                                |||latarnia (f) morska                                  |||
+нырять                              |||nurkować                                             |||
+затонуть (о корабле)                |||zatonąć                                              |||
+сокровища                           |||skarby (pl)                                          |||
+Атлантический океан                 |||Ocean (m) Atlantycki                                 |||
+Индийский океан                     |||Ocean (m) Indyjski                                   |||
+Тихий океан                         |||Ocean (m) Spokojny                                   |||
+Северный Ледовитый океан            |||Ocean (m) Lodowaty Północny                          |||
+Чёрное море                         |||Morze (n) Czarne                                     |||
+Красное море                        |||Morze (n) Czerwone                                   |||
+Желтое море                         |||Morze (n) Żółte                                      |||
+Белое море                          |||Morze (n) Białe                                      |||
+Каспийское море                     |||Morze (n) Kaspijskie                                 |||
+Мёртвое море                        |||Morze (n) Martwe                                     |||
+Средиземное море                    |||Morze (n) Śródziemne                                 |||
+Эгейское море                       |||Morze (n) Egejskie                                   |||
+Адриатическое море                  |||Morze (n) Adriatyckie                                |||
+Аравийское море                     |||Morze (n) Arabskie                                   |||
+Японское море                       |||Morze (n) Japońskie                                  |||
+Берингово море                      |||Morze (n) Beringa                                    |||
+Южно-Китайское море                 |||Morze (n) Południowochińskie                         |||
+Коралловое море                     |||Morze (n) Koralowe                                   |||
+Тасманово море                      |||Morze (n) Tasmana                                    |||
+Карибское море                      |||Morze (n) Karaibskie                                 |||
+Баренцево море                      |||Morze (n) Barentsa                                   |||
+Карское море                        |||Morze (n) Karskie                                    |||
+Северное море                       |||Morze (n) Północne                                   |||
+Балтийское море                     |||Morze (n) Bałtyckie                                  |||
+Норвежское море                     |||Morze (n) Norweskie                                  |||
+гора                                |||góra (f)                                             |||
+горная цепь                         |||łańcuch (m) górski                                   |||
+горный хребет                       |||grzbiet (m) górski                                   |||
+вершина                             |||szczyt (m)                                           |||
+пик                                 |||szczyt (m)                                           |||
+подножие (горы)                     |||podnóże (n)                                          |||
+склон                               |||zbocze (n)                                           |||
+вулкан                              |||wulkan (m)                                           |||
+действующий вулкан                  |||czynny (m) wulkan                                    |||
+потухший вулкан                     |||wygasły (m) wulkan                                   |||
+извержение                          |||wybuch (m)                                           |||
+кратер                              |||krater (m)                                           |||
+магма                               |||magma (f)                                            |||
+лава                                |||lawa (f)                                             |||
+раскалённый                         |||rozżarzony                                           |||
+каньон                              |||kanion (m)                                           |||
+ущелье                              |||wąwóz (m)                                            |||
+расщелина                           |||rozpadlina (m)                                       |||
+перевал                             |||przełęcz (f)                                         |||
+плато                               |||płaskowyż (m)                                        |||
+скала                               |||skała (f)                                            |||
+холм                                |||wzgórze (f)                                          |||
+ледник                              |||lodowiec (m)                                         |||
+водопад                             |||wodospad (m)                                         |||
+гейзер                              |||gejzer (m)                                           |||
+озеро                               |||jezioro (m)                                          |||
+равнина                             |||równina (f)                                          |||
+пейзаж                              |||pejzaż (m)                                           |||
+эхо                                 |||echo (n)                                             |||
+альпинист                           |||alpinista (m)                                        |||
+скалолаз                            |||wspinacz (m)                                         |||
+покорять                            |||pokonywać                                            |||
+восхождение                         |||wspinaczka (f)                                       |||
+Альпы                               |||Alpy (pl)                                            |||
+Монблан                             |||Mont Blanc (m)                                       |||
+Пиренеи                             |||Pireneje (pl)                                        |||
+Карпаты                             |||Karpaty (pl)                                         |||
+Уральские горы                      |||Góry Uralskie (pl)                                   |||
+Кавказ                              |||Kaukaz (m)                                           |||
+Эльбрус                             |||Elbrus (m)                                           |||
+Алтай                               |||Ałtaj (m)                                            |||
+Памир                               |||Pamir (m)                                            |||
+Гималаи                             |||Himalaje (pl)                                        |||
+Эверест                             |||Mont Everest (m)                                     |||
+Анды                                |||Andy (pl)                                            |||
+Килиманджаро                        |||Kilimandżaro (f)                                     |||
+река                                |||rzeka (m)                                            |||
+источник, родник                    |||źródło (n)                                           |||
+русло                               |||koryto (n)                                           |||
+бассейн (реки)                      |||dorzecze (n)                                         |||
+впадать в … (о реке)                |||wpadać                                               |||
+приток                              |||dopływ (m)                                           |||
+берег                               |||brzeg (m)                                            |||
+течение                             |||prąd (m)                                             |||
+вниз по течению                     |||z prądem                                             |||
+вверх по течению                    |||pod prąd                                             |||
+наводнение                          |||powódź (f)                                           |||
+половодье                           |||wylew (m) rzeki                                      |||
+разливаться                         |||rozlewać się                                         |||
+затоплять                           |||zatapiać                                             |||
+мель                                |||mielizna (f)                                         |||
+порог                               |||próg (m)                                             |||
+плотина                             |||tama (f)                                             |||
+канал                               |||kanał (m)                                            |||
+водохранилище                       |||zbiornik (m) wodny                                   |||
+шлюз                                |||śluza (f)                                            |||
+водоём                              |||zbiornik (m) wodny                                   |||
+болото                              |||bagno (n)                                            |||
+трясина                             |||grzęzawisko (n)                                      |||
+водоворот                           |||wir (m) wodny                                        |||
+ручей                               |||potok (m)                                            |||
+питьевая                            |||pitny                                                |||
+пресная (о воде)                    |||słodki                                               |||
+лёд                                 |||lód (m)                                              |||
+замёрзнуть (о реке)                 |||zamarznąć                                            |||
+Сена                                |||Sekwana (f)                                          |||
+Луара                               |||Loara (f)                                            |||
+Темза                               |||Tamiza (f)                                           |||
+Рейн                                |||Ren (m)                                              |||
+Дунай                               |||Dunaj (m)                                            |||
+Волга                               |||Wołga (f)                                            |||
+Дон                                 |||Don (m)                                              |||
+Лена                                |||Lena (f)                                             |||
+Хуанхэ                              |||Huang He (f)                                         |||
+Янцзы                               |||Jangcy (f)                                           |||
+Меконг                              |||Mekong (m)                                           |||
+Ганг                                |||Ganges (m)                                           |||
+Нил                                 |||Nil (m)                                              |||
+Конго                               |||Kongo (f)                                            |||
+Окаванго                            |||Okawango (f)                                         |||
+Замбези                             |||Zambezi (f)                                          |||
+Лимпопо                             |||Limpopo (f)                                          |||
+Миссисипи                           |||Mississipi (f)                                       |||
+лес                                 |||las (m)                                              |||
+лесной                              |||leśny                                                |||
+чаща                                |||gąszcz (f)                                           |||
+роща                                |||gaj (m), lasek (m)                                   |||
+поляна                              |||polana (f)                                           |||
+заросли                             |||zarośla (pl)                                         |||
+кустарник                           |||krzaki (pl)                                          |||
+тропинка                            |||ścieżka (f)                                          |||
+овраг                               |||wąwóz (m)                                            |||
+дерево                              |||drzewo (n)                                           |||
+лист                                |||liść (m)                                             |||
+листва                              |||listowie (n)                                         |||
+листопад                            |||opadanie (n) liści                                   |||
+опадать (о листьях)                 |||opadać                                               |||
+верхушка (дерева)                   |||wierzchołek (m)                                      |||
+ветка                               |||gałąź (f)                                            |||
+сук                                 |||sęk (m)                                              |||
+почка                               |||pączek (m)                                           |||
+иголка                              |||igła (f)                                             |||
+шишка (сосновая)                    |||szyszka (f)                                          |||
+дупло                               |||dziupla (f)                                          |||
+гнездо                              |||gniazdo (n)                                          |||
+нора                                |||nora (f)                                             |||
+ствол (дерева)                      |||pień (m)                                             |||
+корень                              |||korzeń (m)                                           |||
+кора                                |||kora (f)                                             |||
+мох                                 |||mech (m)                                             |||
+корчевать                           |||karczować                                            |||
+рубить (дерево)                     |||ścinać                                               |||
+вырубать лес                        |||wycinać                                              |||
+пень                                |||pieniek (m)                                          |||
+костёр                              |||ognisko (n)                                          |||
+пожар                               |||pożar (m)                                            |||
+тушить                              |||gasić                                                |||
+лесник                              |||leśnik (m)                                           |||
+охрана (растений)                   |||ochrona (f)                                          |||
+охранять (природу)                  |||chronić                                              |||
+браконьер                           |||kłusownik (m)                                        |||
+капкан                              |||potrzask (m)                                         |||
+собирать (грибы, ягоды)             |||zbierać                                              |||
+заблудиться                         |||zabłądzić                                            |||
+природные ресурсы                   |||zasoby (pl) naturalne                                |||
+полезные ископаемые                 |||kopaliny (pl) użyteczne                              |||
+залежи                              |||złoża (pl)                                           |||
+месторождение                       |||złoże (n)                                            |||
+добывать (руду)                     |||wydobywać                                            |||
+добыча                              |||wydobywanie (n)                                      |||
+руда                                |||ruda (f)                                             |||
+рудник, шахта                       |||kopalnia (f) rudy                                    |||
+шахта (скважина)                    |||szyb (m)                                             |||
+шахтёр                              |||górnik (m)                                           |||
+газ                                 |||gaz (m)                                              |||
+газопровод                          |||gazociąg (m)                                         |||
+нефть                               |||ropa (f) naftowa                                     |||
+нефтепровод                         |||rurociąg (m)                                         |||
+нефтяная скважина                   |||szyb (m) naftowy                                     |||
+нефтяная вышка                      |||wieża (f) wiertnicza                                 |||
+танкер                              |||tankowiec (m)                                        |||
+песок                               |||piasek (m)                                           |||
+известняк                           |||wapień (m)                                           |||
+гравий                              |||żwir (m)                                             |||
+торф                                |||torf (m)                                             |||
+глина                               |||glina (f)                                            |||
+уголь                               |||węgiel (m)                                           |||
+железо                              |||żelazo (n)                                           |||
+золото                              |||złoto (n)                                            |||
+серебро                             |||srebro (n)                                           |||
+никель                              |||nikiel (n)                                           |||
+медь                                |||miedź (f)                                            |||
+цинк                                |||cynk (m)                                             |||
+марганец                            |||mangan (m)                                           |||
+ртуть                               |||rtęć (f)                                             |||
+свинец                              |||ołów (m)                                             |||
+минерал                             |||minerał (m)                                          |||
+кристалл                            |||kryształ (m)                                         |||
+мрамор                              |||marmur (m)                                           |||
+уран                                |||uran (m)                                             |||
+погода                              |||pogoda (f)                                           |||
+прогноз погоды                      |||prognoza (f) pogody                                  |||
+температура                         |||temperatura (f)                                      |||
+термометр                           |||termometr (m)                                        |||
+барометр                            |||barometr (m)                                         |||
+влажность                           |||wilgoć (f)                                           |||
+жара                                |||żar (m)                                              |||
+жаркий                              |||upalny, gorący                                       |||
+жарко (о погоде)                    |||gorąco                                               |||
+тепло (о погоде)                    |||ciepło                                               |||
+тёплый (день)                       |||ciepły                                               |||
+холодно (о погоде)                  |||zimno                                                |||
+холодный                            |||zimny                                                |||
+солнце                              |||słońce (n)                                           |||
+светить (о солнце)                  |||świecić                                              |||
+солнечный (день)                    |||słoneczny                                            |||
+взойти                              |||wzejść                                               |||
+сесть                               |||zajść                                                |||
+облако                              |||obłok (m)                                            |||
+облачный                            |||zachmurzony                                          |||
+туча                                |||chmura (f)                                           |||
+пасмурный                           |||pochmurny                                            |||
+дождь                               |||deszcz (m)                                           |||
+идёт дождь                          |||pada deszcz                                          |||
+дождливый                           |||deszczowy                                            |||
+моросить                            |||mżyć                                                 |||
+проливной дождь                     |||ulewny deszcz (m)                                    |||
+ливень                              |||ulewa (f)                                            |||
+сильный (дождь)                     |||silny                                                |||
+лужа (на улице)                     |||kałuża (f)                                           |||
+промокнуть                          |||moknąć                                               |||
+туман                               |||mgła (f)                                             |||
+туманный                            |||mglisty                                              |||
+снег                                |||śnieg (m)                                            |||
+идёт снег                           |||pada śnieg                                           |||
+гроза                               |||burza (f)                                            |||
+молния                              |||błyskawica (f)                                       |||
+сверкать                            |||błyskać                                              |||
+гром                                |||grzmot (m)                                           |||
+греметь (о громе)                   |||grzmieć                                              |||
+гремит гром                         |||grzmi                                                |||
+град                                |||grad (m)                                             |||
+идёт град                           |||pada grad                                            |||
+затопить (залить водой)             |||zatopić                                              |||
+наводнение                          |||powódź (f)                                           |||
+землетрясение                       |||trzęsienie (n) ziemi                                 |||
+толчок (подземный)                  |||wstrząs (m)                                          |||
+эпицентр                            |||epicentrum (n)                                       |||
+извержение                          |||wybuch (m)                                           |||
+лава                                |||lawa (f)                                             |||
+смерч                               |||trąba (f) powietrzna                                 |||
+торнадо                             |||tornado (n)                                          |||
+тайфун                              |||tajfun (m)                                           |||
+ураган                              |||huragan (m)                                          |||
+буря                                |||burza (f)                                            |||
+цунами                              |||tsunami (n)                                          |||
+циклон                              |||cyklon (m)                                           |||
+непогода                            |||niepogoda (f)                                        |||
+пожар                               |||pożar (m)                                            |||
+катастрофа                          |||katastrofa (f)                                       |||
+метеорит                            |||meteoryt (m)                                         |||
+лавина                              |||lawina (f)                                           |||
+обвал (снежный)                     |||lawina (f)                                           |||
+метель                              |||zamieć (f)                                           |||
+вьюга                               |||śnieżyca (f)                                         |||
+тишина                              |||cisza (f)                                            |||
+звук                                |||dźwięk (m)                                           |||
+шум                                 |||hałas (m)                                            |||
+шуметь                              |||hałasować                                            |||
+шумный                              |||hałaśliwy                                            |||
+громко                              |||głośno                                               |||
+громкий                             |||głośny                                               |||
+постоянный (шум)                    |||ciągły                                               |||
+крик                                |||krzyk (m)                                            |||
+кричать                             |||krzyczeć                                             |||
+шёпот                               |||szept (m)                                            |||
+шептать                             |||szeptać                                              |||
+лай                                 |||szczekanie (n)                                       |||
+лаять                               |||szczekać                                             |||
+стон                                |||jęk (m)                                              |||
+стонать                             |||jęczeć                                               |||
+кашель                              |||kaszel (m)                                           |||
+кашлять                             |||kaszleć                                              |||
+свист                               |||gwizd (m)                                            |||
+свистеть                            |||gwizdać                                              |||
+стук (в дверь)                      |||pukanie (n)                                          |||
+стучать (в дверь)                   |||pukać                                                |||
+трещать (доски, лёд)                |||trzeszczeć                                           |||
+треск                               |||trzask (m)                                           |||
+сирена                              |||syrena (f)                                           |||
+гудок (фабричный)                   |||sygnał (m), gwizdek (m)                              |||
+гудеть (гудок, поезд)               |||huczeć                                               |||
+сигнал (авто)                       |||klakson (m)                                          |||
+сигналить (гудеть)                  |||trąbić                                               |||
+зима                                |||zima (f)                                             |||
+зимний                              |||zimowy                                               |||
+зимой                               |||zimą                                                 |||
+снег                                |||śnieg (m)                                            |||
+идёт снег                           |||pada śnieg                                           |||
+снегопад                            |||opady (pl) śniegu                                    |||
+сугроб                              |||zaspa (f)                                            |||
+снежинка                            |||śnieżynka (f)                                        |||
+снежок                              |||śnieżka (f)                                          |||
+снеговик                            |||bałwan (m)                                           |||
+сосулька                            |||sopel (m)                                            |||
+декабрь                             |||grudzień (m)                                         |||
+январь                              |||styczeń (m)                                          |||
+февраль                             |||luty (m)                                             |||
+мороз                               |||mróz (m)                                             |||
+морозный                            |||mroźny                                               |||
+ниже нуля                           |||poniżej zera                                         |||
+заморозки                           |||przymrozki (pl)                                      |||
+иней                                |||szron (m)                                            |||
+холод                               |||zimno (n)                                            |||
+холодно                             |||zimno                                                |||
+шуба                                |||futro (n)                                            |||
+варежки                             |||rękawiczki (pl)                                      |||
+заболеть                            |||zachorować                                           |||
+простуда                            |||przeziębienie (n)                                    |||
+простудиться                        |||przeziębić się                                       |||
+лёд                                 |||lód (m)                                              |||
+гололёд                             |||gołoledź (f)                                         |||
+замёрзнуть (о реке)                 |||zamarznąć                                            |||
+льдина                              |||kra (f)                                              |||
+лыжи                                |||narty (pl)                                           |||
+лыжник                              |||narciarz (m)                                         |||
+кататься на лыжах                   |||jeździć na nartach                                   |||
+кататься на коньках                 |||jeździć na łyżwach                                   |||
+хищник                              |||drapieżnik (m)                                       |||
+тигр                                |||tygrys (m)                                           |||
+лев                                 |||lew (m)                                              |||
+волк                                |||wilk (m)                                             |||
+лиса                                |||lis (m)                                              |||
+ягуар                               |||jaguar (m)                                           |||
+леопард                             |||lampart (m)                                          |||
+гепард                              |||gepard (m)                                           |||
+пантера                             |||pantera (f)                                          |||
+пума                                |||puma (f)                                             |||
+снежный барс                        |||irbis (m)                                            |||
+рысь                                |||ryś (m)                                              |||
+койот                               |||kojot (m)                                            |||
+шакал                               |||szakal (m)                                           |||
+гиена                               |||hiena (f)                                            |||
+животное                            |||zwierzę (n)                                          |||
+зверь                               |||dzikie zwierzę (n)                                   |||
+белка                               |||wiewiórka (f)                                        |||
+ёж                                  |||jeż (m)                                              |||
+заяц                                |||zając (m)                                            |||
+кролик                              |||królik (m)                                           |||
+барсук                              |||borsuk (m)                                           |||
+енот                                |||szop (m)                                             |||
+хомяк                               |||chomik (m)                                           |||
+сурок                               |||świstak (m)                                          |||
+крот                                |||kret (m)                                             |||
+мышь                                |||mysz (f)                                             |||
+крыса                               |||szczur (m)                                           |||
+летучая мышь                        |||nietoperz (m)                                        |||
+горностай                           |||gronostaj (m)                                        |||
+соболь                              |||soból (m)                                            |||
+куница                              |||kuna (f)                                             |||
+ласка                               |||łasica (f)                                           |||
+норка                               |||norka (f)                                            |||
+бобр                                |||bóbr (m)                                             |||
+выдра                               |||wydra (f)                                            |||
+лошадь                              |||koń (m)                                              |||
+лось                                |||łoś (m)                                              |||
+олень                               |||jeleń (m)                                            |||
+верблюд                             |||wielbłąd (m)                                         |||
+бизон                               |||bizon (m)                                            |||
+зубр                                |||żubr (m)                                             |||
+буйвол                              |||bawół (m)                                            |||
+зебра                               |||zebra (f)                                            |||
+антилопа                            |||antylopa (f)                                         |||
+косуля                              |||sarna (f)                                            |||
+лань                                |||łania (f)                                            |||
+серна                               |||kozica (f)                                           |||
+кабан                               |||dzik (m)                                             |||
+кит                                 |||wieloryb (m)                                         |||
+тюлень                              |||foka (f)                                             |||
+морж                                |||mors (m)                                             |||
+котик                               |||kot (m) morski                                       |||
+дельфин                             |||delfin (m)                                           |||
+медведь                             |||niedźwiedź (m)                                       |||
+белый медведь                       |||niedźwiedź (m) polarny                               |||
+панда                               |||panda (f)                                            |||
+обезьяна                            |||małpa (f)                                            |||
+шимпанзе                            |||szympans (m)                                         |||
+орангутанг                          |||orangutan (m)                                        |||
+горилла                             |||goryl (m)                                            |||
+макака                              |||makak (m)                                            |||
+гиббон                              |||gibon (m)                                            |||
+слон                                |||słoń (m)                                             |||
+носорог                             |||nosorożec (m)                                        |||
+жираф                               |||żyrafa (f)                                           |||
+бегемот                             |||hipopotam (m)                                        |||
+кенгуру                             |||kangur (m)                                           |||
+коала                               |||koala (f)                                            |||
+мангуст                             |||mangusta (f)                                         |||
+шиншилла                            |||szynszyla (f)                                        |||
+скунс                               |||skunks (m)                                           |||
+дикобраз                            |||jeżozwierz (m)                                       |||
+кошка                               |||kotka (f)                                            |||
+кот                                 |||kot (m)                                              |||
+собака, пёс                         |||pies (m)                                             |||
+лошадь                              |||koń (m)                                              |||
+жеребец                             |||źrebak (m), ogier (m)                                |||
+кобыла                              |||klacz (f)                                            |||
+корова                              |||krowa (f)                                            |||
+бык                                 |||byk (m)                                              |||
+вол                                 |||wół (m)                                              |||
+овца                                |||owca (f)                                             |||
+баран                               |||baran (m)                                            |||
+коза                                |||koza (f)                                             |||
+козёл                               |||kozioł (m)                                           |||
+осёл                                |||osioł (m)                                            |||
+мул                                 |||muł (m)                                              |||
+свинья                              |||świnia (f)                                           |||
+поросёнок                           |||prosiak (m)                                          |||
+кролик                              |||królik (m)                                           |||
+курица                              |||kura (f)                                             |||
+петух                               |||kogut (m)                                            |||
+утка                                |||kaczka (f)                                           |||
+селезень                            |||kaczor (m)                                           |||
+гусь                                |||gęś (f)                                              |||
+индюк                               |||indyk (m)                                            |||
+индюшка                             |||indyczka (f)                                         |||
+домашние животные                   |||zwierzęta (pl) domowe                                |||
+ручной (о животных)                 |||oswojony                                             |||
+приручать                           |||oswajać                                              |||
+выращивать                          |||hodować                                              |||
+ферма                               |||ferma (f)                                            |||
+домашняя птица                      |||drób (m)                                             |||
+скот                                |||bydło (n)                                            |||
+стадо                               |||stado (n)                                            |||
+конюшня                             |||stajnia (f)                                          |||
+свинарник                           |||chlew (m)                                            |||
+коровник                            |||obora (f)                                            |||
+крольчатник                         |||klatka (f) dla królików                              |||
+курятник                            |||kurnik (m)                                           |||
+собака                              |||pies (m)                                             |||
+овчарка                             |||owczarek (m)                                         |||
+пудель                              |||pudel (m)                                            |||
+такса                               |||jamnik (m)                                           |||
+бульдог                             |||buldog (m)                                           |||
+боксёр                              |||bokser (m)                                           |||
+мастиф                              |||mastyf (m)                                           |||
+ротвейлер                           |||rottweiler (m)                                       |||
+доберман                            |||doberman (m)                                         |||
+бассет                              |||basset (m)                                           |||
+бобтейл                             |||owczarek (m) staroangielski                          |||
+далматинец                          |||dalmatyńczyk (m)                                     |||
+кокер-спаниель                      |||cocker spaniel (m)                                   |||
+ньюфаундленд                        |||nowofundland (m)                                     |||
+сенбернар                           |||bernardyn (m)                                        |||
+хаски                               |||husky (m)                                            |||
+чау-чау                             |||chow-chow (m)                                        |||
+шпиц                                |||szpic (m)                                            |||
+мопс                                |||mops (m)                                             |||
+лай                                 |||szczekanie (n)                                       |||
+лаять                               |||szczekać                                             |||
+мяукать                             |||miauczeć                                             |||
+мурлыкать                           |||mruczeć                                              |||
+мычать                              |||muczeć                                               |||
+реветь                              |||ryczeć                                               |||
+рычать                              |||warczeć                                              |||
+вой                                 |||wycie (n)                                            |||
+выть                                |||wyć                                                  |||
+скулить                             |||skomleć                                              |||
+блеять                              |||beczeć                                               |||
+хрюкать                             |||chrząkać                                             |||
+визжать                             |||kwiczeć                                              |||
+квакать                             |||kwakać                                               |||
+жужжать                             |||bzyczeć                                              |||
+стрекотать                          |||cykać                                                |||
+детёныш                             |||małe (n)                                             |||
+котёнок                             |||kotek (m)                                            |||
+мышонок                             |||mała myszka (f)                                      |||
+щенок                               |||małe piesek (m)                                      |||
+зайчонок                            |||zajączek (m)                                         |||
+крольчонок                          |||króliczek (m)                                        |||
+волчонок                            |||wilczek (m)                                          |||
+лисёнок                             |||lisek (m)                                            |||
+медвежонок                          |||niedźwiadek (m)                                      |||
+львёнок                             |||lwiątko (n)                                          |||
+тигрёнок                            |||tygrysiątko (n)                                      |||
+слонёнок                            |||słoniątko (n)                                        |||
+поросёнок                           |||prosiak (m)                                          |||
+телёнок                             |||cielę (n), cielak (m)                                |||
+козлёнок                            |||koźlątko (n)                                         |||
+ягнёнок                             |||jagniątko (n)                                        |||
+оленёнок                            |||jelonek (m)                                          |||
+верблюжонок                         |||młody wielbłąd (m)                                   |||
+змеёныш                             |||żmijka (f)                                           |||
+лягушонок                           |||żabka (f)                                            |||
+птенец                              |||pisklę (n)                                           |||
+цыплёнок                            |||kurczątko (n)                                        |||
+утёнок                              |||kaczątko (n)                                         |||
+птица                               |||ptak (m)                                             |||
+голубь                              |||gołąb (m)                                            |||
+воробей                             |||wróbel (m)                                           |||
+синица                              |||sikorka (f)                                          |||
+сорока                              |||sroka (f)                                            |||
+ворон                               |||kruk (m)                                             |||
+ворона                              |||wrona (f)                                            |||
+галка                               |||kawka (f)                                            |||
+грач                                |||gawron (m)                                           |||
+утка                                |||kaczka (f)                                           |||
+гусь                                |||gęś (f)                                              |||
+фазан                               |||bażant (m)                                           |||
+орёл                                |||orzeł (m)                                            |||
+ястреб                              |||jastrząb (m)                                         |||
+сокол                               |||sokół (m)                                            |||
+гриф                                |||sęp (m)                                              |||
+кондор                              |||kondor (m)                                           |||
+лебедь                              |||łabędź (m)                                           |||
+журавль                             |||żuraw (m)                                            |||
+аист                                |||bocian (m)                                           |||
+попугай                             |||papuga (f)                                           |||
+колибри                             |||koliber (m)                                          |||
+павлин                              |||paw (m)                                              |||
+страус                              |||struś (m)                                            |||
+цапля                               |||czapla (f)                                           |||
+фламинго                            |||flaming (m)                                          |||
+пеликан                             |||pelikan (m)                                          |||
+соловей                             |||słowik (m)                                           |||
+ласточка                            |||jaskółka (f)                                         |||
+дрозд                               |||drozd (m)                                            |||
+певчий дрозд                        |||drozd śpiewak (m)                                    |||
+чёрный дрозд                        |||kos (m)                                              |||
+стриж                               |||jerzyk (m)                                           |||
+жаворонок                           |||skowronek (m)                                        |||
+перепел                             |||przepiórka (f)                                       |||
+дятел                               |||dzięcioł (m)                                         |||
+кукушка                             |||kukułka (f)                                          |||
+сова                                |||sowa (f)                                             |||
+филин                               |||puchacz (m)                                          |||
+глухарь                             |||głuszec (m)                                          |||
+тетерев                             |||cietrzew (m)                                         |||
+куропатка                           |||kuropatwa (f)                                        |||
+скворец                             |||szpak (m)                                            |||
+канарейка                           |||kanarek (m)                                          |||
+рябчик                              |||jarząbek (m)                                         |||
+зяблик                              |||zięba (f)                                            |||
+снегирь                             |||gil (m)                                              |||
+чайка                               |||mewa (f)                                             |||
+альбатрос                           |||albatros (m)                                         |||
+пингвин                             |||pingwin (m)                                          |||
+петь                                |||śpiewać                                              |||
+кричать                             |||krzyczeć                                             |||
+кукарекать                          |||piać                                                 |||
+кукареку                            |||kukuryku                                             |||
+кудахтать                           |||gdakać                                               |||
+каркать                             |||krakać                                               |||
+крякать                             |||kwakać                                               |||
+пищать (о птицах)                   |||piszczeć                                             |||
+чирикать                            |||ćwierkać                                             |||
+лещ                                 |||leszcz (m)                                           |||
+карп                                |||karp (m)                                             |||
+окунь                               |||okoń (m)                                             |||
+сом                                 |||sum (m)                                              |||
+щука                                |||szczupak (m)                                         |||
+лосось                              |||łosoś (m)                                            |||
+осётр                               |||jesiotr (m)                                          |||
+сельдь                              |||śledź (m)                                            |||
+сёмга                               |||łosoś (m)                                            |||
+скумбрия                            |||makrela (f)                                          |||
+камбала                             |||flądra (f)                                           |||
+судак                               |||sandacz (m)                                          |||
+треска                              |||dorsz (m)                                            |||
+тунец                               |||tuńczyk (m)                                          |||
+форель                              |||pstrąg (m)                                           |||
+угорь                               |||węgorz (m)                                           |||
+электрический скат                  |||drętwa (f)                                           |||
+мурена                              |||murena (f)                                           |||
+пиранья                             |||pirania (f)                                          |||
+акула                               |||rekin (m)                                            |||
+дельфин                             |||delfin (m)                                           |||
+кит                                 |||wieloryb (m)                                         |||
+краб                                |||krab (m)                                             |||
+медуза                              |||meduza (f)                                           |||
+осьминог                            |||ośmiornica (f)                                       |||
+морская звезда                      |||rozgwiazda (f)                                       |||
+морской ёж                          |||jeżowiec (m)                                         |||
+морской конёк                       |||konik (m) morski                                     |||
+устрица                             |||ostryga (f)                                          |||
+креветка                            |||krewetka (f)                                         |||
+омар                                |||homar (m)                                            |||
+лангуст                             |||langusta (f)                                         |||
+змея                                |||wąż (m)                                              |||
+ядовитый                            |||jadowity                                             |||
+гадюка                              |||żmija (f)                                            |||
+кобра                               |||kobra (f)                                            |||
+питон                               |||pyton (m)                                            |||
+удав                                |||wąż dusiciel (m)                                     |||
+уж                                  |||zaskroniec (m)                                       |||
+гремучая змея                       |||grzechotnik (m)                                      |||
+анаконда                            |||anakonda (f)                                         |||
+ящерица                             |||jaszczurka (f)                                       |||
+игуана                              |||legwan (m)                                           |||
+варан                               |||waran (m)                                            |||
+саламандра                          |||salamandra (f)                                       |||
+хамелеон                            |||kameleon (m)                                         |||
+скорпион                            |||skorpion (m)                                         |||
+черепаха                            |||żółw (m)                                             |||
+лягушка                             |||żaba (f)                                             |||
+жаба                                |||ropucha (f)                                          |||
+крокодил                            |||krokodyl (m)                                         |||
+насекомое                           |||owad (m)                                             |||
+бабочка                             |||motyl (m)                                            |||
+муравей                             |||mrówka (f)                                           |||
+муха                                |||mucha (f)                                            |||
+комар                               |||komar (m)                                            |||
+жук                                 |||żuk (m), chrząszcz (m)                               |||
+оса                                 |||osa (f)                                              |||
+пчела                               |||pszczoła (f)                                         |||
+шмель                               |||trzmiel (m)                                          |||
+овод                                |||giez (m)                                             |||
+паук                                |||pająk (m)                                            |||
+паутина                             |||pajęczyna (f)                                        |||
+стрекоза                            |||ważka (f)                                            |||
+кузнечик                            |||konik (m) polny                                      |||
+мотылёк                             |||omacnica (f)                                         |||
+таракан                             |||karaluch (m)                                         |||
+клещ                                |||kleszcz (m)                                          |||
+блоха                               |||pchła (f)                                            |||
+мошка                               |||meszka (f)                                           |||
+саранча                             |||szarańcza (f)                                        |||
+улитка                              |||ślimak (m)                                           |||
+сверчок                             |||świerszcz (m)                                        |||
+светлячок                           |||robaczek (m) świętojański                            |||
+божья коровка                       |||biedronka (f)                                        |||
+майский жук                         |||chrabąszcz (m) majowy                                |||
+пиявка                              |||pijawka (f)                                          |||
+гусеница                            |||gąsienica (f)                                        |||
+червь                               |||robak (m)                                            |||
+червь (личинка)                     |||poczwarka (f)                                        |||
+клюв                                |||dziób (m)                                            |||
+крылья                              |||skrzydła (pl)                                        |||
+лапа (птицы)                        |||łapa (f)                                             |||
+оперение                            |||upierzenie (n)                                       |||
+перо (птицы)                        |||pióro (n)                                            |||
+хохолок                             |||czubek (m)                                           |||
+жабры                               |||skrzela (pl)                                         |||
+икра                                |||ikra (f)                                             |||
+личинка                             |||larwa (f)                                            |||
+плавник                             |||płetwa (f)                                           |||
+чешуя                               |||łuska (f)                                            |||
+клык                                |||kieł (m)                                             |||
+лапа (напр. собаки)                 |||łapa (f)                                             |||
+морда                               |||pysk (m)                                             |||
+пасть                               |||paszcza (f)                                          |||
+хвост                               |||ogon (m)                                             |||
+усы (у животных)                    |||wąsy (pl)                                            |||
+копыто                              |||kopyto (n)                                           |||
+рог                                 |||róg (m)                                              |||
+панцирь (черепахи)                  |||pancerz (m)                                          |||
+ракушка                             |||muszla (f)                                           |||
+скорлупа                            |||skorupa (f)                                          |||
+шерсть (животного)                  |||sierść (f)                                           |||
+шкура (убитого животного)           |||skóra (f)                                            |||
+летать                              |||latać                                                |||
+кружить (о птице)                   |||krążyć                                               |||
+улететь (о птице)                   |||odlecieć                                             |||
+махать (крыльями)                   |||machać                                               |||
+клевать                             |||dziobać                                              |||
+высиживать яйца                     |||wysiadywać jajka                                     |||
+вылупляться                         |||wykluwać się                                         |||
+вить гнездо                         |||wić                                                  |||
+ползать                             |||pełznąć                                              |||
+жалить (о насекомом)                |||żądlić                                               |||
+кусать (о собаке и т.п.)            |||gryźć                                                |||
+нюхать (о животных)                 |||wąchać                                               |||
+лаять                               |||szczekać                                             |||
+шипеть                              |||syczeć                                               |||
+пугать                              |||straszyć                                             |||
+нападать                            |||napadać                                              |||
+грызть                              |||gryźć                                                |||
+царапать                            |||drapać                                               |||
+прятаться                           |||chować się                                           |||
+играть                              |||bawić się                                            |||
+охотиться                           |||polować                                              |||
+быть в спячке                       |||zapadać w sen zimowy                                 |||
+вымереть (динозавры)                |||wymrzeć                                              |||
+среда обитания                      |||siedlisko (n)                                        |||
+миграция                            |||migracja (f)                                         |||
+гора                                |||góra (f)                                             |||
+риф                                 |||rafa (f)                                             |||
+скала                               |||skała (f)                                            |||
+лес                                 |||las (m)                                              |||
+джунгли                             |||dżungla (f)                                          |||
+саванна                             |||sawanna (f)                                          |||
+тундра                              |||tundra (f)                                           |||
+степь                               |||step (m)                                             |||
+пустыня                             |||pustynia (f)                                         |||
+оазис                               |||oaza (f)                                             |||
+море                                |||morze (n)                                            |||
+озеро                               |||jezioro (n)                                          |||
+океан                               |||ocean (m)                                            |||
+болото                              |||bagno (n)                                            |||
+пресноводный                        |||słodkowodny                                          |||
+пруд                                |||staw (m)                                             |||
+река                                |||rzeka (f)                                            |||
+берлога                             |||barłóg (m)                                           |||
+гнездо                              |||gniazdo (n)                                          |||
+дупло                               |||dziupla (f)                                          |||
+нора                                |||nora (f)                                             |||
+муравейник                          |||mrowisko (n)                                         |||
+зоопарк                             |||zoo (n)                                              |||
+заповедник                          |||rezerwat (m)                                         |||
+питомник                            |||hodowca (m)                                          |||
+вольер                              |||woliera (f)                                          |||
+клетка                              |||klatka (f)                                           |||
+конура                              |||buda (f) dla psa                                     |||
+голубятня                           |||gołębnik (m)                                         |||
+аквариум                            |||akwarium (n)                                         |||
+дельфинарий                         |||delfinarium (n)                                      |||
+разводить (животных)                |||hodować                                              |||
+потомство                           |||miot (m)                                             |||
+приручать                           |||oswajać                                              |||
+корм                                |||pokarm (m)                                           |||
+кормить                             |||karmić                                               |||
+дрессировать                        |||tresować                                             |||
+зоомагазин                          |||sklep (m) zoologiczny                                |||
+намордник                           |||kaganiec (m)                                         |||
+ошейник                             |||obroża (f)                                           |||
+кличка (животн.)                    |||imię (n)                                             |||
+родословная (собаки)                |||rodowód (m)                                          |||
+стая (волков)                       |||wataha (f)                                           |||
+стая (птиц)                         |||stado (n)                                            |||
+стая (рыб)                          |||ławica (f)                                           |||
+табун                               |||tabun (m)                                            |||
+самец                               |||samiec (m)                                           |||
+самка                               |||samica (f)                                           |||
+голодный                            |||głodny                                               |||
+дикий                               |||dziki                                                |||
+опасный                             |||niebezpieczny                                        |||
+лошадь, конь                        |||koń (m)                                              |||
+порода                              |||rasa (f)                                             |||
+жеребёнок                           |||źrebię (n)                                           |||
+кобыла                              |||klacz (f)                                            |||
+мустанг                             |||mustang (m)                                          |||
+пони                                |||kucyk (m)                                            |||
+тяжеловоз                           |||koń (m) pociągowy                                    |||
+грива                               |||grzywa (f)                                           |||
+хвост                               |||ogon (m)                                             |||
+копыто                              |||kopyto (n)                                           |||
+подкова                             |||podkowa (f)                                          |||
+подковать                           |||podkuć                                               |||
+кузнец                              |||kowal (m)                                            |||
+седло                               |||siodło (n)                                           |||
+стремя                              |||strzemię (n)                                         |||
+уздечка                             |||uzda (f)                                             |||
+вожжи                               |||lejce (pl)                                           |||
+плётка                              |||bat (m)                                              |||
+наездник                            |||jeździec (m)                                         |||
+объезжать (лошадь)                  |||ujeżdżać                                             |||
+оседлать                            |||osiodłać                                             |||
+сесть в седло                       |||usiąść w siodle                                      |||
+галоп                               |||cwał (m)                                             |||
+скакать галопом                     |||galopować                                            |||
+рысь                                |||kłus (m)                                             |||
+рысью                               |||kłusem                                               |||
+скаковая лошадь                     |||koń (m) wyścigowy                                    |||
+скачки                              |||wyścigi (pl) konne                                   |||
+конюшня                             |||stajnia (f)                                          |||
+кормить                             |||karmić                                               |||
+сено                                |||siano (n)                                            |||
+поить                               |||poić                                                 |||
+чистить                             |||czyścić                                              |||
+стреножить                          |||spętać                                               |||
+пастись                             |||paść się                                             |||
+ржать                               |||rżeć                                                 |||
+лягнуть                             |||wierzgnąć                                            |||

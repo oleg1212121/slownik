@@ -1,0 +1,999 @@
+трудность                           |||trudności (pl)                                 |||
+проблема                            |||problem (m)                                    |||
+катастрофа (перен.)                 |||katastrofa (f)                                 |||
+экономика                           |||gospodarka (f)                                 |||
+экономический                       |||gospodarczy                                    |||
+экономический спад                  |||recesja (f)                                    |||
+цель                                |||cel (m)                                        |||
+задача                              |||zadanie (n)                                    |||
+торговать                           |||handlować                                      |||
+сеть (дистрибьюторов)               |||sieć (f)                                       |||
+склад (товары)                      |||skład (m)                                      |||
+ассортимент                         |||asortyment (m)                                 |||
+лидер                               |||lider (m)                                      |||
+крупный (о фирме)                   |||duży                                           |||
+монополия                           |||monopol (m)                                    |||
+теория                              |||teoria (f)                                     |||
+практика                            |||praktyka (f)                                   |||
+опыт (знания)                       |||doświadczenie (n)                              |||
+тенденция                           |||tendencja (f)                                  |||
+развитие                            |||rozwój (m)                                     |||
+выгода                              |||korzyści (pl)                                  |||
+выгодный                            |||korzystny                                      |||
+делегация                           |||delegacja (f)                                  |||
+заработная плата                    |||pensja (f)                                     |||
+исправлять (ошибку)                 |||naprawiać                                      |||
+командировка                        |||wyjazd (m) służbowy                            |||
+комиссия                            |||komisja (f)                                    |||
+контролировать                      |||kontrolować                                    |||
+конференция                         |||konferencja (f)                                |||
+лицензия                            |||licencja (f)                                   |||
+надёжный (партнёр)                  |||pewny                                          |||
+начинание                           |||przedsięwzięcie (n)                            |||
+норма (стандарт)                    |||norma (f)                                      |||
+обстоятельство                      |||okoliczność (f)                                |||
+обязанность                         |||obowiązek (m)                                  |||
+организация (предприятие)           |||organizacja (m)                                |||
+организация (процесс)               |||organizacja (m)                                |||
+организованный                      |||zorganizowany                                  |||
+отмена                              |||odwołanie (n)                                  |||
+отменить                            |||odwołać                                        |||
+отчёт                               |||sprawozdanie (n)                               |||
+патент                              |||patent (m)                                     |||
+патентовать                         |||opatentować                                    |||
+планировать                         |||planować                                       |||
+премия                              |||premia (f)                                     |||
+профессиональный                    |||profesjonalny                                  |||
+процедура                           |||procedura (f)                                  |||
+рассмотреть (вопрос и т.п.)         |||rozpatrzyć                                     |||
+расчёт (прибыли и т.п.)             |||wyliczenie (n)                                 |||
+репутация                           |||reputacja (f)                                  |||
+риск                                |||ryzyko (n)                                     |||
+руководить (чем-л.)                 |||kierować                                       |||
+сведения                            |||wiadomości (pl)                                |||
+собственность                       |||własność (f)                                   |||
+союз (группа фирм)                  |||związek (m)                                    |||
+страхование жизни                   |||ubezpieczenie (n) na życie                     |||
+страховать                          |||ubezpieczać                                    |||
+страховка                           |||ubezpieczenie (n)                              |||
+торги (аукцион)                     |||przetarg (m)                                   |||
+уведомить                           |||powiadomić                                     |||
+управление (процесс)                |||zarządzanie (n)                                |||
+услуга                              |||usługa (f)                                     |||
+форум                               |||forum (n)                                      |||
+функционировать                     |||funkcjonować                                   |||
+этап (работы и т.п.)                |||etap (m)                                       |||
+юридический                         |||prawny                                         |||
+юрист                               |||prawnik (m)                                    |||
+завод                               |||zakład (m)                                     |||
+фабрика                             |||fabryka (f)                                    |||
+цех                                 |||cech (m)                                       |||
+производство (завод и т.п.)         |||zakład (m)                                     |||
+промышленность                      |||przemysł (m)                                   |||
+промышленный                        |||przemysłowy                                    |||
+тяжелая промышленность              |||przemysł (m) ciężki                            |||
+лёгкая промышленность               |||przemysł (m) lekki                             |||
+продукция                           |||produkcja (f)                                  |||
+производить                         |||produkować                                     |||
+сырьё                               |||surowiec (m)                                   |||
+бригадир                            |||brygadzista (m)                                |||
+бригада                             |||brygada (m)                                    |||
+рабочий                             |||robotnik (m)                                   |||
+рабочий день                        |||dzień (m) roboczy                              |||
+остановка (перерыв)                 |||przerwa (f)                                    |||
+собрание                            |||zebranie (n)                                   |||
+обсуждать                           |||omawiać                                        |||
+план                                |||plan (m)                                       |||
+выполнять план                      |||wykonywać plan                                 |||
+норма выработки                     |||norma (f)                                      |||
+качество                            |||jakość (f)                                     |||
+контроль (проверка)                 |||kontrola (f)                                   |||
+контроль качества                   |||kontrola (f) jakości                           |||
+безопасность труда                  |||bezpieczeństwo (n) pracy                       |||
+дисциплина                          |||dyscyplina (f)                                 |||
+нарушение                           |||naruszenie (n)                                 |||
+нарушать                            |||naruszać                                       |||
+забастовка                          |||strajk (m)                                     |||
+забастовщик                         |||strajkujący (m)                                |||
+бастовать                           |||strajkować                                     |||
+профсоюз                            |||związek (m) zawodowy                           |||
+изобретать                          |||wynalazać                                      |||
+изобретение                         |||wynalazek (m)                                  |||
+исследование (поиск)                |||badanie (f)                                    |||
+улучшать                            |||udoskonalać                                    |||
+технология                          |||technologia (f)                                |||
+чертёж                              |||rysunek (m) techniczny                         |||
+груз                                |||ładunek (m)                                    |||
+грузчик                             |||ładowacz (m)                                   |||
+грузить                             |||ładować                                        |||
+погрузка                            |||załadunek (m)                                  |||
+разгружать                          |||rozładowywać                                   |||
+разгрузка                           |||rozładunek (m)                                 |||
+транспорт                           |||transport (m)                                  |||
+транспортная компания               |||firma (f) transportowa                         |||
+транспортировать                    |||przewozić                                      |||
+вагон (товарный)                    |||wagon (m) towarowy                             |||
+цистерна                            |||cysterna (f)                                   |||
+грузовик                            |||ciężarówka (f)                                 |||
+станок                              |||obrabiarka (f)                                 |||
+механизм                            |||mechanizm (m)                                  |||
+отходы                              |||odpady (pl)                                    |||
+упаковка (действие)                 |||pakowanie (n)                                  |||
+упаковать                           |||zapakować                                      |||
+контракт                            |||kontrakt (m)                                   |||
+соглашение                          |||umowa (f)                                      |||
+приложение                          |||załącznik (m)                                  |||
+заключить контракт                  |||zawrzeć kontrakt                               |||
+подпись                             |||podpis (m)                                     |||
+подписать                           |||podpisać                                       |||
+печать (на документе)               |||pieczęć (f)                                    |||
+предмет договора                    |||przedmiot (m) umowy                            |||
+пункт (договора)                    |||punkt (m)                                      |||
+стороны                             |||strony (pl)                                    |||
+юридический адрес                   |||adres (m) prawny                               |||
+нарушить контракт                   |||naruszyć kontrakt                              |||
+обязательство                       |||zobowiązanie (n)                               |||
+ответственность                     |||odpowiedzialność (f)                           |||
+форс-мажор                          |||siła (f) wyższa                                |||
+спор                                |||spór (m)                                       |||
+штрафные санкции                    |||sankcje (pl) karne                             |||
+импорт                              |||import (m)                                     |||
+импортёр                            |||importer (m)                                   |||
+импортировать                       |||importować                                     |||
+импортный                           |||importowany                                    |||
+экспортёр                           |||eksporter (m)                                  |||
+экспортировать                      |||eksportować                                    |||
+товар                               |||towar (m)                                      |||
+партия (груза)                      |||partia (f) towaru                              |||
+вес                                 |||waga (f)                                       |||
+объём                               |||objętość (f)                                   |||
+кубический метр                     |||metr (m) sześcienny                            |||
+производитель                       |||producent (m)                                  |||
+транспортная компания               |||firma (f) transportowa                         |||
+контейнер                           |||kontener (m)                                   |||
+граница                             |||granica (f)                                    |||
+таможня                             |||urząd (m) celny                                |||
+таможенная пошлина                  |||cło (n)                                        |||
+таможенник                          |||celnik (m)                                     |||
+контрабанда (действия)              |||przemyt (m)                                    |||
+контрабанда (товары)                |||kontrabanda (f)                                |||
+акция                               |||akcja (f)                                      |||
+облигация                           |||obligacja (f)                                  |||
+вексель                             |||weksel (m)                                     |||
+биржа                               |||giełda (f) finansowa                           |||
+курс акций                          |||notowania (pl) akcji                           |||
+подешеветь                          |||stanieć                                        |||
+подорожать                          |||zdrożeć                                        |||
+доля, пай                           |||udział (m)                                     |||
+контрольный пакет                   |||pakiet (m) kontrolny                           |||
+инвестиции                          |||inwestycje (pl)                                |||
+инвестировать                       |||inwestować                                     |||
+процент                             |||procent (m)                                    |||
+проценты (доход)                    |||procenty (pl)                                  |||
+прибыль                             |||zysk (m)                                       |||
+прибыльный                          |||dochodowy                                      |||
+налог                               |||podatek (m)                                    |||
+валюта                              |||waluta (f)                                     |||
+национальный                        |||narodowy                                       |||
+обмен                               |||wymiana (f)                                    |||
+бухгалтер                           |||księgowy (m)                                   |||
+бухгалтерия                         |||księgowość (f)                                 |||
+банкротство                         |||bankructwo (n)                                 |||
+крах                                |||krach (m)                                      |||
+разорение                           |||upadłość (f)                                   |||
+разориться                          |||rujnować się                                   |||
+инфляция                            |||inflacja (f)                                   |||
+девальвация                         |||dewaluacja (f)                                 |||
+капитал                             |||kapitał (m)                                    |||
+доход                               |||dochód (m)                                     |||
+оборот                              |||obrót (m)                                      |||
+ресурсы                             |||zasoby (pl)                                    |||
+денежные средства                   |||środki (pl) pieniężne                          |||
+сократить (расходы)                 |||obniżyć                                        |||
+маркетинг                           |||marketing (m)                                  |||
+рынок                               |||rynek (m)                                      |||
+сегмент рынка                       |||segment (m) rynku                              |||
+продукт                             |||produkt (m)                                    |||
+товар                               |||towar (m)                                      |||
+торговая марка                      |||marka (f) handlowa                             |||
+фирменный знак                      |||znak (m) firmowy                               |||
+логотип                             |||logo (n)                                       |||
+спрос                               |||popyt (m)                                      |||
+предложение                         |||podaż (f)                                      |||
+потребность                         |||potrzeba (f)                                   |||
+потребитель                         |||konsument (m)                                  |||
+анализ                              |||analiza (f)                                    |||
+анализировать                       |||analizować                                     |||
+позиционирование                    |||pozycjonowanie (n)                             |||
+позиционировать                     |||pozycjonować                                   |||
+цена                                |||cena (f)                                       |||
+ценовая политика                    |||polityka (f) cenowa                            |||
+ценообразование                     |||kształtowanie (n) cen                          |||
+реклама                             |||reklama (f)                                    |||
+рекламировать                       |||reklamować                                     |||
+бюджет                              |||budżet (m)                                     |||
+реклама (объявление)                |||reklama (f)                                    |||
+телереклама                         |||reklama (f) telewizyjna                        |||
+реклама на радио                    |||reklama (f) radiowa                            |||
+наружная реклама                    |||reklama (f) zewnętrzna                         |||
+масс медиа                          |||środki (pl) masowego przekazu                  |||
+периодическое издание               |||periodyk (m)                                   |||
+имидж                               |||wizerunek (m)                                  |||
+лозунг                              |||slogan (m)                                     |||
+девиз                               |||hasło (n)                                      |||
+кампания (промоушн ~)               |||kampania (f)                                   |||
+рекламная кампания                  |||kampania (f) reklamowa                         |||
+целевая аудитория                   |||odbiorca (m) docelowy                          |||
+визитная карточка                   |||wizytówka (f)                                  |||
+листовка                            |||ulotka (f)                                     |||
+брошюра                             |||broszura (f)                                   |||
+буклет                              |||folder (m)                                     |||
+бюллетень                           |||biuletyn (m)                                   |||
+вывеска                             |||szyld (m)                                      |||
+плакат                              |||plakat (m)                                     |||
+рекламный щит                       |||billboard (m)                                  |||
+банк                                |||bank (m)                                       |||
+отделение                           |||filia (f)                                      |||
+консультант                         |||konsultant (m)                                 |||
+управляющий                         |||kierownik (m)                                  |||
+счёт (в банке)                      |||konto (n)                                      |||
+номер счёта                         |||numer (m) konta                                |||
+текущий счёт                        |||rachunek (m) bieżący                           |||
+накопительный счёт                  |||rachunek (m) oszczędnościowy                   |||
+открыть счёт                        |||założyć konto                                  |||
+закрыть счёт                        |||zamknąć konto                                  |||
+положить на счёт                    |||wpłacić na konto                               |||
+снять со счёта                      |||podjąć z konta                                 |||
+вклад                               |||wkład (m)                                      |||
+сделать вклад                       |||dokonać wpłaty                                 |||
+перевод                             |||przelew (m)                                    |||
+сделать перевод                     |||dokonać przelewu                               |||
+сумма                               |||suma (f)                                       |||
+Сколько? (о деньгах)                |||Ile?                                           |||
+подпись                             |||podpis (m)                                     |||
+подписать                           |||podpisać                                       |||
+кредитная карта                     |||karta (f) kredytowa                            |||
+код                                 |||kod (m)                                        |||
+номер кредитной карты               |||numer (m) karty kredytowej                     |||
+банкомат                            |||bankomat (m)                                   |||
+чек                                 |||czek (m)                                       |||
+выписать чек                        |||wystawić czek                                  |||
+чековая книжка                      |||książeczka (f) czekowa                         |||
+кредит                              |||kredyt (m)                                     |||
+обращаться за кредитом              |||wystąpić o kredyt                              |||
+брать кредит                        |||brać kredyt                                    |||
+предоставлять кредит                |||udzielać kredytu                               |||
+гарантия (залог)                    |||gwarancja (f)                                  |||
+телефон                             |||telefon (m)                                    |||
+мобильный телефон                   |||telefon (m) komórkowy                          |||
+автоответчик                        |||sekretarka (f)                                 |||
+звонить (по телефону)               |||dzwonić                                        |||
+звонок (по телефону)                |||telefon (m)                                    |||
+набрать номер                       |||wybrać numer                                   |||
+Алло!                               |||Halo!                                          |||
+спросить                            |||zapytać                                        |||
+ответить                            |||odpowiedzieć                                   |||
+слышать                             |||słyszeć                                        |||
+хорошо                              |||dobrze                                         |||
+плохо                               |||źle                                            |||
+помехи                              |||zakłócenia (pl)                                |||
+трубка (телефонная)                 |||słuchawka (f)                                  |||
+снять трубку                        |||podnieść słuchawkę                             |||
+положить трубку                     |||odłożyć słuchawkę                              |||
+занятый (о линии)                   |||zajęty                                         |||
+звонить (о телефоне)                |||dzwonić                                        |||
+телефонная книга                    |||książka (f) telefoniczna                       |||
+местный (звонок)                    |||miejscowy                                      |||
+междугородний                       |||międzymiastowy                                 |||
+международный                       |||międzynarodowy                                 |||
+мобильный телефон                   |||telefon (m) komórkowy                          |||
+дисплей                             |||wyświetlacz (m)                                |||
+кнопка                              |||klawisz (m)                                    |||
+SIM-карта                           |||karta (f) SIM                                  |||
+батарея                             |||bateria (f)                                    |||
+разрядиться                         |||rozładować się                                 |||
+зарядное устройство                 |||ładowarka (f)                                  |||
+меню                                |||menu (n)                                       |||
+настройки                           |||ustawienia (pl)                                |||
+мелодия                             |||melodia (f)                                    |||
+выбрать                             |||wybrać                                         |||
+калькулятор                         |||kalkulator (m)                                 |||
+автоответчик                        |||sekretarka (f)                                 |||
+будильник                           |||budzik (m)                                     |||
+телефонная книга                    |||kontakty (pl)                                  |||
+SMS-сообщение                       |||SMS (m)                                        |||
+абонент                             |||abonent (m)                                    |||
+шариковая ручка                     |||długopis (m)                                   |||
+перьевая ручка                      |||pióro (n)                                      |||
+карандаш                            |||ołówek (m)                                     |||
+маркер                              |||marker (m)                                     |||
+фломастер                           |||flamaster (m)                                  |||
+блокнот                             |||notes (m)                                      |||
+ежедневник                          |||kalendarz (m)                                  |||
+линейка                             |||linijka (f)                                    |||
+калькулятор                         |||kalkulator (m)                                 |||
+ластик                              |||gumka (f)                                      |||
+кнопка                              |||pinezka (f)                                    |||
+скрепка                             |||spinacz (m)                                    |||
+клей                                |||klej (m)                                       |||
+степлер                             |||zszywacz (m)                                   |||
+дырокол                             |||dziurkacz (m)                                  |||
+точилка                             |||temperówka (f)                                 |||
+анкета                              |||ankieta (f)                                    |||
+билет (входной)                     |||bilet (m)                                      |||
+бланк (фирменный)                   |||formularz (m)                                  |||
+бэдж                                |||plakietka (f)                                  |||
+бюллетень                           |||biuletyn (m)                                   |||
+визитная карточка                   |||wizytówka (f)                                  |||
+водительские права                  |||prawo (n) jazdy                                |||
+таможенная декларация               |||deklaracja (f)                                 |||
+договор                             |||umowa (f)                                      |||
+документ                            |||dokument (m)                                   |||
+завещание (документ)                |||testament (m)                                  |||
+закон                               |||ustawa (f)                                     |||
+записка                             |||notatka (f)                                    |||
+заполнить (~ анкету)                |||wypełnić                                       |||
+запрос                              |||zapytanie (n)                                  |||
+зачеркнуть                          |||skreślić                                       |||
+заявка                              |||zgłoszenie (n)                                 |||
+квитанция                           |||pokwitowanie (n)                               |||
+конституция                         |||konstytucja (f)                                |||
+копия                               |||kopia (f)                                      |||
+накладная                           |||list (m) przewozowy                            |||
+отчёт                               |||sprawozdanie (n)                               |||
+паспорт                             |||paszport (m)                                   |||
+печать (на документе)               |||pieczęć (f)                                    |||
+письмо                              |||list (m)                                       |||
+подлинный (документ)                |||oryginalny                                     |||
+подписать                           |||podpisać                                       |||
+подпись                             |||podpis (m)                                     |||
+предъявлять                         |||okazywać                                       |||
+пригласительный билет               |||zaproszenie (n)                                |||
+приложение (к договору)             |||załącznik (m)                                  |||
+пропуск (документ)                  |||przepustka (f)                                 |||
+разрешение (документ)               |||zezwolenie (n)                                 |||
+рапорт                              |||raport (m)                                     |||
+расписка                            |||weksel (m)                                     |||
+резюме                              |||CV (n), życiorys (m)                           |||
+рукопись                            |||rękopis (m)                                    |||
+сертификат                          |||certyfikat (m)                                 |||
+соглашение                          |||umowa (f)                                      |||
+список                              |||lista (f)                                      |||
+счёт (в бизнесе)                    |||rachunek (m)                                   |||
+счёт (в ресторане)                  |||rachunek (m)                                   |||
+текст                               |||tekst (m)                                      |||
+удостоверение                       |||dowód (m) osobisty                             |||
+чек (банковский)                    |||czek (m)                                       |||
+чек (кассовый)                      |||paragon (m)                                    |||
+экземпляр (документа)               |||egzemplarz (m)                                 |||
+авиакомпания                        |||linie (pl) lotnicze                            |||
+антиквариат                         |||antykwariat (m)                                |||
+аптека                              |||apteka (f)                                     |||
+ателье                              |||atelier (n)                                    |||
+аудиторские услуги                  |||usługi (pl) audytorskie                        |||
+банковский бизнес                   |||bankowość (f)                                  |||
+бар                                 |||bar (m)                                        |||
+бассейн                             |||basen (m)                                      |||
+бизнес-центр                        |||centrum (n) biznesowe                          |||
+бизнес-школа                        |||szkoła (f) biznesu                             |||
+биржа                               |||giełda (f) finansowa                           |||
+бухгалтерские услуги                |||usługi (pl) księgowe                           |||
+ветеринар                           |||weterynarz (m)                                 |||
+вывоз мусора                        |||wywóz (m) śmieci                               |||
+газета                              |||gazeta (f)                                     |||
+арт-галерея                         |||galeria (f) sztuki                             |||
+гостиница                           |||hotel (m)                                      |||
+дизайн                              |||wzornictwo (n)                                 |||
+журнал                              |||czasopismo (n)                                 |||
+издательство                        |||wydawnictwo (n)                                |||
+инвестиции                          |||inwestycje (pl)                                |||
+интернет                            |||Internet (m)                                   |||
+информационное агентство            |||agencja (f) prasowa                            |||
+кадровое агентство                  |||firma (f) rekrutacyjna                         |||
+казино                              |||kasyno (n)                                     |||
+кинотеатр                           |||kino (n)                                       |||
+книжный магазин                     |||księgarnia (f)                                 |||
+кондиционеры                        |||klimatyzatory (pl)                             |||
+консалтинг                          |||konsultacje (f)                                |||
+курьерская служба                   |||usługi (pl) kurierskie                         |||
+лёгкая промышленность               |||przemysł (m) lekki                             |||
+магазин                             |||sklep (m)                                      |||
+мебель                              |||meble (pl)                                     |||
+медицина                            |||medycyna (f)                                   |||
+мороженое                           |||lody (pl)                                      |||
+музей                               |||muzeum (n)                                     |||
+недвижимость                        |||nieruchomość (f)                               |||
+нефть                               |||ropa (f) naftowa                               |||
+ночной клуб                         |||klub (m) nocny                                 |||
+одежда                              |||odzież (f)                                     |||
+охранное агентство                  |||agencja (f) ochrony                            |||
+перевозки                           |||przewozy (pl)                                  |||
+пивоварня                           |||browar (m)                                     |||
+полиграфия                          |||poligrafia (f)                                 |||
+похоронное бюро                     |||zakład (m) pogrzebowy                          |||
+прачечная                           |||pralnia (f)                                    |||
+продукты питания                    |||artykuły (pl) żywnościowe                      |||
+промышленность                      |||przemysł (m)                                   |||
+радио                               |||radio (n)                                      |||
+реклама                             |||reklama (f)                                    |||
+рекламное агентство                 |||agencja (f) reklamowa                          |||
+ресторан                            |||restauracja (f)                                |||
+салон красоты                       |||salon (m) piękności                            |||
+склад                               |||magazyn (m)                                    |||
+спиртные напитки                    |||napoje (pl) alkoholowe                         |||
+спорт                               |||sport (m)                                      |||
+стоматология                        |||stomatologia (f)                               |||
+страхование                         |||ubezpieczenie (n)                              |||
+строительство                       |||budownictwo (n)                                |||
+супермаркет                         |||supermarket (m)                                |||
+театр                               |||teatr (m)                                      |||
+телевидение                         |||telewizja (f)                                  |||
+торговля                            |||handel (m)                                     |||
+торговля по каталогу                |||sprzedaż (f) wysyłkowa                         |||
+туризм                              |||podróż (f)                                     |||
+фармацевтика                        |||farmacja (f)                                   |||
+финансовые услуги                   |||usługi (pl) finansowe                          |||
+химчистка                           |||pralnia (f) chemiczna                          |||
+ювелир                              |||jubiler (m)                                    |||
+ювелирные изделия                   |||wyroby (pl) jubilerskie                        |||
+юридические услуги                  |||usługi (pl) prawne                             |||
+выставка                            |||wystawa (f)                                    |||
+торговая выставка                   |||wystawa (f) handlowa                           |||
+участие                             |||udział (m)                                     |||
+участвовать                         |||uczestniczyć                                   |||
+участник                            |||uczestnik (m)                                  |||
+дирекция, оргкомитет                |||dyrekcja (f)                                   |||
+директор                            |||dyrektor (m)                                   |||
+организатор                         |||organizator (m)                                |||
+организовывать                      |||organizować                                    |||
+заявка на участие                   |||zgłoszenie (n) udziału                         |||
+заполнить (документ)                |||wypełnić                                       |||
+детали (подробности)                |||detale (pl)                                    |||
+информация                          |||informacja (f)                                 |||
+цена                                |||cena (f)                                       |||
+включая                             |||inkluzja                                       |||
+включать (о цене)                   |||wliczać                                        |||
+платить                             |||płacić                                         |||
+регистрационный взнос               |||wpisowe (n)                                    |||
+вход                                |||wejście (n)                                    |||
+павильон                            |||pawilon (m)                                    |||
+регистрировать                      |||rejestrować                                    |||
+бэдж                                |||plakietka (f)                                  |||
+выставочный стенд                   |||stoisko (n)                                    |||
+резервировать (~ стенд)             |||rezerwować                                     |||
+витрина                             |||witryna (f)                                    |||
+светильник                          |||lampka (f)                                     |||
+дизайн                              |||wzornictwo (n)                                 |||
+располагать (размещать)             |||umieszczać                                     |||
+дистрибьютор                        |||dystrybutor (m)                                |||
+поставщик                           |||dostawca (m)                                   |||
+страна                              |||kraj (m)                                       |||
+иностранный                         |||zagraniczny                                    |||
+продукт                             |||produkt (m)                                    |||
+ассоциация                          |||stowarzyszenie (n)                             |||
+конференц-зал                       |||sala (f) konferencyjna                         |||
+конгресс                            |||kongres (m)                                    |||
+конкурс                             |||konkurs (m)                                    |||
+посетитель                          |||zwiedzający (m)                                |||
+посещать                            |||zwiedzać                                       |||
+заказчик                            |||zamawiający (m)                                |||
+газета                              |||gazeta (f)                                     |||
+журнал                              |||czasopismo (n)                                 |||
+пресса                              |||prasa (f)                                      |||
+радио                               |||radio (n)                                      |||
+радиостанция                        |||stacja (f) radiowa                             |||
+телевидение                         |||telewizja (f)                                  |||
+ведущий (ТВ)                        |||prezenter (m)                                  |||
+диктор                              |||spiker (m)                                     |||
+комментатор                         |||komentator (m)                                 |||
+журналист                           |||dziennikarz (m)                                |||
+корреспондент                       |||korespondent (m)                               |||
+фотокорреспондент                   |||fotoreporter (m)                               |||
+репортёр                            |||reporter (m)                                   |||
+редактор                            |||redaktor (m)                                   |||
+главный редактор                    |||redaktor (m) naczelny                          |||
+подписаться (на газету)             |||zaprenumerować                                 |||
+подписка                            |||prenumerata (f)                                |||
+подписчик                           |||prenumerator (m)                               |||
+читать                              |||czytać                                         |||
+читатель                            |||czytelnik (m)                                  |||
+тираж (газеты, журнала)             |||nakład (m)                                     |||
+ежемесячный                         |||comiesięczny                                   |||
+еженедельный                        |||cotygodniowy                                   |||
+номер (журнала)                     |||numer (m)                                      |||
+свежий (напр. журнал)               |||najnowszy                                      |||
+заголовок                           |||nagłówek (m)                                   |||
+заметка (в газете)                  |||notatka (f) prasowa                            |||
+рубрика                             |||rubryka (f)                                    |||
+статья                              |||artykuł (m)                                    |||
+страница                            |||strona (f)                                     |||
+репортаж                            |||reportaż (m)                                   |||
+событие                             |||wydarzenie (n)                                 |||
+сенсация                            |||sensacja (f)                                   |||
+скандал                             |||skandal (m)                                    |||
+скандальный                         |||skandaliczny                                   |||
+громкий (скандал)                   |||głośny                                         |||
+передача (ТВ)                       |||program (m) telewizyjny                        |||
+интервью                            |||wywiad (m)                                     |||
+прямая трансляция                   |||bezpośrednia transmisja (f)                    |||
+канал (вещания)                     |||kanał (m) telewizyjny                          |||
+сельское хозяйство                  |||rolnictwo (n)                                  |||
+крестьянин                          |||rolnik (m)                                     |||
+крестьянка                          |||rolniczka (f)                                  |||
+фермер                              |||farmer (m)                                     |||
+трактор                             |||traktor (m)                                    |||
+комбайн                             |||kombajn (m)                                    |||
+плуг                                |||pług (m)                                       |||
+пахать                              |||orać                                           |||
+пашня                               |||rola (f)                                       |||
+борозда                             |||bruzda (f)                                     |||
+сеять                               |||siać                                           |||
+сеялка                              |||siewnik (m)                                    |||
+посев (действие)                    |||zasiew (m)                                     |||
+коса (орудие)                       |||kosa (f)                                       |||
+косить (траву)                      |||kosić                                          |||
+лопата                              |||łopata (f)                                     |||
+копать (вскапывать)                 |||kopać                                          |||
+тяпка                               |||motyka (f)                                     |||
+полоть                              |||plewić                                         |||
+сорняк                              |||chwast (m)                                     |||
+лейка                               |||konewka (f)                                    |||
+поливать                            |||podlewać                                       |||
+полив                               |||podlewanie (n)                                 |||
+вилы                                |||widły (pl)                                     |||
+грабли                              |||grabie (pl)                                    |||
+удобрение (вещество)                |||nawóz (m)                                      |||
+удобрять                            |||nawozić                                        |||
+навоз                               |||obornik (m)                                    |||
+поле                                |||pole (n)                                       |||
+луг                                 |||łąka (f)                                       |||
+огород                              |||ogród (m)                                      |||
+сад                                 |||sad (m)                                        |||
+пасти (скот)                        |||paść                                           |||
+пастух                              |||pastuch (m)                                    |||
+пастбище                            |||pastwisko (n)                                  |||
+животноводство                      |||hodowla (f) zwierząt                           |||
+овцеводство                         |||hodowla (f) owiec                              |||
+плантация                           |||plantacja (f)                                  |||
+грядка                              |||grządka (f)                                    |||
+парник                              |||inspekt (m)                                    |||
+засуха                              |||susza (f)                                      |||
+засушливый (лето, период)           |||suchy                                          |||
+зерновые (сущ.)                     |||rośliny (pl) zbożowe                           |||
+убирать (урожай)                    |||zbierać plony                                  |||
+мельник                             |||młynarz (m)                                    |||
+мельница                            |||młyn (m)                                       |||
+молоть (зерно)                      |||mleć zboże                                     |||
+мука                                |||mąka (f)                                       |||
+солома                              |||słoma (f)                                      |||
+стройка (место)                     |||budowa (f)                                     |||
+строить                             |||budować                                        |||
+строитель                           |||budowniczy (m)                                 |||
+проект                              |||projekt (m)                                    |||
+архитектор                          |||architekt (m)                                  |||
+рабочий                             |||robotnik (m)                                   |||
+фундамент                           |||fundament (m)                                  |||
+крыша                               |||dach (m)                                       |||
+свая                                |||pal (m)                                        |||
+стена                               |||ściana (f)                                     |||
+арматура                            |||zbrojenie (n)                                  |||
+строительные леса                   |||rusztowanie (n)                                |||
+бетон                               |||beton (m)                                      |||
+гранит                              |||granit (m)                                     |||
+камень                              |||kamień (m)                                     |||
+кирпич                              |||cegła (f)                                      |||
+песок                               |||piasek (m)                                     |||
+цемент                              |||cement (m)                                     |||
+штукатурка                          |||tynk (m)                                       |||
+штукатурить                         |||tynkować                                       |||
+краска                              |||farba (f)                                      |||
+красить                             |||malować                                        |||
+бочка                               |||beczka (f)                                     |||
+строительный кран                   |||dźwig (m)                                      |||
+поднимать                           |||podnosić                                       |||
+опускать                            |||opuszczać                                      |||
+бульдозер                           |||spychacz (m)                                   |||
+экскаватор                          |||koparka (f)                                    |||
+ковш                                |||łyżka (f)                                      |||
+копать (~ котлован)                 |||kopać                                          |||
+каска                               |||kask (m)                                       |||
+наука                               |||nauka (f)                                      |||
+научный                             |||naukowy                                        |||
+учёный                              |||naukowiec (m)                                  |||
+теория                              |||teoria (f)                                     |||
+аксиома                             |||aksjomat (m)                                   |||
+анализ                              |||analiza (f)                                    |||
+анализировать                       |||analizować                                     |||
+аргумент                            |||argument (m)                                   |||
+вещество                            |||substancja (f)                                 |||
+гипотеза                            |||hipoteza (f)                                   |||
+дилемма                             |||dylemat (m)                                    |||
+диссертация                         |||rozprawa (f)                                   |||
+догма                               |||dogmat (m)                                     |||
+доктрина                            |||doktryna (f)                                   |||
+исследование (поиск)                |||badanie (f)                                    |||
+исследовать                         |||badać                                          |||
+контроль (испытания)                |||testowanie (n)                                 |||
+лаборатория                         |||laboratorium (n)                               |||
+метод                               |||metoda (f)                                     |||
+молекула                            |||molekuła (f)                                   |||
+мониторинг                          |||monitorowanie (n)                              |||
+открытие (в науке)                  |||odkrycie (n)                                   |||
+постулат                            |||postulat (m)                                   |||
+принцип                             |||zasada (f)                                     |||
+прогноз                             |||prognoza (f)                                   |||
+прогнозировать                      |||prognozować                                    |||
+синтез                              |||synteza (f)                                    |||
+тенденция                           |||tendencja (f)                                  |||
+теорема                             |||teoremat (m)                                   |||
+учения                              |||nauczanie (n)                                  |||
+факт                                |||fakt (m)                                       |||
+экспедиция                          |||ekspedycja (f)                                 |||
+эксперимент                         |||eksperyment (m)                                |||
+академик                            |||akademik (m)                                   |||
+бакалавр                            |||bakałarz (m)                                   |||
+доктор                              |||doktor (m)                                     |||
+доцент                              |||docent (m)                                     |||
+магистр                             |||magister (m)                                   |||
+профессор                           |||profesor (m)                                   |||
+работа                              |||praca (f)                                      |||
+кадры, штат                         |||etat (m)                                       |||
+карьера                             |||kariera (f)                                    |||
+перспективы                         |||perspektywa (f)                                |||
+мастерство                          |||profesjonalizm (m)                             |||
+подбор                              |||wybór (m)                                      |||
+кадровое агентство                  |||agencja (f) rekrutacyjna                       |||
+резюме                              |||CV (n), życiorys (m)                           |||
+собеседование                       |||rozmowa (f) kwalifikacyjna                     |||
+вакансия                            |||wakat (m)                                      |||
+зарплата                            |||pensja (f)                                     |||
+оклад                               |||stałe wynagrodzenie (n)                        |||
+оплата                              |||opłata (f)                                     |||
+должность                           |||stanowisko (n)                                 |||
+обязанность                         |||obowiązek (m)                                  |||
+круг обязанностей                   |||zakres (m) obowiazkow                          |||
+занятой (о человеке)                |||zajęty                                         |||
+уволить                             |||zwolnić                                        |||
+увольнение                          |||zwolnienie (n)                                 |||
+безработица                         |||bezrobocie (n)                                 |||
+безработный (сущ.)                  |||bezrobotny (m)                                 |||
+пенсия                              |||emerytura (f)                                  |||
+уйти на пенсию                      |||przejść na emeryturę                           |||
+директор                            |||dyrektor (m)                                   |||
+управляющий                         |||kierownik (m)                                  |||
+руководитель, шеф                   |||szef (m)                                       |||
+начальник                           |||kierownik (m)                                  |||
+начальство                          |||kierownictwo (n)                               |||
+президент                           |||prezes (m)                                     |||
+председатель                        |||przewodniczący (m)                             |||
+заместитель                         |||zastępca (m)                                   |||
+помощник                            |||pomocnik (m)                                   |||
+секретарь                           |||sekretarka (f)                                 |||
+личный секретарь                    |||sekretarz (m) osobisty                         |||
+бизнесмен                           |||biznesmen (m)                                  |||
+предприниматель                     |||przedsiębiorca (m)                             |||
+основатель                          |||założyciel (m)                                 |||
+основать                            |||założyć                                        |||
+учредитель                          |||wspólnik (m)                                   |||
+партнёр                             |||partner (m)                                    |||
+акционер                            |||akcjonariusz (m)                               |||
+миллионер                           |||milioner (m)                                   |||
+миллиардер                          |||miliarder (m)                                  |||
+владелец                            |||właściciel (m)                                 |||
+землевладелец                       |||właściciel (m) ziemski                         |||
+клиент                              |||klient (m)                                     |||
+постоянный клиент                   |||stały klient (m)                               |||
+покупатель                          |||kupujący (m)                                   |||
+посетитель                          |||zwiedzający (m)                                |||
+профессионал                        |||profesjonalista (m)                            |||
+эксперт                             |||ekspert (m)                                    |||
+специалист                          |||specjalista (m)                                |||
+банкир                              |||bankier (m)                                    |||
+брокер                              |||broker (m)                                     |||
+кассир                              |||kasjer (m), kasjerka (f)                       |||
+бухгалтер                           |||księgowy (m)                                   |||
+охранник                            |||ochroniarz (m)                                 |||
+инвестор                            |||inwestor (m)                                   |||
+должник                             |||dłużnik (m)                                    |||
+кредитор                            |||kredytodawca (m)                               |||
+заёмщик                             |||pożyczkobiorca (m)                             |||
+импортёр                            |||importer (m)                                   |||
+экспортёр                           |||eksporter (m)                                  |||
+производитель                       |||producent (m)                                  |||
+дистрибьютор                        |||dystrybutor (m)                                |||
+посредник                           |||pośrednik (m)                                  |||
+консультант                         |||konsultant (m)                                 |||
+представитель                       |||przedstawiciel (m)                             |||
+агент                               |||agent (m)                                      |||
+страховой агент                     |||agent (m) ubezpieczeniowy                      |||
+повар                               |||kucharz (m)                                    |||
+шеф-повар                           |||szef (m) kuchni                                |||
+пекарь                              |||piekarz (m)                                    |||
+бармен                              |||barman (m)                                     |||
+официант                            |||kelner (m)                                     |||
+официантка                          |||kelnerka (f)                                   |||
+адвокат                             |||adwokat (m)                                    |||
+юрист                               |||prawnik (m)                                    |||
+нотариус                            |||notariusz (m)                                  |||
+электрик                            |||elektryk (m)                                   |||
+сантехник                           |||hydraulik (m)                                  |||
+плотник                             |||cieśla (m)                                     |||
+массажист                           |||masażysta (m)                                  |||
+массажистка                         |||masażystka (f)                                 |||
+врач                                |||lekarz (m)                                     |||
+таксист                             |||taksówkarz (m)                                 |||
+шофёр                               |||kierowca (m)                                   |||
+курьер                              |||kurier (m)                                     |||
+горничная                           |||pokojówka (f)                                  |||
+охранник                            |||ochroniarz (m)                                 |||
+стюардесса                          |||stewardessa (f)                                |||
+учитель                             |||nauczyciel (m)                                 |||
+библиотекарь                        |||bibliotekarz (m)                               |||
+переводчик                          |||tłumacz (m)                                    |||
+переводчик (устный)                 |||tłumacz (m)                                    |||
+гид (экскурсовод)                   |||przewodnik (m)                                 |||
+парикмахер                          |||fryzjer (m)                                    |||
+почтальон                           |||listonosz (m)                                  |||
+продавец                            |||sprzedawca (m)                                 |||
+садовник                            |||ogrodnik (m)                                   |||
+слуга                               |||służący (m)                                    |||
+служанка                            |||służąca (f)                                    |||
+уборщица                            |||sprzątaczka (f)                                |||
+рядовой                             |||szeregowy (m)                                  |||
+сержант                             |||sierżant (m)                                   |||
+лейтенант                           |||podporucznik (m)                               |||
+капитан                             |||kapitan (m)                                    |||
+майор                               |||major (m)                                      |||
+полковник                           |||pułkownik (m)                                  |||
+генерал                             |||generał (m)                                    |||
+маршал                              |||marszałek (m)                                  |||
+адмирал                             |||admirał (m)                                    |||
+военный                             |||wojskowy (m)                                   |||
+солдат                              |||żołnierz (m)                                   |||
+офицер                              |||oficer (m)                                     |||
+командир                            |||dowódca (m)                                    |||
+пограничник                         |||pogranicznik (m)                               |||
+радист                              |||radiooperator (m)                              |||
+разведчик                           |||zwiadowca (m)                                  |||
+сапёр                               |||saper (m)                                      |||
+стрелок                             |||strzelec (m)                                   |||
+штурман                             |||nawigator (m)                                  |||
+король                              |||król (m)                                       |||
+королева                            |||królowa (f)                                    |||
+принц                               |||książę (m)                                     |||
+принцесса                           |||księżniczka (f)                                |||
+царь                                |||car (m)                                        |||
+царица                              |||caryca (f)                                     |||
+президент                           |||prezydent (m)                                  |||
+министр                             |||minister (m)                                   |||
+премьер-министр                     |||premier (m)                                    |||
+сенатор                             |||senator (m)                                    |||
+дипломат                            |||dyplomata (m)                                  |||
+консул                              |||konsul (m)                                     |||
+посол                               |||ambasador (m)                                  |||
+советник                            |||doradca (m)                                    |||
+чиновник                            |||pracownik (m)                                  |||
+префект                             |||burmistrz (m) dzielnicy                        |||
+мэр                                 |||mer (m)                                        |||
+судья                               |||sędzia (m)                                     |||
+прокурор                            |||prokurator (m)                                 |||
+миссионер                           |||misjonarz (m)                                  |||
+монах                               |||zakonnik (m)                                   |||
+аббат                               |||opat (m)                                       |||
+раввин                              |||rabin (m)                                      |||
+визирь                              |||wezyr (m)                                      |||
+шах                                 |||szach (m)                                      |||
+шейх                                |||szejk (m)                                      |||
+пчеловод                            |||pszczelarz (m)                                 |||
+пастух                              |||pastuch (m)                                    |||
+агроном                             |||agronom (m)                                    |||
+животновод                          |||hodowca (m) zwierząt                           |||
+ветеринар                           |||weterynarz (m)                                 |||
+фермер                              |||farmer (m)                                     |||
+винодел                             |||winiarz (m)                                    |||
+зоолог                              |||zoolog (m)                                     |||
+ковбой                              |||kowboj (m)                                     |||
+актёр                               |||aktor (m)                                      |||
+актриса                             |||aktorka (f)                                    |||
+певец                               |||śpiewak (m)                                    |||
+певица                              |||śpiewaczka (f)                                 |||
+танцор                              |||tancerz (m)                                    |||
+танцовщица                          |||tancerka (f)                                   |||
+артист                              |||artysta (m)                                    |||
+артистка                            |||artystka (f)                                   |||
+музыкант                            |||muzyk (m)                                      |||
+пианист                             |||pianista (m)                                   |||
+гитарист                            |||gitarzysta (m)                                 |||
+дирижёр                             |||dyrygent (m)                                   |||
+композитор                          |||kompozytor (m)                                 |||
+импресарио                          |||impresario (m)                                 |||
+режиссёр                            |||reżyser (m)                                    |||
+продюсер                            |||producent (m)                                  |||
+сценарист                           |||scenarzysta (m)                                |||
+критик                              |||krytyk (m)                                     |||
+писатель                            |||pisarz (m)                                     |||
+поэт                                |||poeta (m)                                      |||
+скульптор                           |||rzeźbiarz (m)                                  |||
+художник                            |||malarz (m)                                     |||
+жонглёр                             |||żongler (m)                                    |||
+клоун                               |||klown (m)                                      |||
+акробат                             |||akrobata (m)                                   |||
+фокусник                            |||sztukmistrz (m)                                |||
+врач                                |||lekarz (m)                                     |||
+медсестра                           |||pielęgniarka (f)                               |||
+психиатр                            |||psychiatra (m)                                 |||
+стоматолог                          |||dentysta (m)                                   |||
+хирург                              |||chirurg (m)                                    |||
+астронавт                           |||astronauta (m)                                 |||
+астроном                            |||astronom (m)                                   |||
+водитель                            |||kierowca (m)                                   |||
+машинист                            |||maszynista (m)                                 |||
+механик                             |||mechanik (m)                                   |||
+шахтёр                              |||górnik (m)                                     |||
+рабочий                             |||robotnik (m)                                   |||
+слесарь                             |||ślusarz (m)                                    |||
+столяр                              |||stolarz (m)                                    |||
+токарь                              |||tokarz (m)                                     |||
+строитель                           |||budowniczy (m)                                 |||
+сварщик                             |||spawacz (m)                                    |||
+профессор                           |||profesor (m)                                   |||
+архитектор                          |||architekt (m)                                  |||
+историк                             |||historyk (m)                                   |||
+учёный                              |||naukowiec (m)                                  |||
+физик                               |||fizyk (m)                                      |||
+химик                               |||chemik (m)                                     |||
+археолог                            |||archeolog (m)                                  |||
+геолог                              |||geolog (m)                                     |||
+исследователь                       |||badacz (m)                                     |||
+няня                                |||opiekunka (f) do dziecka                       |||
+учитель, педагог                    |||pedagog (m)                                    |||
+редактор                            |||redaktor (m)                                   |||
+главный редактор                    |||redaktor (m) naczelny                          |||
+корреспондент                       |||korespondent (m)                               |||
+машинистка                          |||maszynistka (f)                                |||
+дизайнер                            |||projektant (m)                                 |||
+компьютерщик                        |||komputerowiec (m)                              |||
+программист                         |||programista (m)                                |||
+инженер                             |||inżynier (m)                                   |||
+моряк                               |||marynarz (m)                                   |||
+матрос                              |||marynarz (m)                                   |||
+спасатель                           |||ratownik (m)                                   |||
+пожарный                            |||strażak (m)                                    |||
+полицейский                         |||policjant (m)                                  |||
+сторож                              |||stróż (m)                                      |||
+сыщик                               |||detektyw (m)                                   |||
+таможенник                          |||celnik (m)                                     |||
+телохранитель                       |||ochroniarz (m)                                 |||
+охранник (в тюрьме)                 |||nadzorca (m)                                   |||
+инспектор                           |||inspektor (m)                                  |||
+спортсмен                           |||sportowiec (m)                                 |||
+тренер                              |||trener (m)                                     |||
+мясник                              |||rzeźnik (m)                                    |||
+сапожник                            |||szewc (m)                                      |||
+коммерсант                          |||handlowiec (m)                                 |||
+грузчик                             |||ładowacz (m)                                   |||
+модельер                            |||projektant (m) mody                            |||
+модель (манекенщица)                |||modelka (f)                                    |||
+школьник                            |||uczeń (m)                                      |||
+студент                             |||student (m)                                    |||
+философ                             |||filozof (m)                                    |||
+экономист                           |||ekonomista (m)                                 |||
+изобретатель                        |||wynalazca (m)                                  |||
+безработный (сущ.)                  |||bezrobotny (m)                                 |||
+пенсионер                           |||emeryt (m)                                     |||
+шпион                               |||szpieg (m)                                     |||
+заключённый                         |||więzień (m)                                    |||
+забастовщик                         |||strajkujący (m)                                |||
+бюрократ                            |||biurokrata (m)                                 |||
+путешественник                      |||podróżnik (m)                                  |||
+гомосексуалист                      |||homoseksualista (m)                            |||
+хакер                               |||haker (m)                                      |||
+бандит                              |||bandyta (m)                                    |||
+наёмный убийца                      |||płatny zabójca (m)                             |||
+наркоман                            |||narkoman (m)                                   |||
+торговец наркотиками                |||handlarz (m) narkotyków                        |||
+проститутка                         |||prostytutka (f)                                |||
+сутенёр                             |||sutener (m)                                    |||
+колдун                              |||czarodziej (m)                                 |||
+колдунья                            |||czarodziejka (f)                               |||
+пират                               |||pirat (m)                                      |||
+раб                                 |||niewolnik (m)                                  |||
+самурай                             |||samuraj (m)                                    |||
+дикарь                              |||dzikus (m)                                     |||
+спортсмен                           |||sportowiec (m)                                 |||
+вид спорта                          |||rodzaj (m) sportu                              |||
+баскетбол                           |||koszykówka (f)                                 |||
+баскетболист                        |||koszykarz (m)                                  |||
+бейсбол                             |||baseball (m)                                   |||
+бейсболист                          |||bejsbolista (m)                                |||
+футбол                              |||piłka (f) nożna                                |||
+футболист                           |||piłkarz (m)                                    |||
+вратарь                             |||bramkarz (m)                                   |||
+хоккей                              |||hokej (m)                                      |||
+хоккеист                            |||hokeista (m)                                   |||
+волейбол                            |||siatkówka (f)                                  |||
+волейболист                         |||siatkarz (m)                                   |||
+бокс                                |||boks (m)                                       |||
+боксёр                              |||bokser (m)                                     |||
+борьба                              |||zapasy (pl)                                    |||
+борец                               |||zapaśnik (m)                                   |||
+карате                              |||karate (n)                                     |||
+каратист                            |||karateka (m)                                   |||
+дзюдо                               |||judo (n)                                       |||
+дзюдоист                            |||judoka (m)                                     |||
+теннис                              |||tenis (m)                                      |||
+теннисист                           |||tenisista (m)                                  |||
+плавание                            |||pływanie (n)                                   |||
+пловец                              |||pływak (m)                                     |||
+фехтование                          |||szermierka (f)                                 |||
+фехтовальщик                        |||szermierz (m)                                  |||
+шахматы                             |||szachy (pl)                                    |||
+шахматист                           |||szachista (m)                                  |||
+альпинизм                           |||alpinizm (m)                                   |||
+альпинист                           |||alpinista (m)                                  |||
+бег                                 |||bieganie (m)                                   |||
+бегун                               |||biegacz (m)                                    |||
+лёгкая атлетика                     |||lekkoatletyka (f)                              |||
+атлет                               |||lekkoatleta (m)                                |||
+конный спорт                        |||jeździectwo (n)                                |||
+наездник                            |||jeździec (m)                                   |||
+фигурное катание                    |||łyżwiarstwo (n) figurowe                       |||
+фигурист                            |||łyżwiarz (m) figurowy                          |||
+фигуристка                          |||łyżwiarka (f) figurowa                         |||
+тяжёлая атлетика                    |||podnoszenie (n) ciężarów                       |||
+автогонки                           |||wyścigi (pl) samochodowe                       |||
+гонщик                              |||kierowca (m) wyścigowy                         |||
+велоспорт                           |||kolarstwo (n)                                  |||
+велосипедист                        |||kolarz (m)                                     |||
+прыжки в длину                      |||skoki (pl) w dal                               |||
+прыжки с шестом                     |||skoki (pl) o tyczce                            |||
+прыгун                              |||skoczek (m)                                    |||
+американский футбол                 |||futbol (m) amerykański                         |||
+бадминтон                           |||badminton (m)                                  |||
+биатлон                             |||biathlon (m)                                   |||
+бильярд                             |||bilard (m)                                     |||
+бобслей                             |||bobsleje (pl)                                  |||
+бодибилдинг                         |||kulturystyka (f)                               |||
+водное поло                         |||piłka (f) wodna                                |||
+гандбол                             |||piłka (f) ręczna                               |||
+гольф                               |||golf (m)                                       |||
+гребля                              |||wioślarstwo (n)                                |||
+дайвинг                             |||nurkowanie (n)                                 |||
+лыжные гонки                        |||biegi (pl) narciarskie                         |||
+настольный теннис                   |||tenis (m) stołowy                              |||
+парусный спорт                      |||żeglarstwo (n)                                 |||
+ралли                               |||rajd (m)                                       |||
+регби                               |||rugby (n)                                      |||
+сноуборд                            |||snowboard (m)                                  |||
+стрельба из лука                    |||łucznictwo (n)                                 |||
+штанга                              |||sztanga (f)                                    |||
+гантели                             |||hantle (pl)                                    |||
+тренажёр                            |||trenażer (m)                                   |||
+велотренажёр                        |||trenażer (m) rowerowy                          |||
+беговая дорожка                     |||bieżnia (f)                                    |||
+перекладина                         |||drążek (m)                                     |||
+брусья                              |||poręcze (pl)                                   |||
+конь                                |||koń (m) gimnastyczny                           |||
+мат                                 |||mata (f)                                       |||
+аэробика                            |||aerobik (m)                                    |||
+йога                                |||joga (f)                                       |||
+хоккей                              |||hokej (m)                                      |||
+хоккеист                            |||hokeista (m)                                   |||
+играть в хоккей                     |||grać w hokeja                                  |||
+лёд                                 |||lód (m)                                        |||
+шайба                               |||krążek (m)                                     |||
+клюшка                              |||kij (m) hokejowy                               |||
+коньки                              |||łyżwy (pl)                                     |||
+борт                                |||banda (f)                                      |||
+бросок (хокк.)                      |||podanie (n)                                    |||
+вратарь                             |||bramkarz (m)                                   |||
+гол                                 |||bramka (f)                                     |||
+забить гол                          |||strzelić bramkę                                |||
+период (хокк.)                      |||tercja (f)                                     |||
+скамейка запасных                   |||ławka (f) rezerwowych                          |||
+футбол                              |||piłka (f) nożna                                |||
+футболист                           |||piłkarz (m)                                    |||
+играть в футбол                     |||grać w piłkę nożną                             |||
+высшая лига                         |||Ekstraklasa (f)                                |||
+футбольный клуб                     |||klub (m) piłkarski                             |||
+тренер                              |||trener (m)                                     |||

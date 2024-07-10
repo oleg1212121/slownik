@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+    {% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %} - My Webpage</title>
+    {% endblock %}
+</head>
+<body>
+<hr>
+<div id="menu" style="font-size:30px  ">
+    <a href="{{ url_for('index') }}">Главная</a><br>
+    <a href="{{ url_for('words') }}">words</a><br>
+    <a href="{{ url_for('training') }}">Тренировка</a><br>
+{#    <a href="{{ url_for('upload_subtitles') }}">upload_subtitles</a><br>#}
+    <a href="{{ url_for('info') }}">INFO</a><br>
+    <a href="{{ url_for('dictionary', status=status or 0) }}">dictionary</a><br>
+</div>
+<hr>
+<div id="content">{% block content %}{% endblock %}</div>
+<div id="footer">
+    {% block footer %}
+        <hr>
+        FOOTER
+        <hr>
+    {% endblock %}
+</div>
+{% block styles %}
+{% endblock %}
+</body>
+</html>

@@ -1,0 +1,48 @@
+{% extends "layout.html" %}
+{% block title %}Index{% endblock %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+{% block content %}
+<h1>{{film[0]}} - {{film[1]}}</h1>
+<hr>
+{%for word in words%}
+{% if not word[0] % 2 %}
+<span class="learn" style="font-size:40px;background-color: #d6f5d6;">{{word[0]}}.{{word[1]}}
+    <span onclick="learn(event, '{{ url_for('known', film=film[0], word=word[0])}}')">Знаю</span></span>
+{% else %}
+<span class="learn" style="font-size:40px;background-color: #ffe6e6;">{{word[0]}}.{{word[1]}}
+    <span onclick="learn(event, '{{ url_for('known', film=film[0], word=word[0])}}')">Знаю</span></span>
+{% endif %}
+
+{%endfor%}
+{% endblock %}
+{% block styles %}
+<script type="text/javascript">
+
+    function learn(e, url){
+        let xhr = new XMLHttpRequest();
+        xhr.open('GET', url);
+        xhr.send();
+        xhr.onload = function() {
+            e.target.closest('.learn').remove();
+        };
+        xhr.onerror = function() {
+          alert("Запрос не удался");
+        };
+    }
+
+
+</script>
+<style type="text/css">
+    .learn > span {
+        color: blue;
+        text-decoration: underline;
+    }
+    .learn > span:hover {
+        cursor:pointer;
+        color: grey;
+        text-decoration: underline red;
+    }
+</style>
+{% endblock %}

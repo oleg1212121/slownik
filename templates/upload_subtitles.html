@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block title %}Index{% endblock %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+{% block content %}
+<form action="{{ url_for('add_words') }}" method=post class=add-words enctype="multipart/form-data">
+    <dl>
+        <dt>File:
+        <dt><input type=file size=30 name=file required>
+        <br><br>
+        <dt>Film name:
+        <dt><input type=text size=30 name=title required>
+        <br><br>
+        <dt><input type=submit value=Upload>
+    </dl>
+</form>
+{% endblock %}
